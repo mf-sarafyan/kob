@@ -1,0 +1,1 @@
+![[sjacademy_map.jpg]]

@@ -1,0 +1,1 @@
+O antigo dono da Tyrant Ship da aventura, que escravizou o pobre do [[Wizpop]].

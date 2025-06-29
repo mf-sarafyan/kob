@@ -1,0 +1,1 @@
+Lorde demônio, um dos príncipes do abismo.
