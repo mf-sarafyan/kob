@@ -43,6 +43,6 @@ Dá pra atacar ARMAS, MODULOS (idk) e MASTROS quanto pilotando um Fighter ship (
 ### Equipamento Espacial Especial
 ***Boomstick***. Aquele pau explosivo do Mad Max! Vc joga e ele cabum. Attack com dex ou str, 1d10 mega fire damage, range 20/60. 
 ***Alchemist's Fire.*** Se vc jogar numa arma ou module, ela pega fogo e fica inutilizável até apagarem (1 turno). Arremessa com dex, se errar ele cai num espaço vizinho e não faz muita coisa. Nao dá mega damage (i guess)
-*Nota - usar esses treco no [[Wildspace, o Mar Astral e as Correntes Astrais#Phlogiston|Phlogiston]] é pedir pra se foder!*
+*Nota - usar esses treco no [[kob/content/1 Keepers' Compendium/Lore/Space Lore/Wildspace, o Mar Astral e as Correntes Astrais#Phlogiston|Phlogiston]] é pedir pra se foder!*
 
 *e outros...........*

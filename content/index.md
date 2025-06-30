@@ -1,7 +1,8 @@
 ---
-title: Welcome to Quartz 4
+title: Keepers' Compendium
 ---
+_Alguns anos atrás, em [[Draconia]], [[Fernspace]], [[Vashet Ólafursdottir]] e seus companheiros encontraram um item mágico curioso: um espelho que podia, com uma palavra de comando, congelar a imagem no que estava aparecendo no momento._
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+_Imbuindo o espelho com melhorias como usos de Sending e Legend Lore, o **Espelho do Conhecimento** se tornou um produto de uso comum entre os Keepers of the Balance, como ferramenta de comunicação e referência bibliográfica entre missões._
 
-See the [official documentation](https://quartz.jzhao.xyz/) for more details.
+_Clique nas pastas à esquerda para explorar seu conteúdo._
