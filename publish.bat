@@ -7,7 +7,7 @@ for /f "tokens=1-5 delims=/:. " %%d in ("%date% %time%") do (
 )
 
 echo Running index generation script...
-node generate-indexes.js
+node generate_indexes.js
 
 REM Add and commit everything
 git add .
