@@ -22,7 +22,7 @@ Chandos is a large water world with thousands of floating islands that often col
 
 **Glyth**
 
-Spelljamming ships known as nautiloids (described in the Astral Adventurer’s Guide) patrol the space within 100 million miles of Glyth and hide behind the planet’s three moons. This is not surprising because [mind flayers](https://www.dndbeyond.com/monsters/17104-mind-flayer) are the undisputed masters of Glyth. The planet’s air smells like it came from a charnel house, but it is not poisonous. The surface of the planet is a desolate wasteland, but beneath the crust is a labyrinth of subterranean caves inhabited by mind flayer colonies.
+Spelljamming ships known as nautiloids (described in the Astral Adventurer’s Guide) patrol the space within 100 million miles of Glyth and hide behind the planet’s three moons. This is not surprising because mind flayers are the undisputed masters of Glyth. The planet’s air smells like it came from a charnel house, but it is not poisonous. The surface of the planet is a desolate wasteland, but beneath the crust is a labyrinth of subterranean caves inhabited by mind flayer colonies.
 
 **Garden**
 
