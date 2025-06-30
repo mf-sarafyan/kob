@@ -6,6 +6,8 @@ for /f "tokens=1-5 delims=/:. " %%d in ("%date% %time%") do (
     set datestamp=%%d-%%e-%%f_%%g-%%h
 )
 
+node generate-indexes.js
+
 REM Add and commit everything
 git add .
 git commit -m "Auto-publish: %datestamp%"

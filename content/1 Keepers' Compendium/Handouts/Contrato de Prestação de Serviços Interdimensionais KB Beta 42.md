@@ -62,9 +62,9 @@ Fica eleito como foro o Tribunal Etéreo de Sigil, sob jurisdição da Senhora d
 Firmam o presente instrumento sob selamento mágico e juramento arcano:
 
 [[Vashet Ólafursdottir]] – Agente Responsável
-[[1 Keepers' Compendium/Player Characters/Rhogar]]
-[[1 Keepers' Compendium/Player Characters/Bad Juju]]
-[[1 Keepers' Compendium/Player Characters/Gizmo]]
-[[1 Keepers' Compendium/Player Characters/Vax]]
-[[1 Keepers' Compendium/Player Characters/Baang]]
+[[Rhogar]]
+[[Bad Juju]]
+[[kob/content/1 Keepers' Compendium/The Crew/Player Characters/Gizmo|Gizmo]]
+[[kob/content/1 Keepers' Compendium/The Crew/Player Characters/Vax|Vax]]
+[[kob/content/1 Keepers' Compendium/The Crew/Player Characters/Baang|Baang]]
 [[Mordenkainen]], o Cinzento – Supervisor Planar-Geral
