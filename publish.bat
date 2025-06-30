@@ -1,4 +1,4 @@
-@echo off
+
 cd /d "%~dp0"  REM This makes sure we run from the script's folder
 
 REM Get the current date and time in a safe format
@@ -6,6 +6,7 @@ for /f "tokens=1-5 delims=/:. " %%d in ("%date% %time%") do (
     set datestamp=%%d-%%e-%%f_%%g-%%h
 )
 
+echo Running index generation script...
 node generate-indexes.js
 
 REM Add and commit everything
