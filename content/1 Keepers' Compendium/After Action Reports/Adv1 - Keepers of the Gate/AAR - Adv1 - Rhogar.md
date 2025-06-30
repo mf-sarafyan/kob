@@ -7,7 +7,7 @@
 Pegar o livro POR QUAISQUER MEIOS NECESSÁRIOS e acionar nosso contato.
 
 #### Equipe
-Agentes [[Rhogar]], [[Bad Juju]], [[AAR - Adv1 - Vax]], [[Player Characters/Gizmo]] e [[Baang]].
+Agentes [[1 Keepers' Compendium/Player Characters/Rhogar]], [[1 Keepers' Compendium/Player Characters/Bad Juju]], [[AAR - Adv1 - Vax]], [[1 Keepers' Compendium/Player Characters/Gizmo]] e [[1 Keepers' Compendium/Player Characters/Baang]].
 
 #### Local
 Baldur's Gate

@@ -15,7 +15,7 @@ race: Gnome
 - [Theme song: The Eternal Wayfarer, Edguy](https://www.youtube.com/watch?v=uj6xxTmeoSA)
 
  Aprendizes
-[[Baang]]. Depois que o jovem genasi tentou roubá-lo, desavisado, Jordal concluiu que ele era a pessoa mais azarada do universo, e decidiu tomá-lo como seu pupilo.
+[[1 Keepers' Compendium/Player Characters/Baang]]. Depois que o jovem genasi tentou roubá-lo, desavisado, Jordal concluiu que ele era a pessoa mais azarada do universo, e decidiu tomá-lo como seu pupilo.
 
 
 ## Chasing the Afterglow

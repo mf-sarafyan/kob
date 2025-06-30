@@ -15,8 +15,8 @@ race: Human
 - [Theme song: Stargazer, Rainbow](https://www.youtube.com/watch?v=YmJIccPWnEk)
 
  Aprendizes
-[[Gizmo]]. A Mãe dele era uma amiga e mentora, apesar do guaxinim não ter nenhuma memória concreta dela.
-[[Vax]].  Ele esquiva o assunto, mas diz que "passou por algo parecido e teve sorte de ter alguém pra ensiná-lo".
+[[1 Keepers' Compendium/Player Characters/Gizmo]]. A Mãe dele era uma amiga e mentora, apesar do guaxinim não ter nenhuma memória concreta dela.
+[[1 Keepers' Compendium/Player Characters/Vax]].  Ele esquiva o assunto, mas diz que "passou por algo parecido e teve sorte de ter alguém pra ensiná-lo".
 
 
 ## Keeper of the Silver Flame

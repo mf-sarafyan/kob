@@ -1,0 +1,1 @@
+Um ogro ciclope aprendendo a conviver na sociedade educada.

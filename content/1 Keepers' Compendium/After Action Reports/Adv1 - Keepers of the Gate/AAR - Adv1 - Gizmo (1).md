@@ -7,7 +7,7 @@
 Eliminar atividades cultistas em Baldur's gate; Recuperar o Não-Necronomicon. 
 
 #### Equipe
-Agentes [[Rhogar]], [[Bad Juju]], [[Vax]], [[Gizmo]] e [[Baang]].
+Agentes [[1 Keepers' Compendium/Player Characters/Rhogar]], [[1 Keepers' Compendium/Player Characters/Bad Juju]], [[1 Keepers' Compendium/Player Characters/Vax]], [[1 Keepers' Compendium/Player Characters/Gizmo]] e [[1 Keepers' Compendium/Player Characters/Baang]].
 #### Local
 Baldo´s Gay
 
@@ -18,7 +18,7 @@ Sem grandes surpresas. Entramos em contato com nossos informantes; investigamos 
 
 O artefato recuperado parece ter grande poder arcano - levando um incompetente sem talento para um ser capaz de matar dezenas de alunos e instrutores razoavelmente competentes. Preciso estudar mais a fundo, ver se eu consigo alavancar esse poder de alguma forma. quem sabe extrair para usar, sem sacrificar minha sanidade, claro.
 
-apesar do que parece intuitivo, [[Rhogar]] não é a melhor pessoa para usar uma arma mágica - ele tende a preferir veículos alternativos para democratizar a violência.
+apesar do que parece intuitivo, [[1 Keepers' Compendium/Player Characters/Rhogar]] não é a melhor pessoa para usar uma arma mágica - ele tende a preferir veículos alternativos para democratizar a violência.
 
 Preciso procurar usos criativos para Maionese em quantidade extensiva.
 

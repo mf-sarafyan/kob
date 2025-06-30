@@ -7,7 +7,7 @@
 Descobrir os planos dos cultistas de Baldurs Gate e recuperar o item que os permite usar as magias que estão usando. 
 
 #### Equipe
-Agentes [[Rhogar]], [[Bad Juju]], [[Vax]], [[Gizmo]] e [[Baang]].
+Agentes [[1 Keepers' Compendium/Player Characters/Rhogar]], [[1 Keepers' Compendium/Player Characters/Bad Juju]], [[1 Keepers' Compendium/Player Characters/Vax]], [[1 Keepers' Compendium/Player Characters/Gizmo]] e [[1 Keepers' Compendium/Player Characters/Baang]].
 
 #### Local
 Baldurs Gate
@@ -20,11 +20,11 @@ Alguns dias depois, um encontro com a líder da Guilda dos Ladrões revelou o pr
 
 Quando chegou a hora de roubar o livro, nos infiltramos na mansão Guthnir. O time estava afiado, o plano era sólido. Claro, deu merda, mas antes disso, segue o esquema:
 
-1. **Tirar Guthnir do salão de festas** (_cortesia de [[Bad JuJu]]_).
+1. **Tirar Guthnir do salão de festas** (_cortesia de [[1 Keepers' Compendium/Player Characters/Bad Juju]]_).
 2. **Fingir ser Guthnir** (minha melhor atuação até hoje).
 3. **[[Vaz]] rouba o livro enquanto invisível e joga na Bag of Holding**.
-4. **[[Gizmo]] limpa a mesa de armadilhas**.
-5. **[[Rhogar]] encheu a cara.**
+4. **[[1 Keepers' Compendium/Player Characters/Gizmo]] limpa a mesa de armadilhas**.
+5. **[[1 Keepers' Compendium/Player Characters/Rhogar]] encheu a cara.**
 
 O livro era nosso, mas fomos descobertos. A batalha que se seguiu foi brutal, de longe a mais insana até agora. Cultistas, armadilhas, magias — o inferno inteiro parecia ter se soltado dentro daquela mansão. Mas saímos por cima. No final, foi minha adaga que encerrou a história do patriarca Guthnir — direto no olho.
 

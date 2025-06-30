@@ -13,7 +13,7 @@ race: Dragonborn
 - Tem uma Garrafa de Café Infinito
 - Óculos com brilho de vilão de anime
 Aprendizes
-[[Rhogar]]. Seu pequeno experimento favorito.
+[[1 Keepers' Compendium/Player Characters/Rhogar]]. Seu pequeno experimento favorito.
 
 ## Lillix Finescale
 Lily foi abençoada com o sangue caótico de feiticeira e uma mente implacável de cientista. Aventureira e empirista desde jovem, seu campo de pesquisa é sua própria magia - e seu método sempre foi se colocar em situações extremas ou inusitadas para coletar dados. 

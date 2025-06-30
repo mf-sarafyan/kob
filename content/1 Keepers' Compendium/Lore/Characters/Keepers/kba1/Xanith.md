@@ -14,7 +14,7 @@ race: Githzerai
 - [Theme song: Of Dust, Pain of Salvation](https://www.youtube.com/watch?v=Ef_qNCq92AA)
 
 Aprendizes
-[[Bad Juju]]. Ele vê o chamado imenso ao Caos como uma oportunidade de guiar e ensinar sobre verdadeiro equilíbrio.
+[[1 Keepers' Compendium/Player Characters/Bad Juju]]. Ele vê o chamado imenso ao Caos como uma oportunidade de guiar e ensinar sobre verdadeiro equilíbrio.
 
 ## The Road Less Traveled
 Xan é um Githzerai: raça-irmã dos Githyanki. Ambas descendem dos gith, originalmente escravos de devoradores de mentes; depois de se rebelar e conquistar sua liberdade, os gith guerrearam entre si por diferenças filosóficas e ideológicas. Os githyanki, mais militaristas, venceram e permaneceram no Plano Astral; os Githzerai, mais espiritualistas, foram exilados para o Plano do Caos Eternamente Mutável do Limbo. 
