@@ -2,6 +2,7 @@
 title: "The Crew"
 ---
 
+- [[Betsy]]
 - [[Krik'Lit]]
 - [[Kurrzot]]
 - [[Leron Guthmere]]

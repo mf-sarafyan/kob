@@ -11,4 +11,4 @@ Um personagem capaz de magia também pode emitir um **chamado de socorro** gasta
 
 Existe uma Frequência Cósmica Universal Padrão (SCUF) para fazer contato ao encontrar uma embarcação desconhecida; mas nunca se sabe quem mais está ouvindo. 
 
-Organizações espaciais costumam ter suas frequências secretas e mudá-las com (welp) frequência. 
+Organizações espaciais costumam ter suas frequências secretas e mudá-las com (!) frequência. 
