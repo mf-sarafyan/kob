@@ -15,4 +15,4 @@ O piloto pode usar uma ação pra ativar um desses apetrechos:
 - **The Blowhole:** Ativa exaustores pra criar uma cortina de fumaça de 1sq em volta da nave ou do Helm (sua escolha), como se fosse uma Fog Cloud. 
 
 
-![[dnh1ofwj.png]]
+![[dnh1ofwj.png|300]]

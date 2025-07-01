@@ -63,15 +63,17 @@ Locais específicos:
 ![[Helm of the Cetacean Queen]]
 ![[Hull of Theseus]]
 
-**Vintage Astrolabe.**
+>**Vintage Astrolabe.**
 Esses sistemas, hoje em dia, são ilusórios; o da Betsy é completamente mecânico. Na sala da torre de popa, acima do hangar, fica essa monstruosidade da engenharia: um modelo de esferas concêntricas ajustáveis que representam um sistema de Wildspace. Ele pode ler mapas estrelares para se pré-ajustar a um sistema conhecido, ou, com muita dedicação, ser configurado manualmente a partir da observação dos astros. 
 Felizmente, ele também tem um modo de Mar Astral, mostrando a posição de esferas próximas.
-**Velas.**
+
+>**Velas.**
 Custando duas ações, as velas podem ser ajustadas a favor de mobilidade ou velocidade.
-- **Furled.** Your ship loses 500 ft. speed, but gains 45o maneuverability to a maximum of 180o.
-- **Course-sail.** Your ship moves at its standard speed and maneuverability.
-- **Full-sail.** Your ship gains 500 ft. speed, but loses 45o maneuverability to a minimum of 0o.
-**Nadadeiras Laterais.**
+**Furled.** Your ship loses 500 ft. speed, but gains 45o maneuverability to a maximum of 180o.
+**Course-sail.** Your ship moves at its standard speed and maneuverability.
+**Full-sail.** Your ship gains 500 ft. speed, but loses 45o maneuverability to a minimum of 0o.
+
+>**Nadadeiras Laterais.**
 Tem remos no convés inferior que conectam com as nadadeiras da Betsy, e fazem ela andar mais rápido. Ninguém sabe se é um sistema mágico, ou se só deixa a Betsy feliz. Um tripulante de cada lado deve usar sua ação pra remar; isso dá mais 500ft de speed pra ela pelo turno. 
 
 ---
