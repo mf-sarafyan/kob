@@ -24,9 +24,9 @@ Depois disso, ainda fomos à delegacia! Não sei como o [[1 Keepers' Compendium/
 
 Por lá, achamos um machado falante de uma cidade chamada Anistia (eu acho) que falou algo sobre machados e eu já estava me distraindo pelo cheiro do lugar. Daí, o [[1 Keepers' Compendium/Player Characters/Rhogar]] puxou um tapete cheio de esporos, e eu espirrei tanto que pensei que ia morrer! Enfim, depois disso, encontramos três guardas e um garoto acorrentado. Resgatamos o menino (com uma leve pancadinha na cabeça), e seguimos para mais corredores fedidos e sujos.
 
-No meio disso tudo, uma mulher chamada [[0 The Unknowable/character/kbb42/Vasilisa Vathampur]] (Vaaz) nos ajudou. Ela parecia meio revoltada, mas foi até legal! Falou que ia ajudar na nossa missão. Mais tarde, ela nos contou sobre uma festa onde o tal do livro que procurávamos ia estar.  Então, fomos à festa. Lógico que a coisa não seria simples: o anfitrião virou um demonão horrível e deu uma surra na [[1 Keepers' Compendium/Player Characters/Bad Juju]], mas nós demos um jeito!
+No meio disso tudo, uma mulher chamada [[0 The Unknowable/character/Keepers/kbb42/Vasilisa Vathampur]] (Vaaz) nos ajudou. Ela parecia meio revoltada, mas foi até legal! Falou que ia ajudar na nossa missão. Mais tarde, ela nos contou sobre uma festa onde o tal do livro que procurávamos ia estar.  Então, fomos à festa. Lógico que a coisa não seria simples: o anfitrião virou um demonão horrível e deu uma surra na [[1 Keepers' Compendium/Player Characters/Bad Juju]], mas nós demos um jeito!
 
-Achei o livro!!! Keeper of Whiskers, e é o melhor livro de todos! Consegui conversar com a entidade dele, eu tava com medo no começo mas ela é super gente boa! E, no fim, foi super legal: a entidade do livro ajudou até a cultista encontrar a namorada dela, falou com a [[0 The Unknowable/character/kbb42/Vasilisa Vathampur]] que disse que vai melhorar e até teve paciência de ouvir o [[0 The Unknowable/character/kbb42/Leron Guthmere]] (nosso novo amigo que encontramos numa geladeira, mas essa parte foi menos divertida, só aceita).
+Achei o livro!!! Keeper of Whiskers, e é o melhor livro de todos! Consegui conversar com a entidade dele, eu tava com medo no começo mas ela é super gente boa! E, no fim, foi super legal: a entidade do livro ajudou até a cultista encontrar a namorada dela, falou com a [[0 The Unknowable/character/Keepers/kbb42/Vasilisa Vathampur]] que disse que vai melhorar e até teve paciência de ouvir o [[0 The Unknowable/character/Keepers/kbb42/Leron Guthmere]] (nosso novo amigo que encontramos numa geladeira, mas essa parte foi menos divertida, só aceita).
 
 ### Aprendizados Relevantes
 Não ficar no ombro do [[1 Keepers' Compendium/Player Characters/Rhogar]]. 
@@ -37,5 +37,5 @@ Vinho é azedo.
 Os vatampur ~~são~~ eram do mal. Teve um lugar que sumiu e tinham pessoas migrando para [[Baldurs Gate]].
 
 ### Conclusão
-O Keeper of Whiskers é nosso. O cultistas foram desmontados. Uma das lideres dos cultitas virou nossa amiga ([[0 The Unknowable/character/kbb42/Vasilisa Vathampur]]) e outra voltou com a namorada que era o motivo dela estar fazendo maldades.
+O Keeper of Whiskers é nosso. O cultistas foram desmontados. Uma das lideres dos cultitas virou nossa amiga ([[0 The Unknowable/character/Keepers/kbb42/Vasilisa Vathampur]]) e outra voltou com a namorada que era o motivo dela estar fazendo maldades.
 Sucesso!!

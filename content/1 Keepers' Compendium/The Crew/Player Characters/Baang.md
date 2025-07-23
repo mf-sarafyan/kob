@@ -3,7 +3,6 @@ race: Air Genasi
 class: Rogue
 height: 1,70m
 ---
-
 ![[Baang.jpg]]
 
 ## História

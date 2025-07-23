@@ -3,14 +3,15 @@
 _Classe Tradesman personalizada — 35 toneladas_
 
 ---
-## Betsy
+
+>**Betsy**
 _Human Sloop (1x1)_
 **Armor Class** 15
 **Hull Points** 105
 **Bulwark Points** 16
 **Tactical Speed** 2,500ft (90°)
 **Crew (min/max)** 10/25
-**Cargo Hold** 10 tons
+**Cargo Hold** 15 tons
 **Days of Air** 3,000
 **Landing** Sea
 **Fore Mantle** Ram
@@ -27,16 +28,17 @@ A lenda diz que Betsy detém o recorde de materiais diferentes usados em sua con
 
 Betsy tem dois deques principais:
 - **Deck superior**, que além do deque ao ar livre onde ficam os mastros, tem castelos de proa (a proa é a frente) (esse castelo é uma sala dentro carinha de baleia com janelas nos olhinhos) e o castelo de popa (essa é a traseira) (é a casinha no rabinho dela). 
-- **Deck inferior**, debaixo deste, acessível por escadas, onde fica a maior parte dos aposentos, salas de convivência, e a acesso ao Canhão Arcano. 
-Locais específicos:
+- **Deck médio**, debaixo do primeiro; onde costumavam ficar a maior parte das salas de convivência, carga, e acesso ao Canhão Arcano. 
+- **Deck inferior**, ainda abaixo, onde costumavam ficar os apostendos da tripulação, e acesso ao deck reverso para levar mais carga. 
+
+Outros locais específicos:
 - **Torre de popa**: O primeiro andar tem um portão ativável e abriga um **hangar de caças**, projetado para armazenar, manter e lançar duas naves. O segundo andar tem o **sistema de navegação** (um astrolábio mágico enorme); em cima dele tem uma ballista (com uma janelinha no rabo pra atirar através), e acesso à gávea mais acima. 
 - **Torre de proa:** a **sala de comando** fica na frente do deque superior; é um dos lugares onde costuma ficar o Leme. Tem uma mesa central onde os oficiais costumavam se reunir, e o **Cosmic Comms System** (abaixo). Em cima da sala ficam os dois canhões.
-- **Deck reverso:** debaixo do deck inferior, junto à quilha, tem quase uns "armários de chão" pra guardar provisões e loots sortidos. 
-- **Sala do canhão:** o Canhão Arcano é a arma mais pesada da nave, projetado pra ser usado por um conjurador: ele amplifica, canaliza e dispara a energia mágica imbuída pelo atirador. Ele é enorme! E montado em um trilho. Normalmente, ele fica guardado pra dentro; uma alavanca (pesada, que precisa de uma ação pra ativar) abre a boca da Betsy e coloca ele pra fora. 
+- **Deck reverso:** debaixo do deck inferior, junto à quilha, tem quase uns "armários de chão" expandidos como _bags of holding_ pra guardar provisões e loots sortidos. 
+- **Sala do canhão:** o Canhão Arcano é a arma mais pesada da nave, projetado pra ser usado por um conjurador: ele amplifica, canaliza e dispara a energia mágica imbuída pelo atirador. Ele é enorme! Montado em um trilho, operado com um orbe, e cercado de círculos de conjuração. Normalmente, ele fica guardado pra dentro; uma alavanca (pesada, que precisa de uma ação pra ativar) abre a boca da Betsy e coloca ele pra fora. 
 > Reminder: quando eu coloco "uma ação" (ou mais) nas coisas, a idéia é que ela seja tomada um membro da crew ajudando os PCs.
 
 ----
-
 ## Armamentos
 
 - **Dois Canhões de 12 libras (frente):** Armas de fogo pesadas montadas em cima do castelo de proa (em cima da cabeça da baleinha). 
@@ -56,7 +58,6 @@ Locais específicos:
 - **Portas de Lançamento:** Suporta dois caças pequenos. Abre ou fecha com uma ação. 
 
 ---
-
 ## Sistemas Especiais
 
 ![[Cosmic Communication System]]
@@ -68,13 +69,16 @@ Esses sistemas, hoje em dia, são ilusórios; o da Betsy é completamente mecân
 Felizmente, ele também tem um modo de Mar Astral, mostrando a posição de esferas próximas.
 
 >**Velas.**
-Custando duas ações, as velas podem ser ajustadas a favor de mobilidade ou velocidade.
+Custando quatro ações, as velas podem ser ajustadas a favor de mobilidade ou velocidade.
 **Furled.** Your ship loses 500 ft. speed, but gains 45o maneuverability to a maximum of 180o.
 **Course-sail.** Your ship moves at its standard speed and maneuverability.
 **Full-sail.** Your ship gains 500 ft. speed, but loses 45o maneuverability to a minimum of 0o.
 
 >**Nadadeiras Laterais.**
-Tem remos no convés inferior que conectam com as nadadeiras da Betsy, e fazem ela andar mais rápido. Ninguém sabe se é um sistema mágico, ou se só deixa a Betsy feliz. Um tripulante de cada lado deve usar sua ação pra remar; isso dá mais 500ft de speed pra ela pelo turno. 
+Tem remos no convés inferior que conectam com as nadadeiras da Betsy, e fazem ela andar mais rápido. Ninguém sabe se é um sistema mágico, ou se só deixa a Betsy feliz. 2 tripulantes de cada lado deve usar sua ação pra remar; isso dá mais 500ft de speed pra ela pelo turno. 
+
+Total de crew: 8 (canhões) + 1 (ballista) + 2 (canhãozão) + 4 (velas) + 4 (remos) = 19? 
+with 5 officers (14 crew)
 
 ---
 
