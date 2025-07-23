@@ -5,5 +5,5 @@ title: "imgs"
 - [[kob/content/1 Keepers' Compendium/imgs/Untitled]]
 
 <!-- AUTO-LINKS-START -->
-- [[Untitled]]
+- [[kob/content/1 Keepers' Compendium/imgs/Untitled]]
 <!-- AUTO-LINKS-END -->

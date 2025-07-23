@@ -6,10 +6,10 @@
 
 A introdução do livro é escrita pelo próprio [[Mordenkainen]], descrevendo os conteúdos do livro; e ressaltando - **"É de suma importância, contudo, sublinhar que minha avaliação pessoal se distancia sobremaneira da concepção proposta pela autora. Não me alinho à teoria de que "Keeper of Whispers" constitua uma entidade única, visto que tal premissa se revela excessivamente aterradora"**.
 
-O livro é dividido em uma coleção de histórias e outra de rituais e invocações que a autora hipotetiza que sejam sobre a mesma entidade; um patrono que ajuda prestativamente seus contatos até que eles mesmos se levem à ruína. A entidade tem aspectos e ritos de fey, fiend e celestial em momentos diferentes. Há histórias em que a entidade diz ser [[Graz'zt]] ou [[kob/content/1 Keepers' Compendium/Lore/Factions and Characters/Deuses e outras entidades/Fraz-Urb'luu|Fraz-Urb'luu]], mas tem em boa autoridade que as datas não fazem sentido - i.e. épocas que Fraz estava capturado, ou que o próprio Graz'zt lhe negou estar envolvido. 
+O livro é dividido em uma coleção de histórias e outra de rituais e invocações que a autora hipotetiza que sejam sobre a mesma entidade; um patrono que ajuda prestativamente seus contatos até que eles mesmos se levem à ruína. A entidade tem aspectos e ritos de fey, fiend e celestial em momentos diferentes. Há histórias em que a entidade diz ser [[Graz'zt]] ou [[kob/content/1 Keepers' Compendium/wiki/characters/Fraz-Urb'luu|Fraz-Urb'luu]], mas tem em boa autoridade que as datas não fazem sentido - i.e. épocas que Fraz estava capturado, ou que o próprio Graz'zt lhe negou estar envolvido. 
 
 ----
-When [[kob/content/1 Keepers' Compendium/The Crew/Player Characters/Vax|Vax]] reaches the end of the book, new letters appear upon the final blank page. 
+When [[kob/content/1 Keepers' Compendium/wiki/characters/Vax|Vax]] reaches the end of the book, new letters appear upon the final blank page. 
 
 > *Well, my dear little kitty.*
 > Now you know of me. You know the many faces I show. The many masks I wear. What did you think, I wonder.

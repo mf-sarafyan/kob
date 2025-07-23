@@ -64,7 +64,7 @@ Firmam o presente instrumento sob selamento mágico e juramento arcano:
 [[Vashet Ólafursdottir]] – Agente Responsável
 [[Rhogar]]
 [[Bad Juju]]
-[[kob/content/1 Keepers' Compendium/The Crew/Player Characters/Gizmo|Gizmo]]
-[[kob/content/1 Keepers' Compendium/The Crew/Player Characters/Vax|Vax]]
-[[kob/content/1 Keepers' Compendium/The Crew/Player Characters/Baang|Baang]]
+[[kob/content/1 Keepers' Compendium/wiki/characters/Gizmo|Gizmo]]
+[[kob/content/1 Keepers' Compendium/wiki/characters/Vax|Vax]]
+[[kob/content/1 Keepers' Compendium/wiki/characters/Baang|Baang]]
 [[Mordenkainen]], o Cinzento – Supervisor Planar-Geral

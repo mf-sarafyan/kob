@@ -1,7 +1,7 @@
 ---
 type: wondrous item
 rarity: common
-owner: "[[kob/content/1 Keepers' Compendium/The Crew/Player Characters/Vax|Vax]]"
+owner: "[[kob/content/1 Keepers' Compendium/wiki/characters/Vax|Vax]]"
 ---
 
 **Fist of Command**

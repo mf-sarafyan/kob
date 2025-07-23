@@ -1,1 +1,0 @@
-O antigo dono da Tyrant Ship da aventura, que escravizou o pobre do [[kob/content/1 Keepers' Compendium/The Crew/Wizpop]].
