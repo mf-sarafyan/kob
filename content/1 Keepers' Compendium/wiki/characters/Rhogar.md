@@ -4,7 +4,7 @@ class: Barbarian
 height: 2,00m
 origin: Baldur's Gate
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbβ42]]"
   - "[[Bisnes]]"
@@ -25,3 +25,15 @@ Enérgico, expansivo, espalhafatoso, cheio de si. Não é o mais inteligente do 
 ![[Chaos Conduit]]
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

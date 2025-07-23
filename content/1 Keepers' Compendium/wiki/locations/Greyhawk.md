@@ -32,3 +32,31 @@ Greyhawk é um **íman para aventureiros**. Masmorras antigas como a **Dungeon d
 ### 🧭 Importância Multiversal
 
 Na sua campanha Spelljammer, Greyhawk (ou Oerth) é uma esfera clássica do multiverso. Muitos consideram Greyhawk o "mundo base" das aventuras, e é comum que ela funcione como ponto de encontro, partida ou disputa entre forças extraplanares e viajantes intersferiais. É o lar de vários personagens icônicos (Mordenkainen, Iuz, Tenser, Rary) e conflitos lendários como a **Grande Guerra de Greyhawk**.
+
+<!-- DYNAMIC:related-entries -->
+
+## Factions Based Here
+
+ ```dataview
+    TABLE faction_type, alignment
+    WHERE type = "faction" AND location = this.file.link
+    SORT file.name ASC
+ ```
+
+## Sub-Locations
+
+```dataview
+    TABLE location_type
+    WHERE type = "location" AND contains(parent, this.file.link)
+    SORT file.name ASC
+```
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

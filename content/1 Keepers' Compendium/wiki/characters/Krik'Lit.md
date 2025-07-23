@@ -3,9 +3,9 @@ origin: Toril
 class: Carpenter
 race: Thri-Kreen
 type: character
-known_locations: 
+known_locations: []
 factions: "[[kbβ42]]"
-alignment:
+alignment: ""
 ---
 Krik'Lit se apresenta inicialmente como reservada e pensativa; mas a promessa de uma boa fofoca rapidamente faz seus olhos verdes multifacetados brilharem mais que o normal. Ainda assim, ela tem uma atitude profissional e costuma preferir a companhia de suas ferramentas que a bagunça da tripulação. 
 
@@ -15,3 +15,15 @@ Surpreendendo absolutamente ninguém, ela olha para [[Bad Juju]] como maior auto
 
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

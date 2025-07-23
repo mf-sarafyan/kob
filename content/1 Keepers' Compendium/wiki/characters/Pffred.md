@@ -3,7 +3,7 @@ origin: Wildspace
 class: Deckhand
 race: Plasmoid
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbβ42]]"
 alignment: ""
@@ -21,3 +21,15 @@ Por trás do seu Juliete Metafórico, ele é um astroneiro trabalhador e superst
 
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

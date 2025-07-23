@@ -6,7 +6,7 @@ aliases:
   - Juniper Cornucopia
 origin: Baldur's Gate
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbβ42]]"
   - "[[Bisnes]]"
@@ -26,3 +26,15 @@ FIXME @ju
 ![[Anarchic Amplifier]]
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

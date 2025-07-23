@@ -5,7 +5,7 @@ race: Human
 aliases:
   - Vaaz
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbβ42]]"
 alignment: ""
@@ -18,3 +18,15 @@ Filha da família mais influente de [[Baldur's Gate]], ex-líder do culto de Bha
 
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

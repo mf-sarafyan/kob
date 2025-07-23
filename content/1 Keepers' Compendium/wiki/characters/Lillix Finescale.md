@@ -3,7 +3,7 @@ origin: Limbo
 class: Sorcerer, Wizard
 race: Dragonborn
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbα1]]"
 alignment: ""
@@ -18,7 +18,7 @@ alignment: ""
 - Tem uma Garrafa de Café Infinito
 - Óculos com brilho de vilão de anime
 Aprendizes
-[[1 Keepers' Compendium/Player Characters/Rhogar]]. Seu pequeno experimento favorito.
+[[Rhogar]]. Seu pequeno experimento favorito.
 
 ## Lillix Finescale
 Lily foi abençoada com o sangue caótico de feiticeira e uma mente implacável de cientista. Aventureira e empirista desde jovem, seu campo de pesquisa é sua própria magia - e seu método sempre foi se colocar em situações extremas ou inusitadas para coletar dados. 
@@ -29,8 +29,18 @@ Com acesso fácil e constante ao Astral e outras Esferas, seu conhecimento cresc
 Meses depois de um romance tórrido e breve em [[Faerûn]], surgiu um novo e raivoso experimento...
 
 #### Trivia
-É uma parente distante de [[Feirgarae]], a dragão do caos amante de [[kob/content/1 Keepers' Compendium/wiki/characters/Xanith]].
-
-Tem uma relação distante, mas respeitosa com o pai de [[Amaury]], [[Amaury Sr.]] - apesar dos desentendimentos do passado. 
+Tem uma relação distante, mas respeitosa com o pai de [[Rhogar]], [[Rhogar Senior]] - apesar dos desentendimentos do passado. 
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

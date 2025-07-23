@@ -4,7 +4,7 @@ class: Rogue
 height: 1,70m
 origin: "[[Greyhawk]]"
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbβ42]]"
   - "[[Bisnes]]"
@@ -26,3 +26,15 @@ Baang age dramaticamente e com _flair_, mas no fundo é um fanboy de seu mestre 
 
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

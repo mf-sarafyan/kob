@@ -3,13 +3,14 @@ origin: "[[Draconia]]"
 class: Wizard
 race: Human
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbα1]]"
 alignment: Chaotic Neutral
 aliases:
   - Aseir
 ---
+
 
  ![[Aseir Khalid.jpeg|325]] 
 
@@ -36,3 +37,15 @@ Aseir Khalid nasceu como um mago/guerreiro de Calimshan que eu fiz pra entender 
 
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

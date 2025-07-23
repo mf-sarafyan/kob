@@ -3,7 +3,7 @@ type: character
 race: Whale Boat
 class: Tradesman
 origin: Everywhere
-known_locations: 
+known_locations: []
 factions:
   - "[[kbβ42]]"
 alignment: ""
@@ -98,3 +98,15 @@ Embora não tenha uma consciência mágica formal, todos na tripulação juram q
 Betsy é teimosa, valente, e brincalhona. Parece que ela dirige mais fácil quando está investindo loucamente na direção do perigo, atirando e fazendo manobras evasivas. 
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

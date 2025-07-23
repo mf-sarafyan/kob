@@ -4,7 +4,7 @@ class: Artificer
 height: 1,20m
 origin: "?"
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbβ42]]"
   - "[[Bisnes]]"
@@ -25,3 +25,15 @@ FIXME @ricão
 ![[KABOOMER]]
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

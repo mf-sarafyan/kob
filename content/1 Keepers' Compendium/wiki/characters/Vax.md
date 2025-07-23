@@ -4,7 +4,7 @@ class: Warlock, Celestial Patron
 height: 1,20m
 origin: "[[Greyhawk]]"
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbβ42]]"
   - "[[Bisnes]]"
@@ -14,7 +14,7 @@ alignment: ""
 ![[Vax.webp]]
 
 # História
-**Vax** cresceu no [[kob/content/1 Keepers' Compendium/Lore/Characters/Greyspace/Cult of Iuz/_index|Culto de Iuz]], em sua homenagem, construído conforme sua perfeição; um conduíte para sua divindade. A célula do culto - **Seekers of the Truth** - atou Vax desde o nascimento a uma entidade chamada **Keeper of Whispers**, que desde então lhe dá poder e sussura em sua mente como uma fada madrinha. 
+**Vax** cresceu no [[Cult of Iuz]], em sua homenagem, construído conforme sua perfeição; um conduíte para sua divindade. A célula do culto - **Seekers of the Truth** - atou Vax desde o nascimento a uma entidade chamada **Keeper of Whispers**, que desde então lhe dá poder e sussura em sua mente como uma fada madrinha. 
 
 [[kob/content/1 Keepers' Compendium/wiki/characters/Aseir Khalid|Aseir Khalid]], numa missão contra o culto, resgatou Vax de sua cela e o tomou como pupilo, levando-o para estudar em [[Baldur's Gate]]. 
 
@@ -28,3 +28,15 @@ Animado porém recluso. Um pouco introvertido, porém muito curioso. Se distrai 
 ![[Whispering Shadows Mask]]
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

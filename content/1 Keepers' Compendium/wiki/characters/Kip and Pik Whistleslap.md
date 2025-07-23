@@ -1,11 +1,11 @@
 ---
 type: character
 race: ""
-class: 
-origin: 
+class: ""
+origin: ""
 known_locations:
   - "[[Spelljammer Academy]]"
-factions: 
+factions: []
 alignment: ""
 ---
 ![[kip and pik.jpg]]
@@ -16,3 +16,15 @@ When nit-picking inane details, four eyes are better than two—something that K
 
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

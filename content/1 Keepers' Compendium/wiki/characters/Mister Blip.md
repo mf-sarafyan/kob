@@ -20,3 +20,15 @@ Mister Blip wears a smart-looking leather apron with a score of tools of various
 Quote: “If you’re looking for a quick answer, I’m probably not the best place to find it.”
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

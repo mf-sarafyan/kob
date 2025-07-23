@@ -3,9 +3,9 @@ type: character
 race: Hadozee
 class: ""
 origin: ""
-known_locations: 
-factions: 
-alignment:
+known_locations: []
+factions: []
+alignment: ""
 ---
 *Bô-ssun Tarrtô, com sotaque francês*
 *Hadozee Seasoned Boatswain*
@@ -18,3 +18,15 @@ Quote: “Listen to what I tell you; it might just save your life.”
 
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

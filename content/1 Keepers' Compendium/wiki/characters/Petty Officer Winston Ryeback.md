@@ -20,3 +20,15 @@ Petty Officer Ryeback (RIE-bak) is a muscular giff in charge of the food served 
 Quote: “The best way to someone’s heart is through their stomach.”
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

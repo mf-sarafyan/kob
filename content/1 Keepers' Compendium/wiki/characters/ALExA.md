@@ -3,12 +3,11 @@ origin: "?"
 class: "?"
 race: "?"
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbα1]]"
 alignment: Chaotic Neutral
 ---
-
 
 ---
 
@@ -32,3 +31,15 @@ Nas poucas ocasiões que vocês interagiram - ela não pode desembarcar -, ela s
 
 #### Trivia
 [[kob/content/1 Keepers' Compendium/wiki/characters/Captain Jordal Brambletopple|Captain Jordal Brambletopple]] uma vez (e uma vez só) chamou ela de Mordenkainen's Amazing Multiverse Assistant. Essa é a única história que ele nunca conta.
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

@@ -3,7 +3,7 @@ origin: Toril
 class: Cadet
 race: Human
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbβ42]]"
 alignment: ""
@@ -20,3 +20,15 @@ Miken aceitou um pagamento de [[Vocath]] para fazer um atentado contra a [[Spell
 
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->

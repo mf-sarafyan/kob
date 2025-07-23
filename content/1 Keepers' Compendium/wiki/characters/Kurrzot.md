@@ -3,7 +3,7 @@ origin: "[[Realmspace#**H’catha**]]"
 class: Not very much for now
 race: Ogre (Ciclopean)
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbβ42]]"
 alignment: ""
@@ -15,3 +15,15 @@ Um ogro ciclope originário de H'Catha, planeta dos Beholders. Foi seduzido pela
 
 
 ---
+
+<!-- DYNAMIC:related-entries -->
+
+## Related Entries
+
+```dataview
+    TABLE entry_type, author
+    WHERE type = "entry" AND contains(relates_to, this.file.link)
+    SORT file.ctime DESC
+```
+
+<!-- /DYNAMIC -->
