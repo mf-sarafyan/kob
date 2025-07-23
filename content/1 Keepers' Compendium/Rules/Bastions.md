@@ -9,4 +9,5 @@ Bastions são locais físicos onde os PCs podem estabelecer uma base e colocar *
 [[The Rock of Bral|Bral]] é uma cidade de complexidades políticas: o **príncipe Andru** controla oficialmente a Guarda, os Magistrados, os Impostos; as Guildas têm sua margem de manobra, mas em teoria responde a ele, também. Porém, nas bordas - largas - da legalidade, operam as **máfias** da cidade: tanto as grandes **Famiglias**, que extra-oficialmente têm na mão a maior parte dos negócios da cidade, quanto as menores **gangues**, que lutam por espaço contra o domínio da *borda da borda* da legalidade. 
 
 Inevitavelmente e infelizmente (ou felizmente) pra vocês, ter negócios e participar da vida entre os canais do asteróide vai envolver lidar com esses poderes.
-> Até a Vashet
+
+> Até a [[Vashet Ólafursdottir|Vashet]] tem seus esquemas com as máfias; os [[Zenonni]] dão uma mãozinha pra ela. 

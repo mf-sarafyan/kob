@@ -1,13 +1,16 @@
 ---
 race: Dragonborn
-class: Barberian
+class: Barbarian
 height: 2,00m
+origin: Baldur's Gate
 ---
 
 ![[Rhogar.png]]
 
 # História
-Rhogar era filho de Lillix Finescale, uma dragonborn maga extremamente poderosa e rígida. Apesar de sua mãe tentar força-lo a uma estrutura rígida, ele não queria se conformar às regras da sociedade e isso fez com que ele matasse as aulas para andar por Baldurs Gate atrás de álcool, mulheres e briga, principalmente o terceiro. Apesar de não ter a mesma aptidão que sua mãe para estudos Rhogar possui magia caótica em seu sangue e aprendeu a defender muito bem com suas mãos (e cadeiras, mesas, anões etc.)
+O maior experimento da lendária arcanista [[kob/content/1 Keepers' Compendium/Lore/Characters/Keepers/kba1/Lillix Finescale|Lillix Finescale]]: uma nova cobaia - além dela mesma - para seus estudos da magia caótica que corre em seu sangue. 
+
+**Rhogar** foi criado em [[Baldur's Gate]], seu adulto responsável alternando entre sua mãe, pai, e o membro da guilda que estivesse disponível nos longos períodos em que os dois saíam em missão. Desde que quase tinha força o suficiente, tinha suas próprias aventuras (frequentemente violentas) pelos becos da cidade, descobrindo como sua bloodline aprimorava sua capacidade de porrada. 
 
 # Personalidade
 Enérgico, expansivo, espalhafatoso, cheio de si. Não é o mais inteligente do grupo.

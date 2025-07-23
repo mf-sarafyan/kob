@@ -2,14 +2,17 @@
 race: Air Genasi
 class: Rogue
 height: 1,70m
+origin: "[[Greyhawk]]"
 ---
 ![[Baang.jpg]]
 
 ## História
-Baang era um ladrão de rua que havia sido "recrutado" por uma guilda de ladrões muito cedo. Fazia pequenos assaltos até um dia em que tentou bater a carteira de Jordal Brambletopple, um homem tão lendário que os livros de história reduzem seus feitos para os tornarem criveis. Jordal viu no garoto algo que valia seu tempo e resolver treina-lo nas artes da trapaça e furtividade. Baang se tornou cada vez mais admirado ao seu mestre (quem não seria?) e sonha em um dia conseguir seguir seus passos
+Baang - como é comum com Genasi em Oerth - foi tomado dos pais pelo [[kob/content/1 Keepers' Compendium/Lore/Characters/Greyspace/Cult of Elemental Evil/_index]] e colocado desde criança para exercer seus talentos como ladrão de rua. Viveu seus anos sob seu comando; um escravo explorado com sangue considerado divino. 
+
+Um ato mudou sua vida: uma tentativa de furto contra um aparente [[kob/content/1 Keepers' Compendium/Lore/Characters/Keepers/kba1/Captain Jordal Brambletopple||halfling espalhafatoso e desavisado]]. Incrédulo e admirado da coragem do garoto, ele o tomou como pupilo, levando-o para treinar em [[Baldur's Gate]]. 
 
 ## Personalidade
-Baang tem uma atitude fria e bacana, age super descolado e sempre está em uma pose sensual e elaborada. Por dentro ele na verdade é um homem animado, sem traquejo social e super nerd por seu mestre, somente revelando esse seu lado aos outros quando interagindo com Jordal, quando não consegue conter sua animação.
+Baang age dramaticamente e com _flair_, mas no fundo é um fanboy de seu mestre e é perdidamente apaixonado por sua [[Morena]]. 
 
 ## Inventory
 ![[Whisttle]]

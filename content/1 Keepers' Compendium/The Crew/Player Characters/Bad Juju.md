@@ -2,15 +2,19 @@
 race: Gnome
 class: Bard
 height: 1,20m
+aliases:
+  - Juniper Cornucopia
+origin: Baldur's Gate
 ---
 
 ![[Bad Juju.webp]]
 
 # História
-Bad Juju nasceu em uma família rica de Baldurs Gate, porém ela não concorda com as normas da alta sociedade, até as despreza. Bad Juju para se afastar dos padrões que ela abomina criou uma personagem com o que acredita ser punk e disruptivo, apesar de que ainda é mais um teatro do que uma expressão real de sua identidade. 
+**Bad Juju** é a personalidade punk-revoltada de **Juniper Cornucopia**, a jovem herdeira da única família *patriar* gnômica de [[Baldur's Gate]] - um clã unido e, honestamente, super fofo que domina o mercado de vegetais da região. Por trás da máscara, Juju foi criada e treinada para assumir os negócios da família com habilidade e responsabilidade. 
 
 # Personalidade
-Age como se adorasse uma briga, mas é a única do time a pensar de forma estratégica e fria nos momentos mais críticos. Sagaz e calma normalmente, exceto quando interagindo com alguém que ela não gosta, nessas horas ela fala o que pensa e ataca sem se importar com consequências.
+FIXME @ju
+*Age como se adorasse uma briga, mas é a única do time a pensar de forma estratégica e fria nos momentos mais críticos. Sagaz e calma normalmente, exceto quando interagindo com alguém que ela não gosta, nessas horas ela fala o que pensa e ataca sem se importar com consequências.*
 
 # Inventory
 ![[Anarchic Amplifier]]
