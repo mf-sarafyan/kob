@@ -1,3 +1,9 @@
+---
+type: entry
+entry_type: Lore
+relates_to: 
+author: DM
+---
 Poderes, não deuses. Deuses tem forma; deuses tem corpo. Deuses tem presença física e se comunicam. 
 Deuses tem stat block.
 E quando os deuses mudam a cada mês que você viaja, você começa a acreditar em algo diferente.

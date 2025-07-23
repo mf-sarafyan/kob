@@ -18,9 +18,3 @@ Filha da família mais influente de [[Baldur's Gate]], ex-líder do culto de Bha
 
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

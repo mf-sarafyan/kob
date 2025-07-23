@@ -19,9 +19,3 @@ Saerthe’s quick wit and sharp tongue provide them with an inexhaustible supply
 Quote: “I make talent look good.”
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

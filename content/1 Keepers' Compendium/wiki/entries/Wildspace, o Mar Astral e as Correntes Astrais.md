@@ -1,3 +1,9 @@
+---
+type: entry
+entry_type: Lore
+relates_to: 
+author: DM
+---
 ## **O Espaço Selvagem (Wildspace)**  
 O Espaço Selvagem é o vazio entre os planetas, um oceano populado por corpos estelares, asteróides e fauna espacial - criaturas inacreditáveis como **[[Kindori]]** e **[[scavvers]]** que flutuam entre os mundos. Imagine nébulas coloridas borbulhando com atividade - não como nosso espaço convencional, mas como um mar de fantasia e possibilidade. 
 

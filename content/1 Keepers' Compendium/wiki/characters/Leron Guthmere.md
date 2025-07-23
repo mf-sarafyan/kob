@@ -14,9 +14,3 @@ O último dos Guthmere, _patriars_ rejeitados de [[Baldur's Gate]], **Leron** fo
 ![[leron2.jpg|500]]
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

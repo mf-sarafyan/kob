@@ -36,9 +36,3 @@ Aseir Khalid nasceu como um mago/guerreiro de Calimshan que eu fiz pra entender 
 
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

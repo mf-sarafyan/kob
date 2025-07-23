@@ -21,9 +21,3 @@ Por trás do seu Juliete Metafórico, ele é um astroneiro trabalhador e superst
 
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

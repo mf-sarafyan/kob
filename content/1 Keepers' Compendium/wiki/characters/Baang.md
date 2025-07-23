@@ -26,9 +26,3 @@ Baang age dramaticamente e com _flair_, mas no fundo é um fanboy de seu mestre 
 
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

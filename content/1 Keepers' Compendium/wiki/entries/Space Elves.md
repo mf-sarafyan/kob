@@ -1,3 +1,9 @@
+---
+type: entry
+entry_type: Lore
+relates_to: 
+author: DM
+---
 # Singers and Dreamers
 This is not a lore that is written. This is a lore whispered in the rustling of leaves. A lore sung by the wind. This is a lore dreamt. 
 

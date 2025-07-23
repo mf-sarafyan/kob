@@ -66,19 +66,3 @@ A montanha onde Bral é construída é um formigueiro. Debaixo dos níveis super
 
 [[Bral Minor Factions|Bral Underworld]]
 [[Monarquia Braliana]]
-
----
-## Factions Based Here
-```dataview
-TABLE faction_type, alignment
-WHERE type = "faction" AND location = this.file.link
-SORT file.name ASC
-```
-
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC
-```

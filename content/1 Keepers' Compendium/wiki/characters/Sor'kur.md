@@ -17,9 +17,3 @@ The thri-kreen receptionist Sor’kur (pronounced SOAR-ker) is always busy, and 
 Quote: “Academy accounts payable, Sor’kur speaking, please hold.”
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

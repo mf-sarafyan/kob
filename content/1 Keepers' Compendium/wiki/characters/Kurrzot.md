@@ -15,9 +15,3 @@ Um ogro ciclope originário de H'Catha, planeta dos Beholders. Foi seduzido pela
 
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

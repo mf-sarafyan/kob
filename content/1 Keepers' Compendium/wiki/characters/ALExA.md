@@ -32,9 +32,3 @@ Nas poucas ocasiões que vocês interagiram - ela não pode desembarcar -, ela s
 
 #### Trivia
 [[kob/content/1 Keepers' Compendium/wiki/characters/Captain Jordal Brambletopple|Captain Jordal Brambletopple]] uma vez (e uma vez só) chamou ela de Mordenkainen's Amazing Multiverse Assistant. Essa é a única história que ele nunca conta.
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

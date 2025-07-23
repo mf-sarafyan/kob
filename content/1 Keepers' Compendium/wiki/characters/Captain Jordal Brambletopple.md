@@ -34,9 +34,3 @@ Ele não é alto, mas suas aventuras são (me perdoem). Se você acreditar nas h
 Ele tem alergia a _attunement_ a itens mágicos, mas sua sorte, charme, habilidade e reputação foram o suficiente para Mordenkainen convidá-lo para ser membro fundador e capitão da [[kbα1]].
 #### Trivia
 Eu tentei muitas vezes, mas não consegui gerar uma imagem dele sem palavras aleatórias no meio.
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

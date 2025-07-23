@@ -25,9 +25,3 @@ Enérgico, expansivo, espalhafatoso, cheio de si. Não é o mais inteligente do 
 ![[Chaos Conduit]]
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

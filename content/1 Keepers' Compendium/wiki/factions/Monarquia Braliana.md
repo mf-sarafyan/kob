@@ -12,30 +12,3 @@ Andru orquestrou com cuidado a sucessão, organizando o assassinato de seu irmã
 
 É sempre isso: a monarquia equilibra trocentos pratos pra manter o status quo, o poder, e a prosperidade deles e da cidade. Isso envolve apoiar não só a Mano Legata, mas um pouco seus oponentes, também. Permitir suas atividades, mas cortar quando a linha for cruzada. 
 
-
-
-
----
-
-## Member Characters
-```dataview
-TABLE race, class, alignment
-WHERE type = "character" AND contains(factions, this.file.link)
-SORT file.name ASC
-```
-
-## Child Factions
-```dataview
-TABLE faction_type, alignment
-WHERE type = "faction" AND parent = this.file.link
-SORT file.name ASC
-```
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC
-```
-
-

@@ -50,27 +50,3 @@ Mind Flayer vegano, dono de uma livraria renomada em La Città.
 Uma dríade-exilada, agora trabalhando como apotecária - e fazendo bicos de cantora com os **Xenophonics**. Vende desde chazinhos relaxantes até drogas que só não são proibidas nas esferas que não as conhecem. 
 
 
-
-
----
-
-## Member Characters
-```dataview
-TABLE race, class, alignment
-WHERE type = "character" AND contains(factions, this.file.link)
-SORT file.name ASC
-```
-
-## Child Factions
-```dataview
-TABLE faction_type, alignment
-WHERE type = "faction" AND parent = this.file.link
-SORT file.name ASC
-```
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC
-```

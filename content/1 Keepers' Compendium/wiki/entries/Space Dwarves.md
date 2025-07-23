@@ -1,3 +1,9 @@
+---
+type: entry
+entry_type: Lore
+relates_to: 
+author: DM
+---
 # Starborn and Voidborn
 This is not a lore that is written. This is a lore that is sung by the fire in half-forgotten rhymes between rock-hewn halls. This is a lore that burns in the blood. This is a lore that is remembered by stone itself. 
 

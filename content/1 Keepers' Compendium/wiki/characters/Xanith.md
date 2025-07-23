@@ -30,9 +30,3 @@ Xan foi um pupilo dedicado de Menyar-ag-Gith, líder dos githzerai. Diz-se que, 
 No Limbo, alguns poucos zerths chegaram a ter Dragões do Caos como montarias. Xan teve como companheira e amante [[Feirgarae]], prima distante de [[kob/content/1 Keepers' Compendium/wiki/characters/Lillix Finescale]]. 
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

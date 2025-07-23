@@ -16,9 +16,3 @@ When nit-picking inane details, four eyes are better than two—something that K
 
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

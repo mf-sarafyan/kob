@@ -15,9 +15,3 @@ Encontrado defeituoso escondido nas tralhas do Tyrant Ship, Wizpop passou (prova
 ![[78ef44580ad46842bc5897b8afc90007.png|450]]
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

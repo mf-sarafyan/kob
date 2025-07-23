@@ -6,23 +6,6 @@ faction_type:
 alignment: ""
 ---
 
-
----
-
-## Member Characters
-```dataview
-TABLE race, class, alignment
-WHERE type = "character" AND contains(factions, this.file.link)
-SORT file.name ASC
-```
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC
-```
-Joint venture: 
 Dividem [[Pffred]] e [[Krik'Lit]] entre os dois tb  
 [[1 Keepers' Compendium/Player Characters/Baang|Baang]] - Gambling Hall/Stock Exchange. **The Baank**: "feeling lucky?" / **Lucky Ones**: 2 d20s rolando 1. Aprendizes do Il Veluto como crupies. 4 hirelings. Gerente Dick Vigarista? 
 [[Bad Juju]] - Tavern num barco estacionado no beco atrás do Baank. Cramped e seedy. Barco de 2 andares. Bem rude com Cartoccis e afins. Cinders no bar. Usados pra delivery também. Ajudam a entregar coisas do Gizmo. Bartender tubarao humanoide (wereshark?). Punks, drags e punks drags. ***The Asscrack?***

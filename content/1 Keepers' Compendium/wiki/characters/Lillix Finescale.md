@@ -34,9 +34,3 @@ Meses depois de um romance tórrido e breve em [[Faerûn]], surgiu um novo e rai
 Tem uma relação distante, mas respeitosa com o pai de [[Amaury]], [[Amaury Sr.]] - apesar dos desentendimentos do passado. 
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

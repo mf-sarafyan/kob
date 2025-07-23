@@ -98,9 +98,3 @@ Embora não tenha uma consciência mágica formal, todos na tripulação juram q
 Betsy é teimosa, valente, e brincalhona. Parece que ela dirige mais fácil quando está investindo loucamente na direção do perigo, atirando e fazendo manobras evasivas. 
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

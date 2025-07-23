@@ -20,9 +20,3 @@ Miken aceitou um pagamento de [[Vocath]] para fazer um atentado contra a [[Spell
 
 
 ---
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC

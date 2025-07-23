@@ -15,26 +15,3 @@ Do povo, para o povo. Cansados de servir de capacho pra criminosos, lideranças 
 
 Vibe: Você tentando olhar o piloto da gôndola pra ver se ele tem uma tatuagem de gangue. Criança assoviando código secreto no telhado. Uma Nonna que fala manso mas pode te destruir socialmente. 
 
-
----
-
-## Member Characters
-```dataview
-TABLE race, class, alignment
-WHERE type = "character" AND contains(factions, this.file.link)
-SORT file.name ASC
-```
-
-## Child Factions
-```dataview
-TABLE faction_type, alignment
-WHERE type = "faction" AND parent = this.file.link
-SORT file.name ASC
-```
-
-## Related Entries
-```dataview
-LIST map("!" + "[[" + file.name + "]]")
-WHERE type = "entry" AND contains(about, this.file.link)
-SORT file.ctime DESC
-```
