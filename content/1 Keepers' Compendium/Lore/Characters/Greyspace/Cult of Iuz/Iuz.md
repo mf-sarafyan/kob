@@ -1,1 +1,1 @@
-Metade demônio, metade deus, metade gato, três quartos marvado, cem por cento brabo. 
+Metade demônio, metade deus, metade gato, três quartos marvado, cento e dez por cento brabo. 

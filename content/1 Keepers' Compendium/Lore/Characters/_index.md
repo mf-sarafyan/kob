@@ -1,5 +1,0 @@
----
-title: "Characters"
----
-
-- [[Vocath]]

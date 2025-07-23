@@ -1,5 +1,0 @@
----
-title: "Systems"
----
-
-- [[Realmspace]]

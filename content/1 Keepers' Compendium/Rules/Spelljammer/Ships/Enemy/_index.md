@@ -1,5 +1,0 @@
----
-title: "Enemy"
----
-
-- [[MindspiderSim]]
