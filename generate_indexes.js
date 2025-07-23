@@ -2,9 +2,6 @@ const fs = require("fs");
 const path = require("path");
 
 const ROOT = path.join(__dirname, "content"); // Adjust if needed
-
-const START = "<!-- AUTO-LINKS-START -->";
-const END = "<!-- AUTO-LINKS-END -->";
 const RECENT_START = "<!-- RECENT-START -->";
 const RECENT_END = "<!-- RECENT-END -->";
 
@@ -13,9 +10,9 @@ function walkDirs(dir) {
   for (const item of subdirs) {
     const fullPath = path.join(dir, item.name);
     if (item.isDirectory()) {
-      renameOldIndex(fullPath);     // ← rename _index.md if found
-      generateIndex(fullPath);
-      walkDirs(fullPath);           // Recurse
+      renameOldIndex(fullPath);     // rename _index.md if needed
+      generateIndexIfMissing(fullPath);
+      walkDirs(fullPath);           // recurse
     }
   }
 }
@@ -30,43 +27,22 @@ function renameOldIndex(folderPath) {
   }
 }
 
-function generateIndex(folderPath) {
-  const files = fs.readdirSync(folderPath)
-    .filter(f => f.endsWith(".md") && f !== "index.md");
-
-  if (files.length === 0) return;
-
-  const links = files
-    .map(f => {
-      const name = path.basename(f, ".md");
-      return `- [[${name}]]`;
-    })
-    .join("\n");
-
-  const autoLinkSection = `${START}\n${links}\n${END}`;
+function generateIndexIfMissing(folderPath) {
   const indexPath = path.join(folderPath, "index.md");
-
-  let indexContent = "";
-
   if (fs.existsSync(indexPath)) {
-    indexContent = fs.readFileSync(indexPath, "utf8");
-
-    if (indexContent.includes(START) && indexContent.includes(END)) {
-      indexContent = indexContent.replace(
-        new RegExp(`${START}[\\s\\S]*?${END}`),
-        autoLinkSection
-      );
-    } else {
-      indexContent = `${indexContent.trim()}\n\n${autoLinkSection}`;
+    // Update recent files section only if it's the main index
+    const relativePath = path.relative(ROOT, folderPath);
+    if (relativePath === "1 Keepers' Compendium") {
+      updateRecentSection(indexPath, folderPath);
     }
-  } else {
-    const title = path.basename(folderPath);
-    indexContent = `---\ntitle: "${title}"\n---\n\n${autoLinkSection}\n`;
+    return;
   }
 
-  // If it's the main index, also insert a "Recently Updated" section
+  const title = path.basename(folderPath);
   const relativePath = path.relative(ROOT, folderPath);
   const isMainIndex = relativePath === "1 Keepers' Compendium";
+
+  let content = `---\ntitle: "${title}"\n---\n`;
 
   if (isMainIndex) {
     const recentFiles = collectMarkdownFiles(folderPath)
@@ -75,20 +51,37 @@ function generateIndex(folderPath) {
       .map(f => `- [[${f.name}]]`)
       .join("\n");
 
-    const recentSection = `${RECENT_START}\n${recentFiles}\n${RECENT_END}`;
-
-    if (indexContent.includes(RECENT_START) && indexContent.includes(RECENT_END)) {
-      indexContent = indexContent.replace(
-        new RegExp(`${RECENT_START}[\\s\\S]*?${RECENT_END}`),
-        recentSection
-      );
-    } else {
-      indexContent += `\n\n${recentSection}`;
-    }
+    content += `\n${RECENT_START}\n${recentFiles}\n${RECENT_END}\n`;
   }
 
-  fs.writeFileSync(indexPath, indexContent);
-  console.log(`✅ Updated index: ${indexPath}`);
+  fs.writeFileSync(indexPath, content);
+  console.log(`✅ Created index: ${indexPath}`);
+}
+
+function updateRecentSection(indexPath, folderPath) {
+  const original = fs.readFileSync(indexPath, "utf8");
+
+  const recentFiles = collectMarkdownFiles(folderPath)
+    .sort((a, b) => b.mtime - a.mtime)
+    .slice(0, 3)
+    .map(f => `- [[${f.name}]]`)
+    .join("\n");
+
+  const recentBlock = `${RECENT_START}\n${recentFiles}\n${RECENT_END}`;
+
+  let newContent;
+
+  if (original.includes(RECENT_START) && original.includes(RECENT_END)) {
+    newContent = original.replace(
+      new RegExp(`${RECENT_START}[\\s\\S]*?${RECENT_END}`),
+      recentBlock
+    );
+  } else {
+    newContent = `${original.trim()}\n\n${recentBlock}\n`;
+  }
+
+  fs.writeFileSync(indexPath, newContent);
+  console.log("♻️ Updated RECENT block in main index.");
 }
 
 function collectMarkdownFiles(dir) {
@@ -117,5 +110,5 @@ function collectMarkdownFiles(dir) {
   return files;
 }
 
-// Run the script
+// Run it
 walkDirs(ROOT);

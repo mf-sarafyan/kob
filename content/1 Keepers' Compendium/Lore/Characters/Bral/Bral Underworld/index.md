@@ -14,7 +14,3 @@ Eles tem auxílio de outros grupos e indivíduos interessados em minar a Mano - 
 **Dottori**. Uma das famílias mais ricas de Bral, donos de bancos e galerias de arte, com membros na corte, nas guildas, nas Famiglias. 
 
 **Red Anvil**. Guilda e sindicato dos anões.
-
-<!-- AUTO-LINKS-START -->
-- [[Cinders]]
-<!-- AUTO-LINKS-END -->
