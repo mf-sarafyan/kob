@@ -3,7 +3,7 @@ title: "1 Keepers' Compendium"
 ---
 
 <!-- RECENT-START -->
-- [[Untitled]]
-- [[Cinders]]
-- [[Bastions]]
+- [[Vax]]
+- [[Rhogar]]
+- [[Gizmo]]
 <!-- RECENT-END -->

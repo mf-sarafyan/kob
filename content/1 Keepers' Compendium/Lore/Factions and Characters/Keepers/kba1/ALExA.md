@@ -22,4 +22,4 @@ A *Autômata Logística de Exploração Astral* é uma entidade sentiente comple
 Nas poucas ocasiões que vocês interagiram - ela não pode desembarcar -, ela se referiu a [[1 Keepers' Compendium/Player Characters/Gizmo]] como "irmãozinho". Vocês imaginam que seus mestres saibam mais sobre ela; mas se suas histórias são um bom parâmetro, vocês imaginam que os segredos de uma tecnologia arcana tão poderosa sejam muito bem guardados.
 
 #### Trivia
-[[1 Keepers' Compendium/Lore/Characters/Keepers/kba1/Captain Jordal Brambletopple]] uma vez (e uma vez só) chamou ela de Mordenkainen's Amazing Multiverse Assistant. Essa é a única história que ele nunca conta.
+[[kob/content/1 Keepers' Compendium/Lore/Factions and Characters/Keepers/kba1/Captain Jordal Brambletopple]] uma vez (e uma vez só) chamou ela de Mordenkainen's Amazing Multiverse Assistant. Essa é a única história que ele nunca conta.

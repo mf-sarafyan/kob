@@ -22,4 +22,4 @@ Com o tempo, os zerths aprenderam a estabilizar o caos do plano com seus poderes
 Xan foi um pupilo dedicado de Menyar-ag-Gith, líder dos githzerai. Diz-se que, no caminho de se tornar um *Anarch*, Zak sentiu que seu chamado e objetivo não era apenas trazer equilíbrio, paz e prosperidade para seu povo, mas sim para todo o multiverso. 
 
 #### Trivia
-No Limbo, alguns poucos zerths chegaram a ter Dragões do Caos como montarias. Xan teve como companheira e amante [[Feirgarae]], prima distante de [[1 Keepers' Compendium/Lore/Characters/Keepers/kba1/Lillix Finescale]]. 
+No Limbo, alguns poucos zerths chegaram a ter Dragões do Caos como montarias. Xan teve como companheira e amante [[Feirgarae]], prima distante de [[kob/content/1 Keepers' Compendium/Lore/Factions and Characters/Keepers/kba1/Lillix Finescale]]. 

@@ -1,1 +1,0 @@
-Um Mercane que tem uma VENDETTA contra o [[1 Keepers' Compendium/Lore/Characters/Realmspace/Spelljammer Academy/Mirt The Merciless|Mirt The Merciless]], sabe-se lá por que. 

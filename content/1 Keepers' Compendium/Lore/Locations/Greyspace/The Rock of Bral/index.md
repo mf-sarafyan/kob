@@ -61,5 +61,5 @@ A montanha onde Bral é construída é um formigueiro. Debaixo dos níveis super
 
 # Factions
 
-[[kob/content/1 Keepers' Compendium/Lore/Characters/Bral/Bral Underworld/index|Bral Underworld]]
+[[kob/content/1 Keepers' Compendium/Lore/Factions and Characters/Bral/Bral Underworld/index|Bral Underworld]]
 [[Monarquia Braliana]]

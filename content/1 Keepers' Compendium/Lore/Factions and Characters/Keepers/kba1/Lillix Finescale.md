@@ -24,6 +24,6 @@ Com acesso fácil e constante ao Astral e outras Esferas, seu conhecimento cresc
 Meses depois de um romance tórrido e breve em [[Faerûn]], surgiu um novo e raivoso experimento...
 
 #### Trivia
-É uma parente distante de [[Feirgarae]], a dragão do caos amante de [[1 Keepers' Compendium/Lore/Characters/Keepers/kba1/Xanith]].
+É uma parente distante de [[Feirgarae]], a dragão do caos amante de [[kob/content/1 Keepers' Compendium/Lore/Factions and Characters/Keepers/kba1/Xanith]].
 
 Tem uma relação distante, mas respeitosa com o pai de [[Amaury]], [[Amaury Sr.]] - apesar dos desentendimentos do passado. 
