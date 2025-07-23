@@ -1,5 +1,10 @@
 ---
 title: The Rock of Bral
+aliases:
+  - Bral
+  - Rock of Bral
+  - Pedra de Bral
+  - A Pedra
 ---
 
 # Geography
@@ -51,10 +56,14 @@ E a região mais pra baixo está de ponta-cabeça. Debaixo das docas, uma corren
 
 A cidade pra cima é limpinha e arrumada porque varreram o trabalho pesado aqui pra baixo. Apesar de tudo, os canais e as passarelas são maiores, tudo parece mais controlado e organizado. 
 
-
 ## Viscura
 A montanha onde Bral é construída é um formigueiro. Debaixo dos níveis superiores, a cidade continua, mais escura, mais úmida, e mais perigosa. Esculpida por vários tipos de apêndices e magias, os túneis de Viscura são o tapete pra onde o que não é glamoroso em Bral acaba sendo varrido. 
 
 # Factions
 
-![[Bral Underworld]]
+[[kob/content/1 Keepers' Compendium/Lore/Characters/Bral/Bral Underworld/index|Bral Underworld]]
+[[Monarquia Braliana]]
+
+<!-- AUTO-LINKS-START -->
+- [[Untitled]]
+<!-- AUTO-LINKS-END -->

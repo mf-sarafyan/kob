@@ -1,5 +1,5 @@
 ---
-title: Famiglia Cartocci
+title: Cartocci
 aliases:
   - Cartocci
 ---
