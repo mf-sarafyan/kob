@@ -2,7 +2,7 @@
 type: faction
 parent: "[[Keepers of the Balance]]"
 location: ""
-faction_type: ""
+faction_type: Adventurer Party
 alignment: Good
 leader: "[[kob/content/1 Keepers' Compendium/wiki/characters/Captain Jordal Brambletopple|Jordal]]"
 ---

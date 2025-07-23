@@ -1,16 +1,15 @@
 ---
 type: character
-race: ""
+race: Dragonborn
 class: ""
 origin: ""
 known_locations:
-  - "[[Spelljammer Academy]]"
-  - Waterdeep
+  - "[[Baldur's Gate]]"
 factions:
-  - "[[Spelljammer Academy Faculty]]"
+  - "[[Keepers of the Balance]]"
 alignment: ""
 ---
-O Velho Lobo, o Lorde Morsa; Harper, ex-Lorde Mascarado de Waterdeep, e dono da Spelljammer Academy.
+
 
 <!-- DYNAMIC:related-entries -->
 

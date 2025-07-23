@@ -3,10 +3,11 @@ origin: Ever-Changing Chaos of Limbo
 class: Monk
 race: Githzerai
 type: character
-known_locations: []
+known_locations: 
 factions:
   - "[[kbα1]]"
-alignment: ""
+  - "[[Keepers of the Balance]]"
+alignment: Lawful Neutral
 ---
 
  ![[Xanith.jpg|325]] 

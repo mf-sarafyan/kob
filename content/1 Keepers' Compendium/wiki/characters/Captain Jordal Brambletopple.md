@@ -3,10 +3,11 @@ origin: Krynn
 class: Rogue
 race: Gnome
 type: character
-known_locations: []
+known_locations: 
 factions:
   - "[[kbα1]]"
-alignment: ""
+  - "[[Keepers of the Balance]]"
+alignment: Neutral Good
 aliases:
   - Jordal
 ---
@@ -26,7 +27,7 @@ aliases:
 - [Theme song: The Eternal Wayfarer, Edguy](https://www.youtube.com/watch?v=uj6xxTmeoSA)
 
  Aprendizes
-[[1 Keepers' Compendium/Player Characters/Baang]]. Depois que o jovem genasi tentou roubá-lo, desavisado, Jordal concluiu que ele era a pessoa mais azarada do universo, e decidiu tomá-lo como seu pupilo.
+[[kob/content/1 Keepers' Compendium/wiki/characters/Baang|Baang]]. Depois que o jovem genasi tentou roubá-lo, desavisado, Jordal concluiu que ele era a pessoa mais azarada do universo, e decidiu tomá-lo como seu pupilo.
 
 
 ## Chasing the Afterglow

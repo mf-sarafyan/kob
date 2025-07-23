@@ -14,7 +14,7 @@ alignment: ""
 ![[Gizmo.jpg]]
 
 ## História
-Gizmo não lembra muito de sua história. Ele se lembra de ter uma Mãe. Uma [[0 The Unknowable/character/Keepers/kba1/ALExA|irmã]]. De anos numa biblioteca, devorando conteúdo das ciências naturais. Aparentemente, a pedido de sua mãe, [[kob/content/1 Keepers' Compendium/wiki/characters/Aseir Khalid|Aseir Khalid]] o tomou como aprendiz e o levou de seu exílio para a Guilda em [[Baldur's Gate]].
+Gizmo não lembra muito de sua história. Ele se lembra de ter uma Mãe. Uma [[ALExA|irmã]]. De anos numa biblioteca, devorando conteúdo das ciências naturais. Aparentemente, a pedido de sua mãe, [[kob/content/1 Keepers' Compendium/wiki/characters/Aseir Khalid|Aseir Khalid]] o tomou como aprendiz e o levou de seu exílio para a Guilda em [[Baldur's Gate]].
 
 ## Personalidade
 FIXME @ricão

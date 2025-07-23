@@ -1,14 +1,12 @@
 ---
 type: faction
-parent: ""
-location: ""
-faction_type: ""
+parent: 
+location: "[[Spelljammer Academy]]"
+faction_type: Adventuring School
 alignment: ""
-leader: "[[Mordenkainen]]"
-aliases:
-  - KOTB
+leader: "[[Mirt The Merciless]]"
 ---
-A organização central da campanha; que concentra os esforços de [[Mordenkainen]] para manter a [[Blood War]] em equilíbrio.
+
 
 <!-- DYNAMIC:related-entries -->
 

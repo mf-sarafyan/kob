@@ -3,10 +3,11 @@ origin: Limbo
 class: Sorcerer, Wizard
 race: Dragonborn
 type: character
-known_locations: []
+known_locations: 
 factions:
   - "[[kbα1]]"
-alignment: ""
+  - "[[Keepers of the Balance]]"
+alignment: Chaotic Good
 ---
 
  ![[Lillix Finescale.jpg|300]] 

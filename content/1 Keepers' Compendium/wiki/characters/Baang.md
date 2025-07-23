@@ -13,7 +13,7 @@ alignment: ""
 ![[Baang.jpg]]
 
 ## História
-Baang - como é comum com Genasi em Oerth - foi tomado dos pais pelo [[kob/content/1 Keepers' Compendium/Lore/Characters/Greyspace/Cult of Elemental Evil/_index]] e colocado desde criança para exercer seus talentos como ladrão de rua. Viveu seus anos sob seu comando; um escravo explorado com sangue considerado divino. 
+Baang - como é comum com Genasi em Oerth - foi tomado dos pais pelo [[Cult of Elemental Evil]] e colocado desde criança para exercer seus talentos como ladrão de rua. Viveu seus anos sob seu comando; um escravo explorado com sangue considerado divino. 
 
 Um ato mudou sua vida: uma tentativa de furto contra um aparente [[kob/content/1 Keepers' Compendium/wiki/characters/Captain Jordal Brambletopple||halfling espalhafatoso e desavisado]]. Incrédulo e admirado da coragem do garoto, ele o tomou como pupilo, levando-o para treinar em [[Baldur's Gate]]. 
 

@@ -3,10 +3,11 @@ origin: "[[Draconia]]"
 class: Wizard
 race: Human
 type: character
-known_locations: []
+known_locations: 
 factions:
   - "[[kbα1]]"
-alignment: Chaotic Neutral
+  - "[[Keepers of the Balance]]"
+alignment: True Neutral
 aliases:
   - Aseir
 ---

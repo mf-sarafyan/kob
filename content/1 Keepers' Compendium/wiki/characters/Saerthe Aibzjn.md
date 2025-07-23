@@ -1,10 +1,12 @@
 ---
 type: character
-race: ""
-class: ""
+race: Astral Elf
+class: Wizard
 origin: ""
-known_locations: []
-factions: []
+known_locations:
+  - "[[Spelljammer Academy]]"
+factions:
+  - "[[Spelljammer Academy Faculty]]"
 alignment: ""
 ---
 ![[saerthe.png|500]]

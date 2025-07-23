@@ -1,10 +1,12 @@
 ---
 type: character
 race: Hadozee
-class: ""
-origin: ""
-known_locations: []
-factions: []
+class: 
+origin: Wildspace
+known_locations:
+  - "[[Spelljammer Academy]]"
+factions:
+  - "[[Spelljammer Academy Faculty]]"
 alignment: ""
 ---
 *Bô-ssun Tarrtô, com sotaque francês*

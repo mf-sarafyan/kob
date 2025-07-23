@@ -2,10 +2,12 @@
 type: character
 race: ""
 class: ""
-origin: ""
-known_locations: []
-factions: []
-alignment: ""
+origin: 
+known_locations:
+  - "[[Spelljammer Academy]]"
+factions:
+  - "[[Spelljammer Academy Faculty]]"
+alignment:
 ---
 ![[sorkur.png|500]]
 (imagem meramente ilustrativa - ela é de outras cores!)

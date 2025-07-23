@@ -3,9 +3,10 @@ origin: "?"
 class: "?"
 race: "?"
 type: character
-known_locations: []
+known_locations: 
 factions:
   - "[[kbα1]]"
+  - "[[Keepers of the Balance]]"
 alignment: Chaotic Neutral
 ---
 

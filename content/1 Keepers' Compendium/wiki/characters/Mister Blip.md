@@ -1,10 +1,12 @@
 ---
 type: character
-race: ""
+race: Autognome
 class: ""
 origin: ""
-known_locations: []
-factions: []
+known_locations:
+  - "[[Spelljammer Academy]]"
+factions:
+  - "[[Spelljammer Academy Faculty]]"
 alignment: ""
 ---
 ![[blip.jpg]]
