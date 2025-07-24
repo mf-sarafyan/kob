@@ -13,3 +13,4 @@ Groups, cada um de uma cor:
 - ["type":"faction"]
 - ["type":"entry"]
 ```
+

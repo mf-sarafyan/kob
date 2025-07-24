@@ -1,3 +1,0 @@
----
-title: "After Action Reports"
----
