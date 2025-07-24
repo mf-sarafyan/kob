@@ -1,9 +1,9 @@
 ---
-origin: "[[Realmspace#**H’catha**]]"
+origin: "[[H’catha]]"
 class: Not very much for now
 race: Ogre (Ciclopean)
 type: character
-known_locations: []
+known_locations: 
 factions:
   - "[[kbβ42]]"
 alignment: ""

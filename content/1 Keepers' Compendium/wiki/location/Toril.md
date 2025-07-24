@@ -1,14 +1,14 @@
 ---
 type: location
-location_type: City
+location_type: Planet
 parent:
-  - "[[Faerûn]]"
+  - "[[Realmspace]]"
 ---
+# **Toril**
 
+Toril, the locale of the Forgotten Realms setting, is the most populous world in Realmspace and home to some of the most powerful individuals in this system. It has regular and prosperous ties with the various nations and factions of Wildspace.
 
-O Rio de Janeiro da Costa da Espada. 
-
----
+Toril’s single large moon, Selune, has a breathable atmosphere and is occupied by isolated groups of inhabitants. Toril’s space-dwelling communities generally congregate in a cluster of asteroids that trails behind Selune in the same orbit.
 
 <!-- DYNAMIC:related-entries -->
 

@@ -33,3 +33,7 @@ Uma mansao em [[Baldur's Gate]] onde jovens prodígios sao treinados pra serem a
 ```
 
 <!-- /DYNAMIC -->
+
+# **Anadia**
+
+The surface of Anadia is an expanse of badlands and dry washes except at its poles, where the land flattens out into gently rolling, fertile hills dotted with forests and patches of grassland. Communities of halflings occupy the polar areas, while the barren wastes are populated by monstrous predators and scavengers.

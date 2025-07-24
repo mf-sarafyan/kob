@@ -1,12 +1,11 @@
 ---
 type: location
-location_type: Building
+location_type: Quarter
 parent:
-  - "[[Bragora]]"
+  - "[[The Rock of Bral|Bral]]"
 ---
-[[Bad Juju]] - Tavern num barco estacionado no beco atrás do [[The Baank - Lucky Ones]]. Cramped e seedy. Barco de 2 andares. Bem rude com [[Cartocci]]s e afins. [[Cinders]] no bar. Usados pra delivery também. Ajudam a entregar coisas do Gizmo. Bartender tubarao humanoide (wereshark?). Punks, drags e punks drags. ***The Asscrack?***
-
-Tem ajuda de [[Krik'Lit]] e [[Pffred]] também.
+## Viscura
+A montanha onde Bral é construída é um formigueiro. Debaixo dos níveis superiores, a cidade continua, mais escura, mais úmida, e mais perigosa. Esculpida por vários tipos de apêndices e magias, os túneis de Viscura são o tapete pra onde o que não é glamoroso em Bral acaba sendo varrido.
 
 <!-- DYNAMIC:related-entries -->
 

@@ -2,7 +2,7 @@
 type: character
 race: Beholder
 class: Plumber
-origin: "[[Realmspace#**H’catha**]]"
+origin: "[[H’catha]]"
 known_locations:
   - "[[The Rock of Bral|Bral]]"
 factions:

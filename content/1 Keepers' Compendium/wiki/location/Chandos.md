@@ -1,12 +1,12 @@
 ---
 type: location
-location_type: Building
+location_type: Planet
 parent:
-  - "[[Bragora]]"
+  - "[[Realmspace]]"
 ---
-[[Bad Juju]] - Tavern num barco estacionado no beco atrás do [[The Baank - Lucky Ones]]. Cramped e seedy. Barco de 2 andares. Bem rude com [[Cartocci]]s e afins. [[Cinders]] no bar. Usados pra delivery também. Ajudam a entregar coisas do Gizmo. Bartender tubarao humanoide (wereshark?). Punks, drags e punks drags. ***The Asscrack?***
+# **Chandos**
 
-Tem ajuda de [[Krik'Lit]] e [[Pffred]] também.
+Chandos is a large water world with thousands of floating islands that often collide with one another, making these locations less than ideal for permanent settlements. Beneath the islands, in the depths of Chandos, live all sorts of bioluminescent aquatic creatures.
 
 <!-- DYNAMIC:related-entries -->
 

@@ -2,11 +2,11 @@
 type: location
 location_type: Building
 parent:
-  - "[[Bragora]]"
+  - "[[Montevia]]"
 ---
-[[Bad Juju]] - Tavern num barco estacionado no beco atrás do [[The Baank - Lucky Ones]]. Cramped e seedy. Barco de 2 andares. Bem rude com [[Cartocci]]s e afins. [[Cinders]] no bar. Usados pra delivery também. Ajudam a entregar coisas do Gizmo. Bartender tubarao humanoide (wereshark?). Punks, drags e punks drags. ***The Asscrack?***
+O palácio base da [[Monarquia Braliana]]; o trono do príncipe [[Andru Cozar]].
 
-Tem ajuda de [[Krik'Lit]] e [[Pffred]] também.
+Fileiras de colunas engravadas seguram a torre principal, um bloco de mármore branco com veias douradas refletindo o sol distante. Metal esverdeado segura janelas de cristal; terraços derramam plantas e vinhas; escadas externas serpenteiam subindo torres que acabam em observatórios. Daqui, dá pra ver um pouco dos jardins, canais e fontes que rodeiam a *Villa*.
 
 <!-- DYNAMIC:related-entries -->
 

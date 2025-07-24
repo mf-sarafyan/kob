@@ -4,9 +4,7 @@ location_type: Building
 parent:
   - "[[Bragora]]"
 ---
-[[Bad Juju]] - Tavern num barco estacionado no beco atrás do [[The Baank - Lucky Ones]]. Cramped e seedy. Barco de 2 andares. Bem rude com [[Cartocci]]s e afins. [[Cinders]] no bar. Usados pra delivery também. Ajudam a entregar coisas do Gizmo. Bartender tubarao humanoide (wereshark?). Punks, drags e punks drags. ***The Asscrack?***
-
-Tem ajuda de [[Krik'Lit]] e [[Pffred]] também.
+**The Laughing Beholder** is a staple of the Low City, owned by its namesake, the smiling **[[Luigi Zenonni|Large Luigi]]** - who often mixes and delivers drinks using his *telekinesis eye rays*. His second-in-command is Commodore Krux, who also takes care of Luigi's green parrot. It is a spacious inn with a very high ceiling - so the owner can float around - held up by arched pillars in red and gold, and serves not only local Brailian ales and wines but from all over the Known Spheres.
 
 <!-- DYNAMIC:related-entries -->
 

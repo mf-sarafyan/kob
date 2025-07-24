@@ -1,12 +1,12 @@
 ---
 type: location
-location_type: Building
+location_type: Planet
 parent:
-  - "[[Bragora]]"
+  - "[[Realmspace]]"
 ---
-[[Bad Juju]] - Tavern num barco estacionado no beco atrás do [[The Baank - Lucky Ones]]. Cramped e seedy. Barco de 2 andares. Bem rude com [[Cartocci]]s e afins. [[Cinders]] no bar. Usados pra delivery também. Ajudam a entregar coisas do Gizmo. Bartender tubarao humanoide (wereshark?). Punks, drags e punks drags. ***The Asscrack?***
+# **Karpri**
 
-Tem ajuda de [[Krik'Lit]] e [[Pffred]] também.
+This water world has icecaps at its poles and vegetation-choked waters in its equatorial region. In between, on either side of the equatorial zone, are bands of featureless ocean—nothing but water as far as the eye can see. Most of the planet’s indigenous creatures are aquatic and dwell in the tropical sargasso, since the planet has no land masses that can support life.
 
 <!-- DYNAMIC:related-entries -->
 

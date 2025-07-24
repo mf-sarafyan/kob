@@ -1,7 +1,8 @@
 ---
 type: location
 location_type: Base
-parent: "[[Realmspace]]"
+parent:
+  - "[[Toril]]"
 ---
 
 ![[sjacademy_map.jpg]]

@@ -3,7 +3,8 @@ origin: Toril
 class: Cadet
 race: Human
 type: character
-known_locations: []
+known_locations:
+  - "[[Spelljammer Academy]]"
 factions:
   - "[[kbβ42]]"
 alignment: ""

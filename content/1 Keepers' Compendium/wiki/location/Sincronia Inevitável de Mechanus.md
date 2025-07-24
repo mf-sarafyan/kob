@@ -36,3 +36,5 @@ O plano na cosmologia da Grande Roda que representa o alinhamento LEAL E NEUTRO.
 ```
 
 <!-- /DYNAMIC -->
+
+**Millicent Milleau's Mille Eaus** is a renowned perfumes & potions shop, owned by a mysterious lilac-wearing lady with a special interest in the occult. 

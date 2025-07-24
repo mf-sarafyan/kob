@@ -2,8 +2,8 @@
 type: character
 race: Autognome
 class: ""
-origin: "[[Realmspace#**H’catha**]]"
-known_locations: []
+origin: "[[H’catha]]"
+known_locations: 
 factions:
   - "[[kbβ42]]"
 alignment: ""

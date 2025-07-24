@@ -2,7 +2,7 @@
 type: location
 location_type: Sphere
 parent:
-  - "[[kob/content/1 Keepers' Compendium/wiki/location/Astral Sea|Astral Sea]]"
+  - "[[The Phlogiston]]"
 ---
 
 <!-- DYNAMIC:related-entries -->

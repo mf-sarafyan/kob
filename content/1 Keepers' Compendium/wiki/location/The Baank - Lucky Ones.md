@@ -3,7 +3,6 @@ type: location
 location_type: Building
 parent:
   - "[[La Citta]]"
-  - "[[The Rock of Bral|Bral]]"
 ---
 Gambling Hall/Stock Exchange. **The Baank**: "feeling lucky?" / **Lucky Ones**: 2 d20s rolando 1. Aprendizes do Il Veluto como crupies. 4 hirelings. Gerente Dick Vigarista? 
 

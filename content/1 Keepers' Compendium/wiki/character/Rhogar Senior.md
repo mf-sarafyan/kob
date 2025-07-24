@@ -9,7 +9,7 @@ factions:
   - "[[Keepers of the Balance]]"
 alignment: ""
 ---
-
+Pai do [[Rhogar]] e Keeper secreto de [[Faerûn]].
 
 <!-- DYNAMIC:related-entries -->
 

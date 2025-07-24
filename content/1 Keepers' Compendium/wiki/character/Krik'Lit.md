@@ -3,8 +3,10 @@ origin: Toril
 class: Carpenter
 race: Thri-Kreen
 type: character
-known_locations: []
-factions: "[[kbβ42]]"
+known_locations:
+  - "[[Spelljammer Academy]]"
+factions:
+  - "[[kbβ42]]"
 alignment: ""
 ---
 Krik'Lit se apresenta inicialmente como reservada e pensativa; mas a promessa de uma boa fofoca rapidamente faz seus olhos verdes multifacetados brilharem mais que o normal. Ainda assim, ela tem uma atitude profissional e costuma preferir a companhia de suas ferramentas que a bagunça da tripulação. 

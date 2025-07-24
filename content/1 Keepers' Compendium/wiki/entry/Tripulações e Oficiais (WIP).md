@@ -124,7 +124,7 @@ Tripulantes vem em quatro níveis:
 | Especialista | 6gp | +4 |
 
 **Verdes** são encontrados em qualquer lugar, inclusive mundos terrestres; são perdidos procurando sua fortuna pela primeira vez no espaço. 
-**Amadores** são encontrados com mais frequência nos portos civilizados como a [[Pedra de Bral]]. São tripulantes que já tiveram alguma experiência em Wildspace. 
+**Amadores** são encontrados com mais frequência nos portos civilizados como [[The Rock of Bral|Bral]]. São tripulantes que já tiveram alguma experiência em Wildspace. 
 **Profissionais** são experientes, provavelmente em vários barcos diferentes, e difíceis de se encontrar. Portos maiores costumam ter 3d10 profissionais disponíveis. 
 **Especialistas** são profissionais com vasta experiência num barco específico. Se não estão na embarcação de sua especialidade, são tratados como outros profissionais. 
 

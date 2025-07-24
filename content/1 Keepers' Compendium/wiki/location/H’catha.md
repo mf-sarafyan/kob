@@ -1,12 +1,12 @@
 ---
 type: location
-location_type: Building
+location_type: Planet
 parent:
-  - "[[Bragora]]"
+  - "[[Realmspace]]"
 ---
-[[Bad Juju]] - Tavern num barco estacionado no beco atrás do [[The Baank - Lucky Ones]]. Cramped e seedy. Barco de 2 andares. Bem rude com [[Cartocci]]s e afins. [[Cinders]] no bar. Usados pra delivery também. Ajudam a entregar coisas do Gizmo. Bartender tubarao humanoide (wereshark?). Punks, drags e punks drags. ***The Asscrack?***
+# **H’catha**
 
-Tem ajuda de [[Krik'Lit]] e [[Pffred]] também.
+H’catha is a disk of water floating in space, with a single large mountain called the Spindle jutting from its center. The water disk tapers at the edge to form a rim. The Spindle is 200 miles across at its base, and tapers to a peak 1,000 miles above the surface of the water. The caverns inside the Spindle are home to five warring subspecies of beholders.
 
 <!-- DYNAMIC:related-entries -->
 

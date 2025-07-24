@@ -2,11 +2,9 @@
 type: location
 location_type: Building
 parent:
-  - "[[Bragora]]"
+  - "[[La Citta]]"
 ---
-[[Bad Juju]] - Tavern num barco estacionado no beco atrás do [[The Baank - Lucky Ones]]. Cramped e seedy. Barco de 2 andares. Bem rude com [[Cartocci]]s e afins. [[Cinders]] no bar. Usados pra delivery também. Ajudam a entregar coisas do Gizmo. Bartender tubarao humanoide (wereshark?). Punks, drags e punks drags. ***The Asscrack?***
-
-Tem ajuda de [[Krik'Lit]] e [[Pffred]] também.
+**Millicent Milleau's Mille Eaus** is a renowned perfumes & potions shop, owned by a mysterious lilac-wearing lady with a special interest in the occult.
 
 <!-- DYNAMIC:related-entries -->
 

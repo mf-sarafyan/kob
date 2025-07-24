@@ -3,7 +3,8 @@ origin: Wildspace
 class: Deckhand
 race: Plasmoid
 type: character
-known_locations: []
+known_locations:
+  - "[[Spelljammer Academy]]"
 factions:
   - "[[kbβ42]]"
 alignment: ""

@@ -2,7 +2,7 @@
 type: location
 location_type: Continent
 parent:
-  - "[[Realmspace]]"
+  - "[[Toril]]"
 ---
 
 

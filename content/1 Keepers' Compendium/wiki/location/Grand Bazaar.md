@@ -4,9 +4,7 @@ location_type: Building
 parent:
   - "[[Bragora]]"
 ---
-[[Bad Juju]] - Tavern num barco estacionado no beco atrás do [[The Baank - Lucky Ones]]. Cramped e seedy. Barco de 2 andares. Bem rude com [[Cartocci]]s e afins. [[Cinders]] no bar. Usados pra delivery também. Ajudam a entregar coisas do Gizmo. Bartender tubarao humanoide (wereshark?). Punks, drags e punks drags. ***The Asscrack?***
-
-Tem ajuda de [[Krik'Lit]] e [[Pffred]] também.
+Two-tiered open market hall at the heart of La Città, filled with tents, spice caravans, appraisers, and luxury shops.
 
 <!-- DYNAMIC:related-entries -->
 

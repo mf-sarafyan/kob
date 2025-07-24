@@ -5,7 +5,6 @@ class: Saxophonist
 origin: ""
 known_locations:
   - "[[The Rock of Bral|Bral]]"
-  - "[[The Laughing Beholder]]"
 factions:
   - "[[Xenophonics]]"
   - "[[Zenonni]]"

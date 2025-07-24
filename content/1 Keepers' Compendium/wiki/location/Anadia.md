@@ -1,12 +1,12 @@
 ---
 type: location
-location_type: Building
+location_type: Planet
 parent:
-  - "[[Bragora]]"
+  - "[[Realmspace]]"
 ---
-[[Bad Juju]] - Tavern num barco estacionado no beco atrás do [[The Baank - Lucky Ones]]. Cramped e seedy. Barco de 2 andares. Bem rude com [[Cartocci]]s e afins. [[Cinders]] no bar. Usados pra delivery também. Ajudam a entregar coisas do Gizmo. Bartender tubarao humanoide (wereshark?). Punks, drags e punks drags. ***The Asscrack?***
+# **Anadia**
 
-Tem ajuda de [[Krik'Lit]] e [[Pffred]] também.
+The surface of Anadia is an expanse of badlands and dry washes except at its poles, where the land flattens out into gently rolling, fertile hills dotted with forests and patches of grassland. Communities of halflings occupy the polar areas, while the barren wastes are populated by monstrous predators and scavengers.
 
 <!-- DYNAMIC:related-entries -->
 

@@ -1,12 +1,12 @@
 ---
 type: location
-location_type: Building
+location_type: Planet
 parent:
-  - "[[Bragora]]"
+  - "[[Realmspace]]"
 ---
-[[Bad Juju]] - Tavern num barco estacionado no beco atrás do [[The Baank - Lucky Ones]]. Cramped e seedy. Barco de 2 andares. Bem rude com [[Cartocci]]s e afins. [[Cinders]] no bar. Usados pra delivery também. Ajudam a entregar coisas do Gizmo. Bartender tubarao humanoide (wereshark?). Punks, drags e punks drags. ***The Asscrack?***
+# **Coliar**
 
-Tem ajuda de [[Krik'Lit]] e [[Pffred]] também.
+This gas giant has a multitude of earth and water islands swirling around in its turbulent winds. These islands are occupied mostly by aarakocra, lizardfolk, and dragons. The lizardfolk, in particular, are accustomed to trading with spacefaring folk.
 
 <!-- DYNAMIC:related-entries -->
 
