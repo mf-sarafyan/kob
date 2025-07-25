@@ -4,7 +4,7 @@ location_type: Quarter
 parent:
   - "[[The Rock of Bral|Bral]]"
 ---
-O bairro nobre e ilustre coroa a cidade, e o **Palazzo Celestia** é a sua jóia central. Fileiras de colunas engravadas seguram a torre principal, um bloco de mármore branco com veias douradas refletindo o sol distante. Metal esverdeado segura janelas de cristal; terraços derramam plantas e vinhas; escadas externas serpenteiam subindo torres que acabam em observatórios. Daqui, dá pra ver um pouco dos jardins, canais e fontes que rodeiam a *Villa*. 
+O bairro nobre e ilustre coroa a cidade, e o **[[Palazzo Celestia]]** é a sua jóia central. Fileiras de colunas engravadas seguram a torre principal, um bloco de mármore branco com veias douradas refletindo o sol distante. Metal esverdeado segura janelas de cristal; terraços derramam plantas e vinhas; escadas externas serpenteiam subindo torres que acabam em observatórios. Daqui, dá pra ver um pouco dos jardins, canais e fontes que rodeiam a *Villa*. 
 *Inspiração: Pallazo Ducale, VIlla d'Este*
 
 O nível em volta do palácio foi uma tentativa de consolidar o maior número de mansões no menor espaço possível, o que acabou com elas um pouco *emaranhadas* - os telhados são calçadas, restaurantes no andar de cima de casas com pontes abobadadas levando pro vizinho, cachoeiras enfeitando a passagem de um andar pro outro. Torres e domos quebram o horizonte em alturas diferentes. Gárgulas mecânicos olham de um lado pro outro. Árvores retorcidas e varandas se extendem ao espaço na horizontal. É como se tivessem tentado colocar arte em cada centímetro. 

@@ -1,17 +1,14 @@
 ---
 type: location
-location_type: Building
+location_type: ""
 parent:
   - "[[Montevia]]"
 ---
-O palácio base da [[Monarquia Braliana]]; o trono do príncipe [[Andru Cozar]].
+Serves as the regional headquarters of [[The Seekers]], and contains an impressive collection of books, tomes, scrolls, and manuscripts of all descriptions. The city of Bral is too young to warrant a library of this size, but the Seekers were forced to move two of their smaller collections to Bral about 30 years ago. These two collections account for the majority of books found in the library.
 
-Fileiras de colunas engravadas seguram a torre principal, um bloco de mármore branco com veias douradas refletindo o sol distante. Metal esverdeado segura janelas de cristal; terraços derramam plantas e vinhas; escadas externas serpenteiam subindo torres que acabam em observatórios. Daqui, dá pra ver um pouco dos jardins, canais e fontes que rodeiam a *Villa*.
+Its head librarian and keeper is [[Marvo Threnn]], an eccentric vegan mind flayer. 
 
-![[Palazzo Celestia at Dusk.png]]
-
-![[palazzo celestia 2.png]]
-
+![[Seekers Library.png|400]]
 <!-- DYNAMIC:related-entries -->
 
 ## Factions Based Here

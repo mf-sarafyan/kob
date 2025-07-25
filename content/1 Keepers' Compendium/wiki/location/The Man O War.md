@@ -4,13 +4,9 @@ location_type: Building
 parent:
   - "[[Montevia]]"
 ---
-O palácio base da [[Monarquia Braliana]]; o trono do príncipe [[Andru Cozar]].
+Flowered terraces climbing the cliff from [[La Citta]] up toward [[Montevia]] offer a spectacular view of the city and Wildspace as the most distinguished citizens of the city dine in one of the finest inns and restaurants of any sphere. Dress code and good conduct are enforced by not only highly payed mercenaries, but the eyes of the highest of society. The plush suites are often reserved by diplomats or other high-ranking visitors. 
 
-Fileiras de colunas engravadas seguram a torre principal, um bloco de mármore branco com veias douradas refletindo o sol distante. Metal esverdeado segura janelas de cristal; terraços derramam plantas e vinhas; escadas externas serpenteiam subindo torres que acabam em observatórios. Daqui, dá pra ver um pouco dos jardins, canais e fontes que rodeiam a *Villa*.
-
-![[Palazzo Celestia at Dusk.png]]
-
-![[palazzo celestia 2.png]]
+![[Man O War.png|400]]
 
 <!-- DYNAMIC:related-entries -->
 

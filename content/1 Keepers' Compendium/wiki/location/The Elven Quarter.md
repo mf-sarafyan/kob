@@ -1,10 +1,12 @@
 ---
 type: location
-location_type: Building
+location_type: Park
 parent:
   - "[[La Citta]]"
+aliases:
+  - Il Bosco
 ---
-**Millicent Milleau's Mille Eaus** is a renowned perfumes & potions shop, owned by a mysterious lilac-wearing lady with a special interest in the occult.
+Against the walls where [[La Citta]] meets [[Viscura]], right below [[The Man O War]] in [[Montevia]], a miracle grows amid the city: a mystical grove of enchanted birch, laurel, ash and oak trees, many of which appear to be several hundred years old; possibly the most beautiful place in the asteroid. Enchantments ensure those who have no business there quickly find themselves outside, in marvel and slight confusion. 
 
 <!-- DYNAMIC:related-entries -->
 
