@@ -11,6 +11,7 @@ alignment: ""
 # 🛠️ Unidade de Spelljammer KB-Beta-42 "Betsy"
 
 _Classe Tradesman personalizada — 35 toneladas_
+![[betsy2.png]]
 
 ---
 

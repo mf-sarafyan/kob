@@ -1,6 +1,6 @@
 ---
 type: location
-location_type: ""
+location_type: Building
 parent:
   - "[[Montevia]]"
 ---
