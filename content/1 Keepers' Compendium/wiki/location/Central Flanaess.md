@@ -1,13 +1,11 @@
 ---
 type: location
-location_type: Plane
+location_type: Continent Region
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Oerth]]"
+appears_in:
 ---
-O Plano Astral!
+
 
 <!-- DYNAMIC:related-entries -->
 

@@ -1,8 +1,9 @@
 ---
 title: Cult of Iuz
 type: faction
-parent: ""
-location: "[[Greyhawk]]"
+parent:
+  - ""
+location: "[[Central Flanaess]]"
 faction_type: Evil Cult
 alignment: Evil
 leader: ""

@@ -1,13 +1,11 @@
 ---
 type: location
-location_type: Plane
+location_type: Dungeon
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Viscondado de Verbobonc]]"
+appears_in:
 ---
-O Plano Astral!
+Teoricamente abandonado, era a fonte de hordas malignas de monstros sanguinários que perambulavam pelas terras de [[Central Flanaess]]. Base do antigo [[Cult of Elemental Evil]].
 
 <!-- DYNAMIC:related-entries -->
 

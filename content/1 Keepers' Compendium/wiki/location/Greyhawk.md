@@ -1,7 +1,8 @@
 ---
 type: location
 location_type: City
-parent: "[[Greyspace]]"
+parent:
+  - "[[Central Flanaess]]"
 ---
 A cidade-estado de **Greyhawk** (Free City of Greyhawk), em **Oerth**, era o cenário do jogo de D&D do criador Gary Gygax, e o local de origem e aventuras de vários personagens famosos, como [[Mordenkainen]], Tasha, Bigby, e etc. 
 

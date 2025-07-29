@@ -1,6 +1,6 @@
 ---
 type: location
-location_type: Astral Body
+location_type: Planet
 parent:
   - "[[Realmspace]]"
 ---

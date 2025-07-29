@@ -1,13 +1,12 @@
 ---
 type: location
-location_type: Plane
+location_type: Building
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Garden Quarter]]"
+appears_in:
 ---
-O Plano Astral!
+Templo principal da [[The Church of Pelor]] em Greyhawk. 
+Encabeçado pela Archpriest [[Sarana]]. 
 
 <!-- DYNAMIC:related-entries -->
 

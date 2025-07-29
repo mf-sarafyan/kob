@@ -1,13 +1,11 @@
 ---
 type: location
-location_type: Plane
+location_type: Quarter
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Greyhawk]]"
+appears_in:
 ---
-O Plano Astral!
+A quebrada de Greyhawk; o bairro mais pobre e fodido, com casinhas apertadas e cheia de crime. 
 
 <!-- DYNAMIC:related-entries -->
 

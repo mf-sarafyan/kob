@@ -1,13 +1,11 @@
 ---
 type: location
-location_type: Plane
+location_type: Planet
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Greyspace]]"
+appears_in:
 ---
-O Plano Astral!
+O planeta onde fica o cenário de Greyhawk. 
 
 <!-- DYNAMIC:related-entries -->
 

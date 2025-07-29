@@ -1,13 +1,11 @@
 ---
 type: location
-location_type: Plane
+location_type: Quarter
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Greyhawk]]"
+appears_in:
 ---
-O Plano Astral!
+Um pouquinho melhor que o [[Slum Quarter]], mas só um pouquinho. 
 
 <!-- DYNAMIC:related-entries -->
 

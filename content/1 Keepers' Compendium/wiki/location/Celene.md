@@ -1,13 +1,11 @@
 ---
 type: location
-location_type: Plane
+location_type: Realm
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Central Flanaess]]"
+appears_in:
 ---
-O Plano Astral!
+Monarquia élfica com grande população de gnomos e halflings.
 
 <!-- DYNAMIC:related-entries -->
 

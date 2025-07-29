@@ -80,5 +80,3 @@ Firmam o presente instrumento sob selamento mágico e juramento arcano:
 [[kob/content/1 Keepers' Compendium/wiki/character/Vax|Vax]]
 [[kob/content/1 Keepers' Compendium/wiki/character/Baang|Baang]]
 [[Mordenkainen]], o Cinzento – Supervisor Planar-Geral
-
-**Dottori**. Uma das famílias mais ricas de Bral, donos de bancos e galerias de arte, com membros na corte, nas guildas, nas Famiglias. 

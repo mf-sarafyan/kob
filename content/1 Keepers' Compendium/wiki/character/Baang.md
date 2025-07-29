@@ -18,7 +18,7 @@ Baang - como é comum com Genasi em Oerth - foi tomado dos pais pelo [[Cult of E
 Um ato mudou sua vida: uma tentativa de furto contra um aparente [[Captain Jordal Brambletopple||halfling espalhafatoso e desavisado]]. Incrédulo e admirado da coragem do garoto, ele o tomou como pupilo, levando-o para treinar em [[Baldur's Gate]]. 
 
 ## Personalidade
-Baang age dramaticamente e com _flair_, mas no fundo é um fanboy de seu mestre e é perdidamente apaixonado por sua [[Morena]]. 
+Baang age dramaticamente e com _flair_, mas no fundo é um fanboy de seu mestre e é perdidamente apaixonado por sua [[Aimra'at Jorp]]. 
 
 
 ---

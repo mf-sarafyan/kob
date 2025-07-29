@@ -1,13 +1,11 @@
 ---
 type: location
-location_type: Plane
+location_type: Planar Region
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Nove Infernos de Baator]]"
+appears_in: 
 ---
-O Plano Astral!
+
 
 <!-- DYNAMIC:related-entries -->
 

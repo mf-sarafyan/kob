@@ -1,13 +1,11 @@
 ---
 type: location
-location_type: Plane
+location_type: Realm
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Central Flanaess]]"
+appears_in:
 ---
-O Plano Astral!
+Estado teocrático de fiéis de Rao, um farol de justiça e esperança.
 
 <!-- DYNAMIC:related-entries -->
 

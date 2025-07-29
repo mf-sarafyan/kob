@@ -1,13 +1,11 @@
 ---
 type: location
-location_type: Plane
+location_type: Realm
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Central Flanaess]]"
+appears_in:
 ---
-O Plano Astral!
+Vassalos de [[Arcediocese de Veluna]] e local onde fica o [[Temple of Elemental Evil]].
 
 <!-- DYNAMIC:related-entries -->
 

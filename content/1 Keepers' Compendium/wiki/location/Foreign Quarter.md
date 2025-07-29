@@ -1,13 +1,11 @@
 ---
 type: location
-location_type: Plane
+location_type: Quarter
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Greyhawk]]"
+appears_in:
 ---
-O Plano Astral!
+Bairro multicultural com casas e apartamentos (juro, tá escrito assim no livro) e ótimos restaurantes. 
 
 <!-- DYNAMIC:related-entries -->
 

@@ -1,13 +1,10 @@
 ---
 type: location
-location_type: Plane
-parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+location_type: ""
+parent: []
+appears_in: []
 ---
-O Plano Astral!
+O Multiverso Planar.
 
 <!-- DYNAMIC:related-entries -->
 

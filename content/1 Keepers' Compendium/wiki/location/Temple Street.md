@@ -1,13 +1,11 @@
 ---
 type: location
-location_type: Plane
+location_type: Street
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Clerkburg]]"
+appears_in:
 ---
-O Plano Astral!
+Adivinha o que tem aqui.
 
 <!-- DYNAMIC:related-entries -->
 

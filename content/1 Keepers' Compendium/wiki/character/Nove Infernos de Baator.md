@@ -3,11 +3,20 @@ type: location
 location_type: Plane
 parent:
   - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+appears_in:
 ---
-O Plano Astral!
+O plano que encarna o **Lawful Evil**; lar dos diabos. 
+
+Dividido em nove níveis, cada um liderado por seu arquidiabo: 
+- [[Avernus]], e [[Zariel]]
+- [[Dis]], e [[Dispater]]
+- [[Minauros]], e [[Mammon]]
+- [[Phlegethos]], e [[Belial]] e [[Fierna]]
+- [[Stygia]], e [[Levistus]]
+- [[Malbolge]], e [[Glasya]]
+- [[Maladomini]], e [[Baalzebul]]
+- [[Cania]], e [[Mephistopheles]]
+- Finalmente, [[Nessus]], a morada do próprio [[Asmodeus]].
 
 <!-- DYNAMIC:related-entries -->
 

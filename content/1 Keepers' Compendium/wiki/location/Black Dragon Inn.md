@@ -1,13 +1,11 @@
 ---
 type: location
-location_type: Plane
+location_type: Building
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Clerkburg]]"
+appears_in:
 ---
-O Plano Astral!
+Uma taverna de 3 andares e meio detonada, apresentada por uma placa com um dragão negro sorridente. Comida boa e quartos baratos. O dono do lugar é [[Miklos Dare]], um veterano de guerra que participou da [[Battle of the Emridy Meadows]]. Tem uma rivalidade amistosa com o [[Silver Dragon Inn]]. 
 
 <!-- DYNAMIC:related-entries -->
 

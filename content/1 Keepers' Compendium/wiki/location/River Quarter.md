@@ -1,13 +1,13 @@
 ---
 type: location
-location_type: Plane
+location_type: Quarter
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Greyhawk]]"
+appears_in:
 ---
-O Plano Astral!
+Tavernas e locais de entretenimento (eu acho que sei o que o livro quis dizer com isso), além das docas de Greyhawk no rio Selintan. 
+
+É a parte mais mercantil, diversa e multicultural da cidade.
 
 <!-- DYNAMIC:related-entries -->
 

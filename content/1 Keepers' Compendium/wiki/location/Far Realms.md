@@ -1,13 +1,10 @@
 ---
 type: location
-location_type: Plane
-parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+location_type: ""
+parent: []
+appears_in:
 ---
-O Plano Astral!
+Os Reinos Distantes, fora da [[The Great Wheel]], onde entidades ininteligíveis residem. Lar e origem das Aberrações. Fora do Multiverso, e do entendimento de mentes mortais. 
 
 <!-- DYNAMIC:related-entries -->
 

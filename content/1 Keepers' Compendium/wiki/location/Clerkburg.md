@@ -1,13 +1,11 @@
 ---
 type: location
-location_type: Plane
+location_type: Quarter
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Greyhawk]]"
+appears_in:
 ---
-O Plano Astral!
+O distrito escolar de [[Greyhawk]], com dezenas de escolas, colégios e universidades. Tem uma rua cheia de templos apropriadamente chamada [[Temple Street]].
 
 <!-- DYNAMIC:related-entries -->
 

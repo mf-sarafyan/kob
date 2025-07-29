@@ -1,13 +1,11 @@
 ---
 type: location
-location_type: Plane
+location_type: Building
 parent:
-  - "[[The Great Wheel]]"
-aliases:
-  - Astral
-  - Plano Astral
+  - "[[Foreign Quarter]]"
+appears_in:
 ---
-O Plano Astral!
+Mais glamurosa que o [[Black Dragon Inn]], o Silver Dragon conta com seguranças pra garantir que ninguém entra com armas ou armaduras, e pratos mais caros (mas com comida pra caralho). Os donos (um casal, [[Olaf Al-Azul]] e [[Sivan Al-Azul]]) falam várias línguas e trocam idéia com todo mundo. Dignitários exóticos costumam ficar por aqui. 
 
 <!-- DYNAMIC:related-entries -->
 

@@ -1,6 +1,6 @@
 ---
 type: location
-location_type: Base
+location_type: Building
 parent:
   - "[[Toril]]"
 ---

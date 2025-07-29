@@ -1,7 +1,9 @@
 ---
 type: location
 location_type: Plane
-parent: ""
+parent:
+  - ""
+  - "[[The Great Wheel]]"
 ---
 https://forgottenrealms.fandom.com/wiki/Mechanus 
 
