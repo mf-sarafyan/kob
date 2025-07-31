@@ -13,6 +13,21 @@ Guardas de capa azul celeste patrulham o céu em grifos, levando bandeiras azuis
 
 Algumas construções chamam a atenção ainda mais que as outras - um Domo vermelho maior que os outros; uma cúpula dourada tem um telescópio gigantesco; uma das paredes tem várias extensões especialmente floradas e cheias de mesinhas. Uma das mansões tem uma torre fina de metal cheia de canos cuspindo fumaça. 
 
+![[upper city.png]]
+
+# Noble Houses
+[[Noble Houses of Bral]] (Pelo menos 14 casas nobres já estabelecidas; acho que não tem espaço pra tanto mais que isso. Devem ter o que, umas 20 max)
+
+# Other Places
+- [[The Library of the Spheres]]: biblioteca de conhecimento 
+- [[The Man O' War]] - restaurante fancy 
+- Royal Theatrical Company
+- Noble Council
+- Upper Magistrate
+- The Crystal Lamp - taverna fancy 
+- [[The Red Spiral]] (The Cap) - bordéis highest-end
+- [[Ferrucio's Spire]]
+
 <!-- DYNAMIC:related-entries -->
 
 ## Factions Based Here

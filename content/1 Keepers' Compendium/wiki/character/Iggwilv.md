@@ -3,8 +3,10 @@ origin: Greyhawk
 class: Wizard/Warlock
 race: Human
 type: character
-known_locations: []
-factions: []
+known_locations:
+  - "[[Greyhawk]]"
+  - "[[Central Flanaess]]"
+factions: 
 alignment: ""
 ---
 Bruxa de Greyhawk, autora do Demonomicon e [[Keeper of Whispers]].

@@ -8,8 +8,6 @@ An impressive stadium of the same white granite used in the palace. Although the
 
 While these contests may attract some attention, most of the more bloodthirsty citizens of the city prefer to patronize the illegal pit fights of the Low City. The Arena is occasionally used by duelists as a neutral ground to resolve their differences.
 
-The Arena sits by the cliff, with additional, extra-fancy balconies climbing the steps up; and some of its facilities extend into [[Viscura]].
-
 <!-- DYNAMIC:related-entries -->
 
 ## Factions Based Here

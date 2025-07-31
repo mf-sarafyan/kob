@@ -1,12 +1,13 @@
 ---
 type: character
-race: ""
+race: Demigod
 class: ""
-origin: ""
-known_locations: []
+origin: 
+known_locations:
+  - "[[Central Flanaess]]"
 factions:
   - "[[Cult of Iuz]]"
-alignment: ""
+alignment: Chaotic Evil
 ---
 Metade demônio, metade deus, metade gato, três quartos marvado, cento e dez por cento brabo. 
 

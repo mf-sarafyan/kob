@@ -1,12 +1,13 @@
 ---
 type: location
-location_type: Park
+location_type: Building
 parent:
-  - "[[La Citta]]"
-aliases:
-  - Il Bosco
+  - "[[Montevia]]"
+appears_in:
 ---
-Against the walls where [[La Citta]] meets [[Viscura]], right below [[The Man O' War]] in [[Montevia]], a miracle grows amid the city: a mystical grove of enchanted birch, laurel, ash and oak trees, many of which appear to be several hundred years old; possibly the most beautiful place in the asteroid. Enchantments ensure those who have no business there quickly find themselves outside, in marvel and slight confusion. 
+Lar e laboratório do Filósofo Real, [[Ferrucio Martelloni]] (um anão inventor).
+
+![[Ferrucios Spire.png]]
 
 <!-- DYNAMIC:related-entries -->
 

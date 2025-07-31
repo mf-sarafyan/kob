@@ -26,6 +26,23 @@ O lado de "cima" - onde ficam [[Bragora]], [[La Citta]] e [[Montevia]] - é onde
 
 O lado de "baixo", além de um Castelo de defesa e as Docas da marinha real, é lotado de plantações ultra-eficientes de **madeira** que é usada em [[Soffiera]] para a indústria de Spelljamming da cidade. 
 
+# Business
+As atividades econômicas mais relevantes em Bral: 
+- Compra e venda (e appraisal) de artigos de todas as esferas; 
+- Spelljammer ship stuff (compras, reparos, equipamentos);
+	- Sempre tem pelo menos um [[Arcane]] vendendo Spelljamming Helms.
+	- Star charts e crew tb;
+- Trade company stuff (contratos de carga/etc pras companhias que fazem negócios aqui);
+- Companhias de Mercenários; 
+- Adventuring Gear
+	- itens mundanos e mágicos
+- Exploração/prospecção de asteróides no Grinder;
+	- Tipo contratar aventureiros pra procurar um lugar pra instalar uma mina de enxofre pra fazer póvora
+- Comida e bebida de luxo (turismo inclusive); 
+	- Algumas vindas de fora, algumas de produção local
+- Muitas tavernas de qualidade variável
+- [[The Red Spiral]]: red light district
+
 
 <!-- DYNAMIC:related-entries -->
 
