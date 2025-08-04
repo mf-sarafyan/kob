@@ -2,7 +2,7 @@
 type: location
 location_type: Building
 parent:
-  - "[[Bragora]]"
+  - "[[kob/content/1 Keepers' Compendium/wiki/location/Bragora]]"
 ---
 [[Bad Juju]] - Tavern num barco estacionado no beco atrás do [[The Baank - Lucky Ones]]. Cramped e seedy. Barco de 2 andares. Bem rude com [[Cartocci]]s e afins. [[Cinders]] no bar. Usados pra delivery também. Ajudam a entregar coisas do Gizmo. Bartender tubarao humanoide (wereshark?). Punks, drags e punks drags. ***The Asscrack?***
 

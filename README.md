@@ -13,6 +13,8 @@ Me manda seu usuário do git que eu tenho que te adicionar como colaborador pra 
 Cria uma vault no obsidian na pasta que vc clonou 
 Pra renderizar os links bonitinhos precisa instalar no obsidian o plugin **dataview** (vai em community plugins e instala)
 
+Pra renderizar os mapas precisa do plugin **excalidraw**.
+
 **Melhor jeito de ver o grafo:**
 ```
 - Abre o graph view

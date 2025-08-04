@@ -2,7 +2,7 @@
 type: location
 location_type: Building
 parent:
-  - "[[Bragora]]"
+  - "[[kob/content/1 Keepers' Compendium/wiki/location/Bragora]]"
 ---
 **The Laughing Beholder** is a staple of the Low City, owned by its namesake, the smiling **[[Luigi Zenonni|Large Luigi]]** - who often mixes and delivers drinks using his *telekinesis eye rays*. His second-in-command is Commodore Krux, who also takes care of Luigi's green parrot. It is a spacious inn with a very high ceiling - so the owner can float around - held up by arched pillars in red and gold, and serves not only local Brailian ales and wines but from all over the Known Spheres.
 
