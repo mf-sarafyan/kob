@@ -19,17 +19,22 @@ Bragora é subdividida em ilhas pelos seus canais; algumas inclusive se tornaram
 
 **Bragora externa:**
 - [[Dockside]] (Riva Alta e Riva Bassa) é adjacente às Docas 
-	- Muitas warehouses
-	- [[Cuttle Tower]] (Shipwright's Guildhall) - Bassa
-	- [[Master of the Docks' Office]] - Alta
-	- algumas tavernas ([[The Laughing Beholder]] - Bassa)
-	- Frente de loja pra Spelljammer stuff menos glamouroso produzido em Soffiera.
-	- Ponte enferrujada entre riva alta e bassa
+	- Riva Alta:
+		- Muitas warehouses
+			- Donos são casas nobres ou Trade Companies
+		- [[House Murawa]]: home of the wealthiest Shou in town, next to his warehouses
+		- [[Master of the Docks' Office]] - Alta
+	- Riva Bassa
+		- algumas tavernas ([[The Laughing Beholder]] - Bassa)
+		- Frente de loja pra Spelljammer stuff menos glamouroso produzido em Soffiera. sailmakers, armas basicas, etc
+	- Ponte enferrujada entre riva alta e bassa sempre com umas 3 gondolas estacionadas vendendo boiled praws e fish heads
 - [[Arsenale]] - shipyards da cidade
+	- [[Cuttle Tower]] (Shipwright's Guildhall)
 	- mts acessos (elevadores inversores) pras docas de soffiera
 	- Museu
 - [[Lo Strozzo]] (The Strangle/The Ropeways) é um labirinto de cordas e plataformas de madeira
 	- [[The Council of The City]] 
+	- tanneries, ropemakers (stinky)
 	- Tavernas mais hardcore da cidade. (The Rockrat)
 - [[Shou Town]] é o bairro asiático (a Liberdade). O mais comfy de Bragora
 	- Onde fica o [[Lesser Market]]
@@ -38,32 +43,41 @@ Bragora é subdividida em ilhas pelos seus canais; algumas inclusive se tornaram
 	- Tea houses, jardinzinhos e italian-asian fusion food
 	- Lanternas tradicionais e neon futurista
 - [[The Burrows]] é o bairro dos halflings, gnomos e outros pequeninos
+	- Bem inclinado, bom pra casinhas cavernosas
 	- Muitos lugares bons pra comer! Osteria da Nonna meu. Turismo gastronômico
 	- mostly residencial. uns poucos tinkers. a maioria mora aqui e trabalha em outro lugar
 	- Tem que se abaixar pra passar pelas portas
-	- Se dão bem com os amigos kobolds do outro lado do canal
+	- Se dão bem com os amigos kobolds do outro lado do canal (atravessando a *ponte di piccolo*)
 - [[Gifftown]] (autoexplicativo e autoexplosivo)
 	- [[The Hippodrome]] (não sei o que é, mas gifftown precisa de um lugar com esse nome)
-	- lojas de fumo
-	- Café com pólvora, shooting ranges
+	- lojas de fumo (stinky)
+	- Café com pólvora
+	- shooting ranges
+	- pode conter estadounidenses
 - Andru's Gift:
 	- Elevador no cruzamento entre shou town, mezzalucce, lo strozzo. Sobe pra [[La Citta]].
 **Lower Viscura (Bragora Interna):**
-- [[Mezzaluce]] (The Half-light): velas, lanternas, e o [[Low Magistrate's Office]]. 
+- [[Mezzaluce]] (The Half-light): 
+	- velas, lanternas
+	- o [[Low Magistrate's Office]]. 
 	- [[Cartocci]] te fazendo calar a boca
 	- Teatro silencioso
 - [[Stillwater]] (L'Acqua), quase sempre alagado, sempre pingando. Fica embaixo do elevador de La Citta pra Montevia.
-	- Várias bathhouses (algumas com final feliz)
-	- Fish market
-	- Fighting pits
+	- Várias bathhouses (algumas com final feliz, mas de um jeito triste)
+	- Fish market (stinky)
+	- secret fighting pits with lots of drowning
 	- Vendedores de guardachuva. 
 - [[Micelio]] (Fungal Warrens), onde crescem fungos estranhos.
 	- [[The Red Spiral]]
+		- O Morto Muito Louco: bordel undead
 	- [[Illithid Embassy]]
-	- Alquimistas e apotecários
+	- Alquimistas e apotecários (e suas guidas)
 - [[Dwarven District]] (autoexplicativo e muito bem lapidado). Segundo melhor bairro daqui
+	- Muitas casas que conectam com Soffiera embaixo e [[Steelrows]] em cima
 	- Vários guild halls - stonecutters, smiths, brewers
 	- cervejarias
+	- The Rusty Axe
+	- Dwarven Boarding Company (mercs) (outro escritorio em [[merctown]])
 	- Fervorosamente evitam ser território de gangue
 - [[Wyrmtown]] (dracons, dragonborns, kobolds, e com certeza não tem nenhum dragão disfarçado)
 	- [[Dracon Consulate]]
