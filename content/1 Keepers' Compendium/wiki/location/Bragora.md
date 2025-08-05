@@ -12,7 +12,7 @@ Dá pra imaginar, também, que essa parte da cidade se extendo pra caralho pra d
 
 A bagunça diminui vindo pra frente, onde as construções maiores devem ser armazéns e casas de guilda; finalmente levando até as docas, que se expandem em direção ao espaço vazio. Spelljammers lotam o porto, alguns navios, como vocês conhecem, outros mais exóticos; em formas de insetos e crustáceos enormes. Alguns de ponta-cabeça - dá pra ver que tem uma "sub-doca" que leva pra dentro de uma caverna entre essa região e a de baixo. Sim, tem uma mais pra baixo.  
 
-[[kob/content/1 Keepers' Compendium/wiki/maps/Bral/Bragora|Mapa Interativo]]
+[[Map of Bragora|Mapa Interativo]]
 
 # The Barrios
 Bragora é subdividida em ilhas pelos seus canais; algumas inclusive se tornaram enclaves raciais. 

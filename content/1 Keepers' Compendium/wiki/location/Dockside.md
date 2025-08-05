@@ -5,7 +5,9 @@ parent:
   - "[[kob/content/1 Keepers' Compendium/wiki/location/Bragora]]"
 appears_in: 
 ---
-Distrito das docas de [[kob/content/1 Keepers' Compendium/wiki/location/Bragora]], separado em dois pela [[Via Maggiore]]: **Riva Alta** e **Riva Bassa**. 
+Distrito das docas de [[kob/content/1 Keepers' Compendium/wiki/location/Bragora|Bragora]], separado em dois pelo **Rio Maggiore**: **Riva Alta** e **Riva Bassa**.
+
+# Riva Alta
 
 <!-- DYNAMIC:related-entries -->
 
