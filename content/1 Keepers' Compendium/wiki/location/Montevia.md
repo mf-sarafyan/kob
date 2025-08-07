@@ -23,6 +23,7 @@ Algumas construções chamam a atenção ainda mais que as outras - um Domo verm
 - [[The Man O' War]] - restaurante fancy 
 - Royal Theatrical Company
 - Noble Council
+	- 
 - Upper Magistrate
 - The Crystal Lamp - taverna fancy 
 - [[The Red Spiral]] (The Cap) - bordéis highest-end

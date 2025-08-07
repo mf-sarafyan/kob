@@ -10,19 +10,29 @@ Outros lugares constrastam com a arquitetura mais homogênia daqui: um prédio a
 
 La Città e seus canais ainda se extendem pra dentro da montanha; dá pra ver pelo fluxo de gente passando pelos arcos enormes entalhados no asteróide. 
 ![[Pasted image 20250731183801.png]]
+
 # The Barrios
 
-- Lakeside
+- [[Muro d'Oro]]: Lakeside/Wall Street. 
 	- entre Montevia e o lago. Casas chiques. 
-	- Wall Street: centro financeiro encostado no penhasco, embaixo das Docas Reais. [[The Royal Exchequer]].
-- La Sindiatta: [[The Elven Quarter]], mt arborizado 
-- Festival Grounds: peninsula com parque e [[The Arena of Frun]]
-- Magisterium: Debaixo do [[Palazzo Celestia]]; centro burocrático, livrarias, guildhalls e [[Middle Magister's Office]]
-- [[Steelrows]]: quase uma continuação do [[Dwarven District]], lojas de armas e armaduras. Onde fica a [[Torri di Corsario]]. 
+	- Wall Street: centro financeiro encostado no penhasco, embaixo das Docas Reais. 
+	- [[The Royal Exchequer]].
+- [[Bosco d'Argento]]: [[Piazza Sindarina]], mt arborizado 
+- [[Festival Grounds]], ou Giardino di Frun: 
+	- peninsula com parque 
+	- [[The Arena of Frun]]
+- [[Magisterium]]:
+	- Debaixo do [[Palazzo Celestia]]; centro burocrático, livrarias, guildhalls e [[Middle Magister's Office]]
+	- [[Council of Captains]]
+		- 
+- [[Baluarto]]: quase uma continuação do [[Dwarven District]], lojas de armas e armaduras. Onde fica a [[Torri di Corsario]]. 
 	- The Watchers HQ, de frente pro Magisterium
-- Entertainment district: tavernas, pubs, teatros, cinemas (cinemas!?), casas de show. [[The Red Spiral]]. 
-	- O Mastro Levantado
-- Market Heights: muitas lojinhas, HQs das trade companies. 
+- [[Il Carnivale]]: 
+	- tavernas, pubs, teatros, cinemas (cinemas!?), casas de show. 
+	- Festa toda hora. 
+	- [[The Red Spiral]]. 
+		- O Mastro Levantado
+- [[Via Mercanti]]: muitas lojinhas, HQs das trade companies. 
 	- [[Grand Bazaar]]. 
 	- Manor of the Arcane 
 	- Vocath's Mansion
@@ -32,7 +42,7 @@ La Città e seus canais ainda se extendem pra dentro da montanha; dá pra ver pe
 	- [[House Eirefezt]] 
 - The Balconies: Casas e terraços de madeira e cordas construídas por cima de Bragora.
 	- vibe bem hipster artista poeta pobre, cafés e bares, jardins. 
-- [[merctown]]: HQs das companhias mercenárias mais fancy. 
+- [[Via Capitani]]: HQs das companhias mercenárias mais fancy. 
 	- Agamour's Platoon: Giffs, direto nas escadas pra Gifftown
 	- Dwarven Boarding Company Office (o HQ eh no distrito)
 	- Golden Brotherhood (descendente do Bral, bem Malvessi)
@@ -58,7 +68,7 @@ La Città e seus canais ainda se extendem pra dentro da montanha; dá pra ver pe
 		- Temple of Odin (sim, o nordico, tem uns vikings na cidade)
 		- House of Tempus (realmspace)
 		- Keep of Gond (artifice god, realmspace, gnomos) (sim tem um templo dele no bg3)
-- Lake Dock/Restaurant Row: onde chega a produção agrícola de Bral, vinda do outro lado do lago. Melhores restaurantes. 
+- piazza Pizza: onde chega a produção agrícola de Bral, vinda do outro lado do lago. Melhores restaurantes. 
 
 <!-- DYNAMIC:related-entries -->
 

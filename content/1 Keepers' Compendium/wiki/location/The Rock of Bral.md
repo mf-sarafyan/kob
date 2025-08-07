@@ -22,7 +22,7 @@ De cima pra baixo: [[Montevia]], com suas mansões empilhadas; [[La Citta]], um 
 
 Bral é uma cidade tão apertada como é porque o restante do asteróide é fértil, e 100% do espaço é usado pra alimentá-la: tanto de comida quanto de indústria. 
 
-O lado de "cima" - onde ficam [[kob/content/1 Keepers' Compendium/wiki/location/Bragora]], [[La Citta]] e [[Montevia]] - é onde ficam as produções agrícolas; fazendas de trigo, tomates, alho, uvas, e outros verdes, e do gado da variedade local de **Giant Space Hamsters**. As terras são oficialmente da [[Monarquia Braliana|Coroa]], mas concedidas a várias casas e entidades mercantis que lucram com a produção. 
+O lado de "cima" - onde ficam [[kob/content/1 Keepers' Compendium/wiki/location/Bragora|Bragora]], [[La Citta]] e [[Montevia]] - é onde ficam as produções agrícolas; fazendas de trigo, tomates, alho, uvas, e outros verdes, e do gado da variedade local de **Giant Space Hamsters**. As terras são oficialmente da [[Monarquia Braliana|Coroa]], mas concedidas a várias casas e entidades mercantis que lucram com a produção. 
 
 O lado de "baixo", além de um Castelo de defesa e as Docas da marinha real, é lotado de plantações ultra-eficientes de **madeira** que é usada em [[Soffiera]] para a indústria de Spelljamming da cidade. 
 

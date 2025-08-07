@@ -14,7 +14,7 @@ A bagunça diminui vindo pra frente, onde as construções maiores devem ser arm
 
 [[Map of Bragora|Mapa Interativo]]
 
-# The Barrios
+# The Barrios of Bragora
 Bragora é subdividida em ilhas pelos seus canais; algumas inclusive se tornaram enclaves raciais. 
 
 **Bragora externa:**
@@ -85,6 +85,8 @@ Bragora é subdividida em ilhas pelos seus canais; algumas inclusive se tornaram
 	- Bancos menos glamourosos, exchange houses clandestinas, lojas de antiguidades (pq eles querem ter tesouros)
 	- Serviços mt específicos tipo limpeza de escamas e dentistas especializados 
 
+
+# Dynamic
 
 <!-- DYNAMIC:related-entries -->
 
