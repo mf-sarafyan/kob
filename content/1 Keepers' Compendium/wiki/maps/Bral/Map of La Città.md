@@ -76,11 +76,11 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"seed": 1152795833,
-			"version": 308,
-			"versionNonce": 368130841,
+			"version": 309,
+			"versionNonce": 1320103639,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1754575260703,
+			"updated": 1754624875234,
 			"link": null,
 			"locked": true,
 			"status": "pending",
@@ -92,8 +92,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "text",
-			"version": 605,
-			"versionNonce": 235901945,
+			"version": 617,
+			"versionNonce": 131415065,
 			"isDeleted": false,
 			"id": "6mPGcFPH",
 			"fillStyle": "solid",
@@ -115,9 +115,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 29.573213445748262,
 			"fontFamily": 1,
 			"text": "Rio Maggiore",
@@ -131,8 +131,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "rectangle",
-			"version": 793,
-			"versionNonce": 46968025,
+			"version": 805,
+			"versionNonce": 2017390071,
 			"isDeleted": false,
 			"id": "b70ExJYod36wGIV9fVzs4",
 			"fillStyle": "solid",
@@ -161,14 +161,14 @@ Spiral ^pJp1H3xm
 					"id": "UoB05Ka0"
 				}
 			],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false
+			"locked": true
 		},
 		{
 			"type": "text",
-			"version": 1023,
-			"versionNonce": 372484537,
+			"version": 1035,
+			"versionNonce": 1642615033,
 			"isDeleted": false,
 			"id": "UoB05Ka0",
 			"fillStyle": "solid",
@@ -190,9 +190,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 32.64575510244926,
 			"fontFamily": 1,
 			"text": "Campanarium",
@@ -206,8 +206,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "rectangle",
-			"version": 1022,
-			"versionNonce": 560466585,
+			"version": 1034,
+			"versionNonce": 1279006487,
 			"isDeleted": false,
 			"id": "J_W1uaxcLILB01smt9NtW",
 			"fillStyle": "solid",
@@ -236,14 +236,14 @@ Spiral ^pJp1H3xm
 					"id": "R2ECWeb5"
 				}
 			],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false
+			"locked": true
 		},
 		{
 			"type": "text",
-			"version": 1240,
-			"versionNonce": 220024697,
+			"version": 1252,
+			"versionNonce": 914737625,
 			"isDeleted": false,
 			"id": "R2ECWeb5",
 			"fillStyle": "solid",
@@ -265,9 +265,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 32.64575510244926,
 			"fontFamily": 1,
 			"text": "Aetherium",
@@ -281,8 +281,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "rectangle",
-			"version": 945,
-			"versionNonce": 1603729497,
+			"version": 957,
+			"versionNonce": 888609847,
 			"isDeleted": false,
 			"id": "GT95WrG5n7YzZhX_AAe4B",
 			"fillStyle": "solid",
@@ -311,14 +311,14 @@ Spiral ^pJp1H3xm
 					"id": "v4IhsoHg"
 				}
 			],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false
+			"locked": true
 		},
 		{
 			"type": "text",
-			"version": 1184,
-			"versionNonce": 178816313,
+			"version": 1196,
+			"versionNonce": 247539385,
 			"isDeleted": false,
 			"id": "v4IhsoHg",
 			"fillStyle": "solid",
@@ -340,9 +340,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 32.64575510244926,
 			"fontFamily": 1,
 			"text": "Magisterium",
@@ -356,8 +356,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "rectangle",
-			"version": 1063,
-			"versionNonce": 2041935385,
+			"version": 1075,
+			"versionNonce": 374635863,
 			"isDeleted": false,
 			"id": "NH7M9hyatljbhjJnRw-P7",
 			"fillStyle": "solid",
@@ -386,14 +386,14 @@ Spiral ^pJp1H3xm
 					"id": "9gKu2aVi"
 				}
 			],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false
+			"locked": true
 		},
 		{
 			"type": "text",
-			"version": 1329,
-			"versionNonce": 1605454585,
+			"version": 1341,
+			"versionNonce": 87943065,
 			"isDeleted": false,
 			"id": "9gKu2aVi",
 			"fillStyle": "solid",
@@ -415,9 +415,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 32.64575510244926,
 			"fontFamily": 1,
 			"text": "Bosco\nd'Argento",
@@ -431,8 +431,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "rectangle",
-			"version": 1019,
-			"versionNonce": 1159693273,
+			"version": 1031,
+			"versionNonce": 1672002167,
 			"isDeleted": false,
 			"id": "MzhkwxW7dOxx38Nj298IN",
 			"fillStyle": "solid",
@@ -461,14 +461,14 @@ Spiral ^pJp1H3xm
 					"id": "vQyZaiEP"
 				}
 			],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false
+			"locked": true
 		},
 		{
 			"type": "text",
-			"version": 1271,
-			"versionNonce": 1444126905,
+			"version": 1283,
+			"versionNonce": 338660473,
 			"isDeleted": false,
 			"id": "vQyZaiEP",
 			"fillStyle": "solid",
@@ -490,9 +490,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 32.64575510244926,
 			"fontFamily": 1,
 			"text": "Muro d'Oro",
@@ -506,8 +506,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "rectangle",
-			"version": 1106,
-			"versionNonce": 1882268057,
+			"version": 1118,
+			"versionNonce": 834163607,
 			"isDeleted": false,
 			"id": "k043NW22msa-6dL5_T-4O",
 			"fillStyle": "solid",
@@ -536,14 +536,14 @@ Spiral ^pJp1H3xm
 					"id": "JcAsiAPC"
 				}
 			],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false
+			"locked": true
 		},
 		{
 			"type": "text",
-			"version": 1401,
-			"versionNonce": 1890289273,
+			"version": 1413,
+			"versionNonce": 593073497,
 			"isDeleted": false,
 			"id": "JcAsiAPC",
 			"fillStyle": "solid",
@@ -565,9 +565,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 32.64575510244926,
 			"fontFamily": 1,
 			"text": "Festival\nGrounds ",
@@ -581,8 +581,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "rectangle",
-			"version": 1057,
-			"versionNonce": 1111904089,
+			"version": 1069,
+			"versionNonce": 146262199,
 			"isDeleted": false,
 			"id": "FvItuQoDtB_iDV658fpxO",
 			"fillStyle": "solid",
@@ -611,14 +611,14 @@ Spiral ^pJp1H3xm
 					"id": "GtSlBO74"
 				}
 			],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false
+			"locked": true
 		},
 		{
 			"type": "text",
-			"version": 1324,
-			"versionNonce": 726989881,
+			"version": 1336,
+			"versionNonce": 1443856953,
 			"isDeleted": false,
 			"id": "GtSlBO74",
 			"fillStyle": "solid",
@@ -640,9 +640,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 32.64575510244926,
 			"fontFamily": 1,
 			"text": "Piazza Pizza",
@@ -656,8 +656,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "rectangle",
-			"version": 1078,
-			"versionNonce": 1538985241,
+			"version": 1090,
+			"versionNonce": 1984666071,
 			"isDeleted": false,
 			"id": "O6pHthQwHfSdgwqLnqWGP",
 			"fillStyle": "solid",
@@ -686,14 +686,14 @@ Spiral ^pJp1H3xm
 					"id": "k1XYPoVz"
 				}
 			],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false
+			"locked": true
 		},
 		{
 			"type": "text",
-			"version": 1358,
-			"versionNonce": 988545529,
+			"version": 1370,
+			"versionNonce": 422892313,
 			"isDeleted": false,
 			"id": "k1XYPoVz",
 			"fillStyle": "solid",
@@ -715,9 +715,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 32.64575510244926,
 			"fontFamily": 1,
 			"text": "Il Carnivale",
@@ -731,8 +731,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "rectangle",
-			"version": 1207,
-			"versionNonce": 1978358489,
+			"version": 1219,
+			"versionNonce": 1602766583,
 			"isDeleted": false,
 			"id": "IiR1gr-XvxTI7nRecsay9",
 			"fillStyle": "solid",
@@ -761,14 +761,14 @@ Spiral ^pJp1H3xm
 					"id": "dbxVjx6T"
 				}
 			],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false
+			"locked": true
 		},
 		{
 			"type": "text",
-			"version": 1466,
-			"versionNonce": 1296865209,
+			"version": 1478,
+			"versionNonce": 1899825145,
 			"isDeleted": false,
 			"id": "dbxVjx6T",
 			"fillStyle": "solid",
@@ -790,9 +790,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 32.64575510244926,
 			"fontFamily": 1,
 			"text": "Baluarto",
@@ -806,8 +806,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "rectangle",
-			"version": 1174,
-			"versionNonce": 590559385,
+			"version": 1186,
+			"versionNonce": 317870103,
 			"isDeleted": false,
 			"id": "5aung6xSh3QaSPvMIthio",
 			"fillStyle": "solid",
@@ -836,14 +836,14 @@ Spiral ^pJp1H3xm
 					"id": "k3R0xyYn"
 				}
 			],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false
+			"locked": true
 		},
 		{
 			"type": "text",
-			"version": 1453,
-			"versionNonce": 1230159225,
+			"version": 1465,
+			"versionNonce": 137076953,
 			"isDeleted": false,
 			"id": "k3R0xyYn",
 			"fillStyle": "solid",
@@ -865,9 +865,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 32.64575510244926,
 			"fontFamily": 1,
 			"text": "Via Mercanti",
@@ -881,8 +881,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "rectangle",
-			"version": 669,
-			"versionNonce": 250521177,
+			"version": 681,
+			"versionNonce": 444478775,
 			"isDeleted": false,
 			"id": "ToEOnSXP",
 			"fillStyle": "hachure",
@@ -911,14 +911,14 @@ Spiral ^pJp1H3xm
 					"id": "9jANObqf"
 				}
 			],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": "[[Grand Bazaar]]",
-			"locked": false
+			"locked": true
 		},
 		{
 			"type": "text",
-			"version": 887,
-			"versionNonce": 249197369,
+			"version": 899,
+			"versionNonce": 2073304505,
 			"isDeleted": false,
 			"id": "9jANObqf",
 			"fillStyle": "hachure",
@@ -940,9 +940,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 32.64575510244926,
 			"fontFamily": 1,
 			"text": "Grand\nBazaar",
@@ -956,8 +956,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "rectangle",
-			"version": 1281,
-			"versionNonce": 1031382041,
+			"version": 1293,
+			"versionNonce": 1301313111,
 			"isDeleted": false,
 			"id": "j7jnBsMnh_WNyfGRdt1g9",
 			"fillStyle": "solid",
@@ -986,14 +986,14 @@ Spiral ^pJp1H3xm
 					"id": "ag7kybnA"
 				}
 			],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false
+			"locked": true
 		},
 		{
 			"type": "text",
-			"version": 1567,
-			"versionNonce": 918534393,
+			"version": 1579,
+			"versionNonce": 1788477081,
 			"isDeleted": false,
 			"id": "ag7kybnA",
 			"fillStyle": "solid",
@@ -1015,9 +1015,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 32.64575510244926,
 			"fontFamily": 1,
 			"text": "Via Capitani",
@@ -1031,8 +1031,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "rectangle",
-			"version": 1186,
-			"versionNonce": 1278226905,
+			"version": 1198,
+			"versionNonce": 587043703,
 			"isDeleted": false,
 			"id": "m9JzklQRNQ5kXsTEonYpv",
 			"fillStyle": "solid",
@@ -1061,14 +1061,14 @@ Spiral ^pJp1H3xm
 					"id": "O2SMlu3z"
 				}
 			],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false
+			"locked": true
 		},
 		{
 			"type": "text",
-			"version": 1476,
-			"versionNonce": 1390317241,
+			"version": 1488,
+			"versionNonce": 1139852153,
 			"isDeleted": false,
 			"id": "O2SMlu3z",
 			"fillStyle": "solid",
@@ -1090,9 +1090,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879469,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 32.64575510244926,
 			"fontFamily": 1,
 			"text": "Le Terrazze",
@@ -1106,8 +1106,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "rectangle",
-			"version": 1000,
-			"versionNonce": 829312921,
+			"version": 1012,
+			"versionNonce": 1124732055,
 			"isDeleted": false,
 			"id": "obmoE8P8",
 			"fillStyle": "cross-hatch",
@@ -1136,14 +1136,14 @@ Spiral ^pJp1H3xm
 					"id": "pJp1H3xm"
 				}
 			],
-			"updated": 1754575250180,
+			"updated": 1754624879470,
 			"link": "[[The Red Spiral]]",
-			"locked": false
+			"locked": true
 		},
 		{
 			"type": "text",
-			"version": 1479,
-			"versionNonce": 772994169,
+			"version": 1491,
+			"versionNonce": 1406921817,
 			"isDeleted": false,
 			"id": "pJp1H3xm",
 			"fillStyle": "solid",
@@ -1165,9 +1165,9 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575250180,
+			"updated": 1754624879470,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 26.1166040819594,
 			"fontFamily": 1,
 			"text": "Red\nSpiral",
@@ -1181,8 +1181,8 @@ Spiral ^pJp1H3xm
 		},
 		{
 			"type": "image",
-			"version": 620,
-			"versionNonce": 1591236887,
+			"version": 621,
+			"versionNonce": 440471065,
 			"isDeleted": true,
 			"id": "JX8fTe0zMEtk3exck1nQy",
 			"fillStyle": "solid",
@@ -1202,7 +1202,7 @@ Spiral ^pJp1H3xm
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1754575139048,
+			"updated": 1754624875234,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1228,8 +1228,8 @@ Spiral ^pJp1H3xm
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -681.9008067810456,
-		"scrollY": 1388.9204014939307,
+		"scrollX": -315.1190607493005,
+		"scrollY": 1188.9422268907558,
 		"zoom": {
 			"value": 0.30000000000000004
 		},
