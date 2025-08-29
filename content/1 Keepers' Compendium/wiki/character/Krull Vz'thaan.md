@@ -9,18 +9,30 @@ factions:
   - "[[Xenophonics]]"
   - "[[Zenonni]]"
 alignment: Chaotic Jazzy
+appears_in: []
+relates_to: []
+image: "[[krull.png]]"
 ---
 # Krull Vz'thaan
 um mind flayer multiinstrumentalista que pode tocar sax com os tentáculos e usar os braços pra um teclado ou guitarra. Ele usa um terno risca-de-giz e um óculos escuros redondinho.
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

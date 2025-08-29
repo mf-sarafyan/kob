@@ -6,7 +6,7 @@ faction_type: Adventurer Party
 alignment: Good
 leader: "[[Captain Jordal Brambletopple|Jordal]]"
 ---
- ![[kb-alpha-1.bmp|350]] 
+ ![[kb-alpha-1 1.bmp|350]] 
 
 **kbα1**
 *Dragonfly-class Spelljammer*

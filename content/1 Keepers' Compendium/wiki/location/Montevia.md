@@ -22,12 +22,10 @@ Algumas construções chamam a atenção ainda mais que as outras - um Domo verm
 - [[The Library of the Spheres]]: biblioteca de conhecimento 
 - [[The Man O' War]] - restaurante fancy 
 - Royal Theatrical Company
-- Noble Council
-	- 
+- The Noble Council
 - Upper Magistrate
 - The Crystal Lamp - taverna fancy 
-- [[The Red Spiral]] (The Cap) - bordéis highest-end
-- [[Ferrucio's Spire]]
+- [[Ferrucio's Brass Spire]]
 
 <!-- DYNAMIC:related-entries -->
 

@@ -4,14 +4,16 @@ class: Barbarian
 height: 2,00m
 origin: Baldur's Gate
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbβ42]]"
   - "[[PCS]]"
 alignment: ""
+appears_in: []
+relates_to:
+image: "[[Rhogar.png]]"
 ---
 
-![[Rhogar.png]]
 
 # História
 O maior experimento da lendária arcanista [[Lillix Finescale|Lillix Finescale]]: uma nova cobaia - além dela mesma - para seus estudos da magia caótica que corre em seu sangue. 
@@ -25,12 +27,21 @@ Enérgico, expansivo, espalhafatoso, cheio de si. Não é o mais inteligente do 
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

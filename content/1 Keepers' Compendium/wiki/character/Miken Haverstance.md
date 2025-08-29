@@ -8,6 +8,9 @@ known_locations:
 factions:
   - "[[kbβ42]]"
 alignment: ""
+appears_in: []
+relates_to: []
+image: "[[miken.png]]"
 ---
 **MIKEN HAVERSTANCE**
 *Human Cadet*
@@ -17,19 +20,27 @@ Miken (MICK-unn) constantly worries about whether he has the right skills to gra
 # Traição
 Miken aceitou um pagamento de [[Vocath]] para fazer um atentado contra a [[Spelljammer Academy]]; mas seu alvo, [[Petty Officer Winston Ryeback]], sobreviveu; e [[Mirt The Merciless]] aceitou que sua punição fosse paga servindo a tripulação dos players. 
 
-![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-003.o-miken-haverstance.png|450](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf2I_u7L-LK4N6iO-c2HAOHzUcIx71tzHFfpY5WFFyuwwISKPeM6L4R9pRRt2Zy2Foa2CsE6sQsqmviFjA1yXKPYnfH2W3aWI9rgMbczRnhdGbmlo94Np9Dd2mdiXJmUgyjVlgScvfO4ndI7SPsNw?key=pA62UNhUssijVH6Hkh5i_Sj3)
 
 
 ---
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

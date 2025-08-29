@@ -1,0 +1,14 @@
+filters:
+  and:
+    - type == "faction"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - faction_type
+      - location
+      - parent
+    columnSize:
+      file.name: 249
+      note.faction_type: 179

@@ -1,7 +1,7 @@
 ---
 type: entry
 entry_type: AAR
-relates_to: 
+relates_to:
 author: "[[Baang]]"
 ---
 ![[keepers badge.jpg|150]]

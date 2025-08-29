@@ -8,8 +8,12 @@ known_locations:
 factions:
   - "[[Spelljammer Academy Faculty]]"
 alignment: ""
+appears_in: []
+relates_to: []
+image: "[[saerthe.png]]"
 ---
-![[saerthe.png|500]]
+# Saerthe Aibzjn
+
 SAERTHE ABIZJN (SPELLJAMMER TRAINING OFFICER)
 
 Human Spelljammer
@@ -24,12 +28,21 @@ Quote: “I make talent look good.”
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

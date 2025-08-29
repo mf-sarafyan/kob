@@ -6,10 +6,11 @@ type: character
 known_locations: []
 factions: []
 alignment: ""
+appears_in: []
+relates_to: []
+image: "[[winstonryeback.png]]"
 ---
-
-
-![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-002.o-winston-ryeback.png|450](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0ma48CVavRWUcD0jJP8lzAx1LYnunux6F0DwRAKp8rf23jm_hvuww6NUYUdLkMPwiPB7Y2zXvO5cb-mzjJEG_rgxHvkU48hAH0Dk6a71ipn_jD2xP4E6J-9fVH-2Wl34mqkym7p-MsxKNgJUSNCM?key=pA62UNhUssijVH6Hkh5i_Sj3)
+# Petty Officer Winston Ryeback
 
 **PETTY OFFICER WINSTON RYEBACK**
 
@@ -23,12 +24,21 @@ Quote: “The best way to someone’s heart is through their stomach.”
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

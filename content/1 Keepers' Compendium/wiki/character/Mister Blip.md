@@ -8,7 +8,12 @@ known_locations:
 factions:
   - "[[Spelljammer Academy Faculty]]"
 alignment: ""
+appears_in: []
+relates_to: []
+image: "[[blip.jpg]]"
 ---
+# Mister Blip
+
 ![[blip.jpg]]
 
 *Autognome Quartermaster*
@@ -25,12 +30,21 @@ Quote: “If you’re looking for a quick answer, I’m probably not the best p
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

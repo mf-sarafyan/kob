@@ -3,14 +3,17 @@ origin: Limbo
 class: Sorcerer, Wizard
 race: Dragonborn
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbα1]]"
   - "[[Keepers of the Balance]]"
 alignment: Chaotic Good
+appears_in: []
+relates_to: []
+image: "[[lillix.png]]"
 ---
-
- ![[Lillix Finescale.jpg|300]] 
+![[lillix.png]]
+ ![[Lillix Finescale 1.jpg|300]] 
 
 # Lillix Finescale
 *Doctor Finescale, Arcanologist Extraordinaire*
@@ -36,12 +39,21 @@ Tem uma relação distante, mas respeitosa com o pai de [[Rhogar]], [[Rhogar Sen
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

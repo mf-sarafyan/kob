@@ -3,11 +3,15 @@ origin: "[[H’catha]]"
 class: Not very much for now
 race: Ogre (Ciclopean)
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbβ42]]"
 alignment: ""
+appears_in: []
+relates_to: []
+image: "[[kurrzot.png]]"
 ---
+# Kurrzot
 
 Um ogro ciclope originário de H'Catha, planeta dos Beholders. Foi seduzido pela tripulação com base na promessa de lugares confortáveis para dormir. Está aprendendo com [[kob/content/1 Keepers' Compendium/wiki/character/Vax|Vax]] a conviver na sociedade educada.
 
@@ -18,12 +22,21 @@ Um ogro ciclope originário de H'Catha, planeta dos Beholders. Foi seduzido pela
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

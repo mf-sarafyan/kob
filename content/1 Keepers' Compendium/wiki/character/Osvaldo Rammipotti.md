@@ -2,7 +2,7 @@
 type: character
 race: Dohwar
 class: Mafioso
-origin: 
+origin: ""
 known_locations:
   - "[[The Rock of Bral|Bral]]"
 factions:
@@ -10,6 +10,9 @@ factions:
 alignment: Neutral Evil
 aliases:
   - O Pinguim
+appears_in: []
+relates_to:
+image: "[[oswald.png]]"
 ---
 ## Osvaldo Rammipotti
 Um Dohwar - space penguing - gordinho, oleoso e de cartola. Usa uma bengala de prata agressivamente e é acompanhado por uma nuvem densa de fumaça de charuto, como se tivesse segurando um balão. 
@@ -17,12 +20,21 @@ Ele impede que esqueçam que os Zenonni ainda são uma máfia. Praticamente tudo
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

@@ -7,7 +7,12 @@ known_locations: []
 factions:
   - "[[kbβ42]]"
 alignment: ""
+appears_in: []
+relates_to: []
+image: "[[leron3.png]]"
 ---
+# Leron Guthmere
+
 O último dos Guthmere, _patriars_ rejeitados de [[Baldur's Gate]], **Leron** foi forçado por seus pais em pacto com pelo menos duas entidades poderosas e em conflito; uma delas sendo [[Keeper of Whispers]]. 
 
 ![[leron.jpg|500]]
@@ -17,12 +22,21 @@ O último dos Guthmere, _patriars_ rejeitados de [[Baldur's Gate]], **Leron** fo
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

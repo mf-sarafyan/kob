@@ -4,11 +4,14 @@ class: Warlock, Celestial Patron
 height: 1,20m
 origin: "[[Greyhawk]]"
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbβ42]]"
   - "[[PCS]]"
 alignment: ""
+appears_in: []
+relates_to: []
+image: "[[Vax.webp]]"
 ---
 
 ![[Vax.webp]]
@@ -28,12 +31,21 @@ Animado porém recluso. Um pouco introvertido, porém muito curioso. Se distrai 
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

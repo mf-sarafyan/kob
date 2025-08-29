@@ -79,7 +79,7 @@ Bragora é subdividida em ilhas pelos seus canais; algumas inclusive se tornaram
 	- The Rusty Axe
 	- Dwarven Boarding Company (mercs) (outro escritorio em [[merctown]])
 	- Fervorosamente evitam ser território de gangue
-- [[Wyrmtown]] (dracons, dragonborns, kobolds, e com certeza não tem nenhum dragão disfarçado)
+- [[Wyrmways]] (dracons, dragonborns, kobolds, e com certeza não tem nenhum dragão disfarçado)
 	- [[Dracon Consulate]]
 	- Comida absurdamente apimentada
 	- Bancos menos glamourosos, exchange houses clandestinas, lojas de antiguidades (pq eles querem ter tesouros)

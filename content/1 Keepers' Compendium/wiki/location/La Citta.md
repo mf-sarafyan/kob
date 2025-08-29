@@ -40,7 +40,7 @@ La Città e seus canais ainda se extendem pra dentro da montanha; dá pra ver pe
 	- [[The Smith's Coster]]: recentemente moveram o HQ pra Bral
 	- [[Sindiath Line Office]] (apesar de ter um maior na Sindiatta)
 	- [[House Eirefezt]] 
-- The Balconies: Casas e terraços de madeira e cordas construídas por cima de Bragora.
+- [[The Balconies]]: Casas e terraços de madeira e cordas construídas por cima de Bragora.
 	- vibe bem hipster artista poeta pobre, cafés e bares, jardins. 
 - [[Via Capitani]]: HQs das companhias mercenárias mais fancy. 
 	- Agamour's Platoon: Giffs, direto nas escadas pra Gifftown

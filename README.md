@@ -1,18 +1,5 @@
 
-# Como brincar
-
-## Me manda seu usuário do git
-Me manda seu usuário do git que eu tenho que te adicionar como colaborador pra vc poder puxar o repo
-
-## Clona o repo pra sua máquina
-- Baixa o git https://git-scm.com/downloads e faz as parada pra instalar
-- Configura os treco dele (segue tutorial etc)
-- Clona o repo -> vai numa pasta com o git bash e roda `git clone https://github.com/mf-sarafyan/kob.git`
-
-## Setup do obsidian
-Cria uma vault no obsidian na pasta que vc clonou 
-Pra renderizar os links bonitinhos precisa instalar no obsidian o plugin **dataview** (vai em community plugins e instala)
-
+# Setup do obsidian
 Pra renderizar os mapas precisa do plugin **excalidraw**.
 
 **Melhor jeito de ver o grafo:**
@@ -25,6 +12,22 @@ Pra renderizar os mapas precisa do plugin **excalidraw**.
 	- ["type":"faction"]
 	- ["type":"entry"]
 ```
+
+## As Bases
+Links pras views bonitinhas: 
+[[characters.base]]
+[[factions.base]]
+[[locations.base]]
+
+# Como brincar de git
+
+## Me manda seu usuário do git
+Me manda seu usuário do git que eu tenho que te adicionar como colaborador pra vc poder puxar o repo
+
+## Clona o repo pra sua máquina
+- Baixa o git https://git-scm.com/downloads e faz as parada pra instalar
+- Configura os treco dele (segue tutorial etc)
+- Clona o repo -> vai numa pasta com o git bash e roda `git clone https://github.com/mf-sarafyan/kob.git`
 
 ## Facilidades q eu coloquei
 Tem 2 codiguinhos na root do projeto:

@@ -3,17 +3,18 @@ origin: "[[Draconia]]"
 class: Wizard
 race: Human
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbα1]]"
   - "[[Keepers of the Balance]]"
 alignment: True Neutral
 aliases:
   - Aseir
+appears_in: []
+relates_to: []
+image: "[[aseir.png]]"
 ---
-
-
- ![[Aseir Khalid.jpeg|325]] 
+ ![[aseir.png]] 
 
 # Aseir Khalid XIV
 *Scion of Ark, Guardian of [[Draconia]]*
@@ -41,12 +42,21 @@ Aseir Khalid nasceu como um mago/guerreiro de Calimshan que eu fiz pra entender 
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

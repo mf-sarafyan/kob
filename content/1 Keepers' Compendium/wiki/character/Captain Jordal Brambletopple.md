@@ -3,20 +3,21 @@ origin: Krynn
 class: Rogue
 race: Gnome
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbα1]]"
   - "[[Keepers of the Balance]]"
 alignment: Neutral Good
 aliases:
   - Jordal
+appears_in: []
+relates_to: []
+image: "[[jordal.png]]"
 ---
-
+![[jordal.png]]
 
 ---
-
-
- ![[Captain Jordal Brambletopple.bmp|300]] 
+ 
 
 # Jordal Brambletopple
 *Horizon Seeker, Exploratorier Extraordinaire*
@@ -27,7 +28,7 @@ aliases:
 - [Theme song: The Eternal Wayfarer, Edguy](https://www.youtube.com/watch?v=uj6xxTmeoSA)
 
  Aprendizes
-[[kob/content/1 Keepers' Compendium/wiki/character/Baang|Baang]]. Depois que o jovem genasi tentou roubá-lo, desavisado, Jordal concluiu que ele era a pessoa mais azarada do universo, e decidiu tomá-lo como seu pupilo.
+[[Baang|Baang]]. Depois que o jovem genasi tentou roubá-lo, desavisado, Jordal concluiu que ele era a pessoa mais azarada do universo, e decidiu tomá-lo como seu pupilo.
 
 
 ## Chasing the Afterglow
@@ -38,12 +39,21 @@ Eu tentei muitas vezes, mas não consegui gerar uma imagem dele sem palavras ale
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

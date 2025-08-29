@@ -9,19 +9,33 @@ known_locations: []
 factions:
   - "[[Keepers of the Balance]]"
 alignment: ""
+appears_in: []
+relates_to: []
+image: "[[Mordenkainen_VEoR.webp]]"
 ---
+# Mordenkainen
+
 Mago vindo de Greyhawk, líder do Circle of Eight e autor de muitas famosas magias.
 
 Líder dos Keepers of the Balance.
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

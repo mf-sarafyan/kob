@@ -3,14 +3,17 @@ origin: Ever-Changing Chaos of Limbo
 class: Monk
 race: Githzerai
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbα1]]"
   - "[[Keepers of the Balance]]"
 alignment: Lawful Neutral
+appears_in: []
+relates_to: []
+image: "[[Xanith.jpg]]"
 ---
 
- ![[Xanith.jpg|325]] 
+ ![[Xanith 1.jpg|325]] 
 
 # Xanith
 *Master Xan, Wandering Anarch*
@@ -33,12 +36,21 @@ Xan foi um pupilo dedicado de Menyar-ag-Gith, líder dos githzerai. Diz-se que, 
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

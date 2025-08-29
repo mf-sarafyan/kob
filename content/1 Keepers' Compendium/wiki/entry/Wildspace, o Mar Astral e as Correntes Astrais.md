@@ -1,7 +1,7 @@
 ---
 type: entry
 entry_type: "[[Space Lore]]"
-relates_to: 
+relates_to: []
 author: DM
 ---
 ## **O Espaço Selvagem (Wildspace)**  
@@ -21,20 +21,14 @@ Os sistemas comuns de Wildspace são extensivamente mapeados. As distâncias e p
 Um **Navegador** pode usar os instrumentos de navegação normalmente disponíveis em naves para traçar rotas dentro de Wildspace. Ter um mapa (*Star chart*) do sistema dá vantagem nesse teste de Inteligência, e sua DC depende da dificuldade de viajar nesse sistema. Uma falha nesse teste pode causar atrasos ou encontros insalubres no caminho! 
 
 
-## **O Mar Astral**  
-Além e entre as esferas de cristal, **entre os ovos**, encontra-se o **Mar Astral**, um domínio infinito e surreal que conecta não apenas os mundos físicos, mas também os planos de existência. Aqui não há ar ou gravidade — as viagens ficam à mercê de eventos cósmicos e das **Correntes Astrais**. Imagine finas neblinas variando geralmente entre o roxo, lilás, lavanda; incontáveis estrelas no céu, cada uma contendo seus sistemas de mundos materiais. Imagine, também, como regiões diferentes tem seus próprio ambientes; como o caos multicolorido e arco-íris do **Phlogiston**
-entre os **Mundos Conhecidos**, o turbilhão sanguinolento das **Cataratas Escarlate**, ou as trevas calmas do **Véu Espectral**. 
-
-As **Esferas** não são tudo que se encontra nesse universo. Restos de **deuses mortos**, esquecidos pelo tempo, flutuam eternamente. Deuses vivos têm seus **domínios astrais**, palácios de maravilhas entre as esferas de sua influência. **Faróis arcanos**, construções enigmáticas de passado desconhecido, guiam os viajantes e servem como portos seguros para restoque e comércio; corpos estelares - como asteróides perdidos de qualquer esfera - podem ter cidades **Githyanki**, e portais cintilantes chamados de **poças coloridas** conectam o Mar Astral aos Planos Exteriores. Há também perigos como criaturas impensáveis como **Astral Dreadnoughts**, dragões cósmicos e fantasmas do Fluxo, e tempestades psíquicas que podem arrastar os incautos para territórios inexplorados ou mesmo para os braços de caçadores de escravos.  
+![[kob/content/1 Keepers' Compendium/wiki/location/Astral Sea#**O Mar Astral**|Astral Sea]]
 
 ### **As Correntes Astrais**  
 Dentro do Mar Astral existem **Correntes**, **Ventos** ou **Fluxos Astrais**, rios de energia que fluem através da vastidão do plano. Imagine correntezas oceânicas submarinas. Imagine, também, como se o Atlântico fosse um turbilhão multicolorido e inflamável, e o Pacífico uma vastidão de espirais de trevas, mas ambos parte do mesmo grande oceano: as Correntes moldam o ambiente de suas regiões.
 
 Cada corrente possui características únicas e conecta diferentes grupos de Esferas no multiverso. Alguns exemplos:  
 
-#### Phlogiston
-*O nome vem de uma teoria científica velha e errada de que tudo que é inflamável continha esse elemento.*
-**O Fluxo Caótico**. Uma corrente particularmente famosa, brilhante, multicolorida e instável, que circunda os **Mundos Conhecidos**. Por muito tempo teorizou-se que ele permeasse todo o Astral. O Flogisto é rico em energia mágica extremamente volátil - é como um gás altamente inflamável, e embarcações que o cruzam usam lanternas frias e evitam qualquer tipo de chama a bordo. É comum que viajantes veteranos dessa região tenham terror de fogo no plano astral, mesmo quando infinitamente distantes de lá.
+![[The Phlogiston#Phlogiston The Rainbow Flow]]
 
 #### Numicrowyr
 *Do latim numen + cruor, "divindade" e "sangue"*

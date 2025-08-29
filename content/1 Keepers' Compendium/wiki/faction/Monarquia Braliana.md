@@ -5,6 +5,8 @@ location: "[[The Rock of Bral|Bral]]"
 faction_type: Nobility
 alignment: ""
 leader: "[[Andru Cozar]]"
+aliases:
+  - House Cozar
 ---
 A liderança oficial de Bral, o monarca [[Andru Cozar]] segura o poder principalmente por controlar as terras férteis do asteróide. 
 

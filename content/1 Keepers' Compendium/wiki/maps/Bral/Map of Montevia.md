@@ -17,7 +17,7 @@ Man O' War ^maNzcAN5
 
 
 # Embedded files
-28cc8f5c75a3dc2df79a065e76f974573708c59e: [[Pasted Image 20250808004906_183.png]]
+28cc8f5c75a3dc2df79a065e76f974573708c59e: [[montevia.png]]
 
 %%
 # Drawing

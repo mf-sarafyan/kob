@@ -3,17 +3,17 @@ origin: "?"
 class: "?"
 race: "?"
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbα1]]"
   - "[[Keepers of the Balance]]"
 alignment: Chaotic Neutral
+appears_in: []
+relates_to: []
+image: "[[kob/content/1 Keepers' Compendium/imgs/ALExA.jpg]]"
 ---
 
----
-
-
- ![[ALExA.jpg|325]] 
+ ![[ALExA 1.jpg|325]] 
 
 # ALExA
 *Astral Localization and Exploration Automata*
@@ -35,12 +35,21 @@ Nas poucas ocasiões que vocês interagiram - ela não pode desembarcar -, ela s
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

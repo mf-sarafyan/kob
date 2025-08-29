@@ -4,12 +4,17 @@ class: Rogue
 height: 1,70m
 origin: "[[Greyhawk]]"
 type: character
-known_locations: 
+known_locations: []
 factions:
   - "[[kbβ42]]"
   - "[[PCS]]"
 alignment: ""
+appears_in: []
+relates_to: []
+image: "[[Baang.jpg]]"
 ---
+# Baang
+
 ![[Baang.jpg]]
 
 ## História
@@ -25,12 +30,21 @@ Baang age dramaticamente e com _flair_, mas no fundo é um fanboy de seu mestre 
 
 <!-- DYNAMIC:related-entries -->
 
-## Related Entries
+# Links
 
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - 'relates_to.contains(this)'
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+	  - file.name
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

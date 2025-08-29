@@ -3,7 +3,7 @@ type: entry
 entry_type: Document
 relates_to:
   - "[[Bad Juju]]"
-  - "[[kob/content/1 Keepers' Compendium/wiki/character/Baang|Baang]]"
+  - "[[Baang|Baang]]"
   - "[[kob/content/1 Keepers' Compendium/wiki/character/Vax|Vax]]"
   - "[[Rhogar]]"
   - "[[kob/content/1 Keepers' Compendium/wiki/character/Gizmo|Gizmo]]"
@@ -78,5 +78,5 @@ Firmam o presente instrumento sob selamento mágico e juramento arcano:
 [[Bad Juju]]
 [[kob/content/1 Keepers' Compendium/wiki/character/Gizmo|Gizmo]]
 [[kob/content/1 Keepers' Compendium/wiki/character/Vax|Vax]]
-[[kob/content/1 Keepers' Compendium/wiki/character/Baang|Baang]]
+[[Baang|Baang]]
 [[Mordenkainen]], o Cinzento – Supervisor Planar-Geral

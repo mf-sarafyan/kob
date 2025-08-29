@@ -1,0 +1,23 @@
+filters:
+  and:
+    - type == "location"
+views:
+  - type: cards
+    name: Art View
+    filters:
+      and:
+        - file.inFolder("kob")
+    imageAspectRatio: 0.75
+    image: note.image
+    imageFit: contain
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - location_type
+      - parent
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: parent
+        direction: DESC

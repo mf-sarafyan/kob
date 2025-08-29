@@ -32,7 +32,7 @@ Eu construi um explosivo interessante. Não sei quando vai ser interessante, mas
 
 ### Pontos para observação
 
-[[Vasilisa Vathampur]] sabe do conteúdo do livro assim como [[Leylanna Calduhallow]]. 
+[[Vasilisa Vathampur]] sabe do conteúdo do livro assim como [[Leylenna Calduhallow]]. 
 
 A jovem Vathampur é uma seguidora de Bhaal e pode ser perigosa se um dia herdar a fortuna da família. 
 
