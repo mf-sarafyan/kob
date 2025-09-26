@@ -21,6 +21,11 @@ image: "[[mezzalucce.png]]"
 - O bairro vive num constante **meio-tom**: negócios legais e ilegais se misturam, e todos sabem que falar alto demais pode ser perigoso. Fale muito alto e pode ser que patrulheiros joguem um *silence* em você e te encham de porrada no xiu. 
 - Visitantes descrevem Mezzaluce como o lugar onde “a própria burocracia é uma arma”.
 
+## Vibe Visual
+Gente de capuz. Filas quietas. Estagiários tentando correr silenciosamente com uma pilha de livros. Raramente, gritos que são silenciados no meio. 
+
+Velas e incensos ao invés de lanternas. Todo mundo anda devagar pra não tropeçar. Até os gondoleiros - normalmente totalmente cobertos e de capuz - se movem diferente, deslizando nos canais. 
+
 <!-- DYNAMIC:related-entries -->
 
 # Links

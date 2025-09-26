@@ -30,3 +30,8 @@ Quando um personagem com uma **FERIDA FATAL** chega a 0 de vida, ela não fica i
 - Pode se mover com metade do deslocamento.
 - Pode tomar uma ação por turno.
 Quando um personagem com uma **FERIDA FATAL** for morrer, ele ***MORRE MESMO***.
+
+# Cool Move
+Uma vez por long rest, seus personagens tem direito a uma ***COOL MOVE*** em combate. Descrevendo sua ação de um jeito ***COOL***, vocês podem usar um jeito alternativo pra bater num inimigo, mas usando seus bônus/danos normais. Se a idéia for ***COOL*** o suficiente, eu dou vantagem. 
+
+Exemplo - o Baang jogando um barril de água no mephit de fogo podia ter sido uma ***COOL MOVE*** com vantagem, se eu já tivesse pensado nisso antes.  

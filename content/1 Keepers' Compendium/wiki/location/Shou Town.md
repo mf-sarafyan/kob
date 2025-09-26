@@ -14,12 +14,21 @@ image: "[[bral shou town.png]]"
 - **[[Lesser Market]]**: um mercado vibrante de especiarias, tecidos e bugigangas importadas, famoso por sua variedade exótica.  
 - **[[Shou Embassy]]**: centro diplomático que garante aos Shou certa autonomia dentro da cidade. O embaixador atual, **Lord Chan Fu Wi**, trabalha arduamente para manter o equilíbrio entre os Shous honestos e a Yakuza em frente ao Príncipe e as máfias. Seu trabalho tem dado certo, mas como tudo aqui é pólvora, basta uma faísca pra mandar tudo pro ar.
 - **Casas de chá e restaurantes de fusão italo-asiática**, que atraem tanto marinheiros nostálgicos quanto nobres curiosos. Imagina que gostoso os macarrãozinho. 
-- **Monastério da Lótus Celestial**: onde treinam monges fiéis da **Burocracia Celestial**, a fé-intergalática originária de [[Shou Long]].
+- **Monastério da Lótus Celestial**: onde treinam monges fiéis da **Burocracia Celestial**, a fé-intergalática originária de [[Shou Lung]].
 
 ### Cultura e Vida
 - Lanternas tradicionais se misturam a **letreiros de néon mágico**, criando um contraste único de passado e futuro.  
 - O bairro é conhecido por seu **espírito comunitário**: jardins coletivos e festivais coloridos unem moradores e visitantes.  
 - A [[La Mano Legata]] tem pouca força aqui; o território é dominado pela própria [[Yakuza]], que prefere negócios discretos a conflitos abertos.
+
+## Vibe Visual
+Característicos telhados com pontas curvas, lanternas, pergaminhos com escritos verticais.
+
+Um monge medita num jardim zen; parece que o burburinho da cidade é mais baixo perto dele. 
+
+Asiáticos bem-vestidos trocando envelopes por bolsas de couro. 
+
+Grupos andando com as mãos juntas, escondidinhas nas mangas dos robes. 
 
 # Imgs
 ![[bral shou town.png]]

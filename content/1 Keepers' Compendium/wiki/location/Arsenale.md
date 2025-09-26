@@ -17,8 +17,14 @@ O **Arsenale** é o coração industrial e naval de Bragora, um complexo de esta
 
 ### Cultura e Vida
 - Operários passam turnos exaustivos sob a vigilância de capatazes e guildas. Muitos são estrangeiros que acabam morando nos outros bairros de Bragora.  
-- Apesar do clima de trabalho duro, o bairro pulsa com **orgulho naval**: tavernas próximas estão sempre cheias de canções de marinheiros e histórias de estaleiro.  
 - Diferente dos outros bairros de Bragora, a Coroa tem presença reforçada no Arsenal - guardas com impecáveis tabardos azuis com a imagem do Grifo e halberds afiados nas costas patrulham a área, e funcionários públicos com pranchetas registram cada embarcação em reparos. 
+
+## Vibe Visual
+Andaimes e guindastes de madeira e metal em volta de Spelljammers, como pit stops de fórmula 1, um em cima do outro. Lado-a-lado, um galeão, um hammerhead, e uma libélula. 
+
+Fendas no chão levam pra docas internas, empilhadas, como uma colméia. Spelljammers ocasionalmente saem de dentro, ou voam pra lá; como se nascessem de buracos do chão. 
+
+Giant Space Hamsters puxando canhões pelas ruas largas, indo descer por rampas de madeira. 
 
 
 ---

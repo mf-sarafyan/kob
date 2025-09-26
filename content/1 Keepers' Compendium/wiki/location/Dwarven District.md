@@ -22,6 +22,13 @@ image: "[[dwarvendistrictmj.png]]"
 - Cerveja é tão importante quanto pedra e aço; muitos dizem que o Dwarven District tem as melhores tavernas da cidade.  
 - A disciplina e o rigor anão tornam o bairro um dos mais seguros de Bragora — embora visitantes reclamem que é também um dos mais fechados e carrancudos.
 
+## Vibe Visual
+Torres estoicas de tijolos de pedra com detalhes em aço, indo do chão ao teto da caverna: passagens que vão tanto pra [[Soffiera]] quanto pras [[Steelrows]]. 
+
+BIERGARTENS! Anões também podem ter plantinhas no rolê. 
+
+Anões de boinas vermelhas palestrando sobre sindicatos (muitos vão só pela cerveja grátis). Corais graves sobre cavernas e ouro vindo da janela de uma taverna. 
+
 <!-- DYNAMIC:related-entries -->
 
 # Links

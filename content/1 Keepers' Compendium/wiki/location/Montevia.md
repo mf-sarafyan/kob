@@ -25,7 +25,7 @@ Algumas construções chamam a atenção ainda mais que as outras - um Domo verm
 - The Noble Council
 - Upper Magistrate
 - The Crystal Lamp - taverna fancy 
-- [[Ferrucio's Brass Spire]]
+- [[Ferrucio's Spire]]
 
 <!-- DYNAMIC:related-entries -->
 

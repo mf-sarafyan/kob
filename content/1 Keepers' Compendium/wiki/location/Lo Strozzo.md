@@ -23,6 +23,15 @@ Nos telhados altos o suficiente para alcançar [[La Citta]], Lo Strozzo dá luga
 - A criminalidade aqui é mais aberta, com gangues locais disputando território sem tanta interferência da [[La Mano Legata]].  
 - Lo Strozzo é visto como “teste de coragem” para forasteiros: sobreviver a uma noite no bairro sem perder os dentes já é motivo de respeito.
 
+## Vibe Visual
+Gente brigando em italiano de uma janela no terceiro andar com alguém no meio de uma ponte de corda balançando. 
+
+Moedas caindo do bolso de alguém que tá pendurado de ponta-cabeça de uma varanda; algumas param numa plataforma de madeira, outras passam por entre as tábuas e caem no chão embaixo.
+
+Um tabaxi indo pra casa escalando, entrando por uma porta que não dá em chão nenhum. 
+
+Gente gritando "pega ladrão", tentando ir atrás de uma mascarada fazendo um exímio parkour por entre os andares. 
+
 <!-- DYNAMIC:related-entries -->
 
 # Links

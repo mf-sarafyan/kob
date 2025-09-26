@@ -23,6 +23,13 @@ A grande maioria dos moradores oferece serviços individuais como mercenários e
 - Apesar de seu exagero, Gifftown é relativamente seguro. Violência entre giffs é rara; os acidentes explosivos, por outro lado, são diários.  
 - Escadarias monumentais conectam o bairro diretamente à [[Via Capitani]], em [[La Citta]], reforçando os laços entre as companhias mercenárias giff e o coração militar da cidade.
 
+## Vibe Visual
+Giffs marchando com armas renascentistas pra cima. Praças onde treinam aquelas paradas de andar sincronizado, dar a rodadinha, sentido, atirou pra cima, sim capitão. 
+
+Se trombar é uma tradição giff; e não-giffs frequentemente caem com tudo no chão por conta disso. 
+
+Barris que podem ser de cerveja ou de pólvora. Cuidado. Mesmo assim, gente fumando do lado. O chão é cheio de bitucas e marcas de explosão. 
+
 <!-- DYNAMIC:related-entries -->
 
 # Links

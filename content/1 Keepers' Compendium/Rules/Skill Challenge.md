@@ -6,7 +6,7 @@ author: DM
 ---
 Um Skill Challenge é uma cena (não-combate) que deve ser resolvida pelos personagens. 
 
-Esse desafio tem 2 parâmetros: uma DC ([[Classe de Dificuldade]]) base, um número necessário de sucessos e um número máximo de falhas. Em cada rodada, os PCs tomam uma ação; o desafio termina com um resultado positivo se alcançarem o número máximo de sucessos, ou um resultado negativo se alcançarem o número máximo de falhas.
+Esse desafio tem 3 parâmetros: uma DC ([[Classe de Dificuldade]]) base, um número necessário de sucessos e um número máximo de falhas. Em cada rodada, os PCs tomam uma ação; o desafio termina com um resultado positivo se alcançarem o número máximo de sucessos, ou um resultado negativo se alcançarem o número máximo de falhas.
 
 Em cada rodada, cada jogador declara uma ação entre:
 - ***Fazer um skill check***, descrevendo como usa sua skill pra avançar a cena e fazendo um teste contra a DC que o DM seleciona (com base na DC base do desafio, mas possivelmente mais fácil ou mais difícil de acordo com a cena, a idéia do jogador, etc). Dependendo da ocasião, isso pode inclusive ser um ataque. Note que **cada skill (ataque incluso) só pode ser usada uma vez por desafio** - conseguir um sucesso com Furtividade avança o desafio, mas não dá pra fazer isso todo turno, Carlotinha. (<3) 

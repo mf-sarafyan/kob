@@ -2,7 +2,7 @@
 type: location
 location_type: Sub-district
 parent:
-  - "[[kob/content/1 Keepers' Compendium/wiki/location/Bragora]]"
+  - "[[Bragora]]"
 appears_in: []
 image: "[[bragora docks.png]]"
 ---
@@ -14,7 +14,7 @@ Dockside é a linha de frente de Bragora: o primeiro cheiro que o viajante sente
 
 ### Riva Alta
 A parte mais alta é dominada por **armazéns e depósitos**, pertencentes às casas nobres e às grandes companhias mercantis. Navios descarregam cargas inteiras direto para estas construções, e é aqui também que se encontra o **Escritório do Mestre das Docas**, que regula (ou finge regular) a atividade portuária.  
-Entre os prédios imponentes, destaca-se a **Casa Murawa**, residência do mercador mais rico da comunidade Shou, cercada de armazéns próprios.
+Entre os prédios imponentes, destaca-se a **Casa Murawa**, residência do mercador mais rico da comunidade Shou, cercada de armazéns próprios. 
 
 ### Riva Bassa
 Mais próxima da água e da bagunça do cais, Riva Bassa é uma mistura de tavernas esfumaçadas e oficinas modestas. Aqui se encontram estabelecimentos como a lendária **The Laughing Beholder**, além de lojas que vendem tudo o que uma tripulação precisa: velas, cordas, armamentos básicos produzidos em [[Soffiera]]. É o ponto de encontro das tripulações menos glamourosas, mas indispensáveis para o funcionamento da cidade.
@@ -23,6 +23,10 @@ Mais próxima da água e da bagunça do cais, Riva Bassa é uma mistura de taver
 - O movimento constante faz de Dockside um dos lugares mais barulhentos de Bragora.  
 - Guardas da cidade passam, mas raramente intervêm; a “lei” pertence tanto às guildas quanto às máfias.  
 - Dizem que nenhum carregamento entra ou sai sem que ao menos uma Famiglia tenha sua parte.
+
+## Visual/vibe
+**Riva Alta**: Piers de madeira, canais finos com espaço pra 1-2 gôndolas. Caixas sendo carregadas e descarregadas, de Spelljammer pra pier, de pier pra gôndola, de gôndola pra armazém, e vice-versa. Marinheiros suados carregando coisas, e burocratas (e/ou mafiosos) com pranchetas vistoriando naves e cargas. Gritos de "sai do mei!" pra passar coisas grandes pelas ruas apertadas retrucados com xingamentos. 
+**Riva Bassa**: ruas de paralelepípedo com bêbados tropeçando; caindo no canal enquanto uma gôndola passa com velas novas. Casas de madeira de 2-3 andares, com capitães negociando suprimentos na porta enquanto a tripulação enche a cara. Piratas mal encarados encostados, fumando, num beco. 
 
 <!-- DYNAMIC:related-entries -->
 

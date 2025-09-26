@@ -30,7 +30,14 @@ A guilda atua tanto como **escola de magia alquímica** quanto como **corporaç�
 - Apesar do caos, há um certo **sentido de comunidade excêntrica**: artistas, bruxos e apotecários veem no bairro um refúgio para criações que seriam proibidas em qualquer outro lugar.  
 - O lugar inspira tanto fascínio quanto repulsa — dizem que, se Bragora tem um coração estranho e pulsante, ele está escondido em Micélio.  
 
+## Vibe visual
+Mariposas gigantes e coloridas rodeando postes-vivos feitos de fungo bioluminescente.
 
+Uma placa "Não Comer!" com uma caveirinha na frente de um cogumelo particularmente apetitoso. 
+
+Feirinhas vendendo poções, bálsamos, e picles. Os vendedores tem cogumelinhos crescendo nas costas - não sabemos se plantados ou na própria pele.
+
+Pessoas vão pro outro lado da rua pra deixar um mind flayer passar flutuando. 
 
 <!-- DYNAMIC:related-entries -->
 

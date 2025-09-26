@@ -21,6 +21,11 @@ O bairro é principalmente residencial: os restaurantes ou lojinhas costumam ser
 - Há um forte senso de **comunidade e hospitalidade**: festas de rua com música e comida abundante são comuns.  
 - Apesar do clima leve, os Burrows não estão livres da influência das Famiglias; rumores dizem que os [[Luminari]] têm muitos olhos e ouvidos aqui.
 
+## Vibe Visual
+Portas baixas e redondas, fachadas entuxadas de flores, plantas, grama. O bairro é um morro, as casas entram pra dentro da terra, uma em cima da outra. 
+
+Toda hora tem cheiro de comida, e gente conversando na calçada com os pés descalços pra cima. Pequeninos passeando com cachorros. Um cara levando o peixe pra passear no canal. 
+
 <!-- DYNAMIC:related-entries -->
 
 # Links

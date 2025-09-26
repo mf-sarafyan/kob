@@ -8,7 +8,7 @@ image: "[[stillwater1.png]]"
 
 # Stillwater (L’Acqua)
 
-**Stillwater** é o subdistrito sempre alagado de Bragora. Canais transbordam, a umidade escorre pelas paredes, e o ar está impregnado de mofo e peixe. É o lugar onde o teto pinga constantemente, graças ao elevador que leva de [[La Citta]] até [[Montevia]] logo acima. As passagens aqui raramente estão secas, e moradores caminham sobre tábuas improvisadas ou simplesmente de pés descalços na água.  
+**Stillwater** é o subdistrito sempre alagado de Bragora. Canais transbordam, a umidade escorre pelas paredes, e o ar está impregnado de mofo e peixe. É o lugar onde o teto pinga constantemente, por causa ao elevador que leva de [[La Citta]] até [[Montevia]] logo acima. As passagens aqui raramente estão secas, e moradores caminham sobre tábuas improvisadas ou simplesmente de pés descalços na água.  
 
 ### Locais de Destaque
 - **Mercado de Peixe**, uma confusão de barracas fedidas oferecendo desde peixes frescos até espécies exóticas de wildspace, sempre com moscas rondando.  
@@ -27,7 +27,14 @@ O Afogado se tornou o ponto de encontro de Stillwater: mercados improvisados se 
 - Morar em Stillwater significa se acostumar a estar **sempre molhado**: roupas nunca secam totalmente, e botas são um artigo essencial.  
 - O bairro é famoso por seus **negócios de fachada**: casas de banho que escondem bordéis ou arenas ilegais; vendedores de peixe que oferecem contrabando no fundo dos baldes.  
 - Guerras de facções raramente explodem aqui, mas disputas pessoais se resolvem nas arenas — muitas vezes com corpos boiando depois.  
-- Chuva ou não, sempre há alguém gritando “guarda-chuvas, guarda-chuvas!” nas esquinas.
+- Sempre há alguém gritando “guarda-chuvas, guarda-chuvas!” nas esquinas.
+
+## Vibe Visual
+Garoa constante. Botas fazendo schlorp, schlorp. 
+
+Duas casas de banho, uma do lado da outra, ambas te chamando pra entrar; uma tem uma gostosa com pouca roupa, e outra um maluco tatuado e cheio de cicatrizes. 
+
+Gente aglomerada debaixo de um telhadinho apertando, esperando passar uma gotejada mais violenta. 
 
 
 ![[stillwater2.png]]
