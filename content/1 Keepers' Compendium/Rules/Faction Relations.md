@@ -57,6 +57,8 @@ Characters change Standing by holding **Meetings** (see Meetings, below) or by a
     - **Big Ask (5–7 Favours).** A ship berth sealed for a night, erasing a case, a cutter and crew for one job, or shutting down a rival’s operation for a short time.
 - **Pull Checks.** When uncertainty exists, call for a check at **DC 10 (Minor), 15 (Major), 20 (Big)** using an appropriate skill. Each **additional Favour** spent on the same Pull grants **+2** to the check.
 
+> **Baliza monetária**: a minha idéia é que uma ação de downtime pra conseguir favours valha um *pouco* mais que uma ação básica de Trade num Bastion ([[Bastions#Trade (mod.)]]). O quão melhor é modificado pelo Standing: quanto mais longe de neutro, maior o valor - inclusive negativamente; só que em vez de lucro, são custos. 
+> Ou seja: um Minor Pull neutro deve valer mais ou menos uns 20GP por nível de personagem, igual uma ação de [[Bastions#Trade (mod.)|Trade]]. Calculando um Big Ask com um aliado: 5-7 favours são umas 3-4 ações, então começamos de uns 70GP; chutando uns +50% pela aliança, isso valeria lá pelos 100-110 GP por nível. 
 
 # Heat & Wanted
 **Heat** is fresh trouble with a faction; **Wanted** is formalized hostility.
@@ -75,7 +77,7 @@ Characters change Standing by holding **Meetings** (see Meetings, below) or by a
     - **Hit.** An encounter targets the character or their Bastion this week.
 
 # Earning Favours & Heat
-*More on this on the [[Bastions]] rules soon.*
+*More on this on the [[Bastions]] rules.*
 Most faction-touching activities award **1d4 Favours** with one faction and **1d4 Heat** with one or more other factions (DM’s call), modified by approach.
 - **Patronage (Low Profile).** Donate goods, coin, intel, or services. Gain **1–2 Favours** (1d4 −1, minimum 1) with the target faction; gain **0–1 Heat** (DM’s call).
 - **Enforcement** **(High Profile).** Do rough work on the faction’s behalf. Gain **2–4 Favours** (1d4 +1) with the target faction; gain **1–4 Heat** (1d4) with one or more logical rivals.
