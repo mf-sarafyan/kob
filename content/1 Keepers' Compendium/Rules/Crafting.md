@@ -23,13 +23,13 @@ Requires
 | Wondrous Item | Tinker's, or Other                                      |
 #### Magic Item Crafting Time and Cost
 
-| Item Rarity | Time* | Cost*      |
-| ----------- | ----- | ---------- |
-| Common      | 5 d   | 50 GP      |
-| Uncommon    | 10 d  | 200 GP     |
-| Rare        | 50 d  | 2'000 GP   |
-| Very Rare   | 125 d | 20'000 GP  |
-| Legendary   | 250 d | 100'000 GP |
+| Item Rarity | Time (Bastion Turns)* | Cost*      |
+| ----------- | --------------------- | ---------- |
+| Common      | 1                     | 50 GP      |
+| Uncommon    | 2                     | 200 GP     |
+| Rare        | 6                     | 2'000 GP   |
+| Very Rare   | 15                    | 20'000 GP  |
+| Legendary   | 30                    | 100'000 GP |
 *Time and cost are halved for consumables*
 
 # House Rule: Essence
@@ -46,13 +46,13 @@ Ter Essence também garante que conseguir os materiais pra craftar um item (os R
 
 #### Updated Magic Item Crafting Time and Cost
 
-| Item Rarity | Time* | Cost*      | Max Assistants/Essence |
-| ----------- | ----- | ---------- | ---------------------- |
-| Common      | 5 d   | 50 GP      | 0                      |
-| Uncommon    | 10 d  | 200 GP     | 1                      |
-| Rare        | 50 d  | 2'000 GP   | 2                      |
-| Very Rare   | 125 d | 20'000 GP  | 3                      |
-| Legendary   | 250 d | 100'000 GP | 4                      |
+| Item Rarity | Time (Bastion Turns)* | Cost*      | Max Assistants/Essence |
+| ----------- | --------------------- | ---------- | ---------------------- |
+| Common      | 1                     | 50 GP      | 0                      |
+| Uncommon    | 2                     | 200 GP     | 1                      |
+| Rare        | 6                     | 2'000 GP   | 2                      |
+| Very Rare   | 15                    | 20'000 GP  | 3                      |
+| Legendary   | 30                    | 100'000 GP | 4                      |
 *Time and cost are halved for consumables*
 
 ## Obtendo Essence

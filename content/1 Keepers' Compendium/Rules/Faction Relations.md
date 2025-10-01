@@ -5,7 +5,18 @@ Each character tracks their relationship with each faction using three measures:
 - **Favours (0–7).** Spendable goodwill from that faction.
 - **Heat (0–7).** Recent ill-will with that faction.
 
-When **Heat** reaches 5 with a faction, that character gains **Wanted** 1 with that faction (see Wanted, below) and Heat resets to 0. Favours and Heat cancel on a **1:1** basis as they’re gained.
+When **Heat** reaches 5 with a faction, that character gains **Wanted** 1 with that faction (see Wanted, below) and Heat resets to 0. Favours and Heat cancel on a **1:1** basis as they’re gained. **Wanted** lowers your **Standing** when it reaches the next Standing level: you need **Wanted 2** to go from **Standing -1** to **Standing -2**, and from **Standing +3** to **Standing +2.**
+
+With 5 **Favours**, a character can arrange a **Meeting** with a faction (with [[Bastions]]), to work on increasing their **Standing**. Just like **Wanted**, you need **Meetings** equal to your next Standing level to go up: It takes 2 Meetings to go from **Standing +1** to **Standing +2**, as well as from **Standing -3** to **Standing -2**
+
+-3     -2    -1  0  +1   +2     +3   **//Standing**
+| - - - | - - | - | - | - - | - - - |  
+
+Going up: 
+S-3 -> 2M -> S-2 -> 1M -> S-1 -> 1M -> S0 -> 1M -> S+1 -> 2M -> S+2 -> 3M -> S+3
+Going down: 
+S+3 -> 2W -> S+2 -> 1W -> S+1 -> 1W -> S0 -> 1W -> S-1 -> 2W -> S-2 -> 3W -> S-3
+
 
 ## Major Factions
 [[La Mano Legata]]
@@ -30,7 +41,7 @@ Standing represents a faction’s long-term attitude. Tiers are ordered from wor
 - **Friendly (+2 Standing).** Will help if it doesn’t create serious problems for them. Expect same from you.
 - **Allied (+3 Standing).** Will help even if it’s not in their best interest do so. Expect same from you.
 
-> **Starting Standing.** Unless noted, all characters begin at **Interfering** with all factions. Except for the **Zenonni** - Vashet pulled a few strings to get them to **Neutral**.
+> **Starting Standing.** Unless noted, all characters begin at **Interfering** with all factions. Except for the **Zenonni** - Vashet pulled a few strings to get them to be **Neutral**.
 
 ## Changing Standing (Meetings & Wanted)
 Characters change Standing by holding **Meetings** (see Meetings, below) or by accruing **Wanted**, as shown on the ladder.
