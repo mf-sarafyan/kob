@@ -69,11 +69,11 @@ Ver [[Crafting]]!
 # Bastion Facilities
 Os Bastions de vocês começam com:
 - Duas *basic facilities*.
-- Uma *special facility*.
+- Uma *business facility*.
 - Uma *political facility*. 
 
 ## Basic Facilities
-| Facility        | Action Modifier when Vast                                                                        |
+| Facility        | Action Modifier when Luxurious                                                                   |
 | --------------- | ------------------------------------------------------------------------------------------------ |
 | **Bedroom**     | **Host a Guest.** Gain **+1 Favour** when doing **Patronage** or **Enforcement**.                |
 | **Dining Room** | **Private Supper.** **Meetings** cost **1 less Favour** (4 instead of 5).                        |
@@ -81,31 +81,37 @@ Os Bastions de vocês começam com:
 | **Courtyard**   | **Public Face.** **Enforcement** generates **1 less Heat** (minimum 0).                          |
 | **Kitchen**     | **Comfort Food.** **Cool-Off** reduces **+1 extra Heat** (total −2 this Turn).                   |
 | **Storage**     | **False Crates.** After **Enforcement**, you may **shift 1 Heat** from the a faction to another. |
+> Aqui eu mudei os níveis das facilities de "espaço" pra "qualidade", porque "Vast" em Bral não fazia muito sentido.
 ### Adding Basic Facilities
-A character can add a basic facility to their Bastion by spending money and time. The cost of adding a basic facility and the time required depend on the facility's space, as shown on the table below.
+A character can add a basic facility to their Bastion by spending money and time. The cost of adding a basic facility and the time required depend on the facility's quality, as shown on the table below.
 
-|Facility Space|Cost|Time Required|
-|---|---|---|
-|Cramped|500 GP|20 days|
-|Roomy|1,000 GP|45 days|
-|Vast|3,000 GP|125 days|
+| Facility Space | Cost     | Time Required |     |
+| -------------- | -------- | ------------- | --- |
+| Basic          | 500 GP   | 20 days       |     |
+| Fine           | 1,000 GP | 45 days       |     |
+| Luxurious      | 3,000 GP | 125 days      |     |
+|                |          |               |     |
+|                |          |               |     |
 
-### Enlarging Basic Facilities
-Enlarging a basic facility to Vast unlocks modifiers for Faction Actions.
+### Improving Basic Facilities
+Improving a basic facility to Luxurious unlocks modifiers for Faction Actions.
 
-A character can spend money and time to increase the space of a basic facility in their Bastion by one category, as shown on the table below.
+A character can spend money and time to increase the quality of a basic facility in their Bastion by one category, as shown on the table below.
 
-|Space Increase|Cost|Time Required|
-|---|---|---|
-|Cramped to Roomy|500 GP|25 days|
-|Roomy to Vast|2,000 GP|80 days|
+| Space Increase    | Cost     | Time Required |
+| ----------------- | -------- | ------------- |
+| Basic to Fine     | 500 GP   | 25 days       |
+| Fine to Luxurious | 2,000 GP | 80 days       |
+|                   |          |               |
 
 # Special Facilities
-Special facilities are Bastion locations where certain activities yield game benefits. A character's Bastion initially has two special facilities of the character's choice for which they qualify. Each special facility can be chosen only once unless its description says otherwise.
+Special facilities are Bastion locations where certain activities yield game benefits. A character's Bastion initially has two special facilities of the character's choice for which they qualify. Each special facility can be chosen only once unless its description says otherwise. 
 
 Unlike basic facilities, special facilities can't be bought; a character gains them through level advancement. At level 9, a character gains two additional special facilities of their choice for which they qualify; they gain one additional facility at level 13 and another at level 17. The Special Facility Acquisition table shows the total number of special facilities in a character's Bastion. Each new special facility immediately becomes part of the character's Bastion when the character reaches the level.
 
 Each time a character gains a level, that character can replace one of their Bastion's special facilities with another for which the character qualifies.
+
+Special facilities can either be *business* or *political* facilities; business interacting more with money and crafting systems, while political will interact with the city's factions. 
 
 #### Special Facility Acquisition
 
@@ -115,11 +121,14 @@ Each time a character gains a level, that character can replace one of their Bas
 | 9     | 4                  |
 | 13    | 5                  |
 | 17    | 6                  |
-### Special Facility List
-https://5e.tools/bastions.html 
+### Business Facility List
+https://5e.tools/bastions.html - ignore the "size" stuff.
+TODO - add a summary here
 
-### Special Facility Special Effects
-Sei lá malandro - se vcs curtirem esse sistema eu vou figure something out. 
+### Business Facility Special Effects
+Sei lá malandro - se vcs curtirem esse sistema eu vou figure something out. Ou a gente deixa essas facilities rules as written e deixa as partes especiais pras political facilities. 
+
+# Political Facilities
 
 
 # Faction Actions

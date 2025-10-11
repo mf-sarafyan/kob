@@ -4,7 +4,7 @@ location_type: Building
 parent:
   - "[[La Citta]]"
 ---
-[[kob/content/1 Keepers' Compendium/wiki/character/Vax|Vax]] - Cat Maid Cafe? Gatos e Tabaxis. Os gatos tem roupas de maid. **Gatto QuiLatte.** Hot cocoa e cafézinhos. Middle City. Pub.
+[[Vax|Vax]] - Cat Maid Cafe? Gatos e Tabaxis. Os gatos tem roupas de maid. **Gatto QuiLatte.** Hot cocoa e cafézinhos. Middle City. Pub.
 
 <!-- DYNAMIC:related-entries -->
 

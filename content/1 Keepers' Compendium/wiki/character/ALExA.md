@@ -28,7 +28,7 @@ image: "[[kob/content/1 Keepers' Compendium/imgs/ALExA.jpg]]"
 
 A *Autômata Logística de Exploração Astral* é uma entidade sentiente complexa; uma inteligência encantada que encapsula parcialmente a nave [[kbα1]], sua bússola astral, sistema de comunicação, *Spelljamming helm* (o leme de comando de navios astrais), e um corpo semi-físico de constructo holográfico vagamente feminino. Isso a torna, em certa capacidade, tanto pilota e navegadora quanto *a navegada*. 
 
-Nas poucas ocasiões que vocês interagiram - ela não pode desembarcar -, ela se referiu a [[kob/content/1 Keepers' Compendium/wiki/character/Gizmo|Gizmo]] como "irmãozinho". Vocês imaginam que seus mestres saibam mais sobre ela; mas se suas histórias são um bom parâmetro, vocês imaginam que os segredos de uma tecnologia arcana tão poderosa sejam muito bem guardados.
+Nas poucas ocasiões que vocês interagiram - ela não pode desembarcar -, ela se referiu a [[Gizmo|Gizmo]] como "irmãozinho". Vocês imaginam que seus mestres saibam mais sobre ela; mas se suas histórias são um bom parâmetro, vocês imaginam que os segredos de uma tecnologia arcana tão poderosa sejam muito bem guardados.
 
 #### Trivia
 [[Captain Jordal Brambletopple|Captain Jordal Brambletopple]] uma vez (e uma vez só) chamou ela de Mordenkainen's Amazing Multiverse Assistant. Essa é a única história que ele nunca conta.

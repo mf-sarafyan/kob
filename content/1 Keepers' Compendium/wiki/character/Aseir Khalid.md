@@ -25,8 +25,8 @@ image: "[[aseir.png]]"
 - [Theme song: Stargazer, Rainbow](https://www.youtube.com/watch?v=YmJIccPWnEk)
 
  Aprendizes
-[[kob/content/1 Keepers' Compendium/wiki/character/Gizmo|Gizmo]]. A Mãe dele era uma amiga e mentora, apesar do guaxinim não ter nenhuma memória concreta dela.
-[[kob/content/1 Keepers' Compendium/wiki/character/Vax|Vax]].  Ele esquiva o assunto, mas diz que "passou por algo parecido e teve sorte de ter alguém pra ensiná-lo".
+[[Gizmo|Gizmo]]. A Mãe dele era uma amiga e mentora, apesar do guaxinim não ter nenhuma memória concreta dela.
+[[Vax|Vax]].  Ele esquiva o assunto, mas diz que "passou por algo parecido e teve sorte de ter alguém pra ensiná-lo".
 
 
 ## Keeper of the Silver Flame

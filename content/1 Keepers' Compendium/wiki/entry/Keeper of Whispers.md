@@ -2,7 +2,7 @@
 type: entry
 entry_type: Document
 relates_to:
-  - "[[kob/content/1 Keepers' Compendium/wiki/character/Vax|Vax]]"
+  - "[[Vax|Vax]]"
   - "[[Mordenkainen]]"
   - "[[Iggwilv]]"
 author: DM
@@ -18,7 +18,7 @@ A introdução do livro é escrita pelo próprio [[Mordenkainen]], descrevendo o
 O livro é dividido em uma coleção de histórias e outra de rituais e invocações que a autora hipotetiza que sejam sobre a mesma entidade; um patrono que ajuda prestativamente seus contatos até que eles mesmos se levem à ruína. A entidade tem aspectos e ritos de fey, fiend e celestial em momentos diferentes. Há histórias em que a entidade diz ser [[Graz'zt]] ou [[kob/content/1 Keepers' Compendium/wiki/character/Fraz-Urb'luu|Fraz-Urb'luu]], mas tem em boa autoridade que as datas não fazem sentido - i.e. épocas que Fraz estava capturado, ou que o próprio Graz'zt lhe negou estar envolvido. 
 
 ----
-When [[kob/content/1 Keepers' Compendium/wiki/character/Vax|Vax]] reaches the end of the book, new letters appear upon the final blank page. 
+When [[Vax|Vax]] reaches the end of the book, new letters appear upon the final blank page. 
 
 > *Well, my dear little kitty.*
 > Now you know of me. You know the many faces I show. The many masks I wear. What did you think, I wonder.

@@ -4,7 +4,7 @@ location_type: Building
 parent:
   - "[[Soffiera]]"
 ---
-[[kob/content/1 Keepers' Compendium/wiki/character/Gizmo|Gizmo]] - Workshop : Sem nome. [[Wizpop]] trabalha, plus um Giff. Soffiera. Mascara de solda e avental de couro. Vendem pra todos - especialmente Cinders. [[Kurrzot]] carrega coisas.
+[[Gizmo|Gizmo]] - Workshop : Sem nome. [[Wizpop]] trabalha, plus um Giff. Soffiera. Mascara de solda e avental de couro. Vendem pra todos - especialmente Cinders. [[Kurrzot]] carrega coisas.
 
 <!-- DYNAMIC:related-entries -->
 

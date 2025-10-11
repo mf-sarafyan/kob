@@ -4,9 +4,9 @@ entry_type: Document
 relates_to:
   - "[[Bad Juju]]"
   - "[[Baang|Baang]]"
-  - "[[kob/content/1 Keepers' Compendium/wiki/character/Vax|Vax]]"
+  - "[[Vax|Vax]]"
   - "[[Rhogar]]"
-  - "[[kob/content/1 Keepers' Compendium/wiki/character/Gizmo|Gizmo]]"
+  - "[[Gizmo|Gizmo]]"
   - "[[Vashet Ólafursdottir]]"
 author: DM
 ---
@@ -76,7 +76,7 @@ Firmam o presente instrumento sob selamento mágico e juramento arcano:
 [[Vashet Ólafursdottir]] – Agente Responsável
 [[Rhogar]]
 [[Bad Juju]]
-[[kob/content/1 Keepers' Compendium/wiki/character/Gizmo|Gizmo]]
-[[kob/content/1 Keepers' Compendium/wiki/character/Vax|Vax]]
+[[Gizmo|Gizmo]]
+[[Vax|Vax]]
 [[Baang|Baang]]
 [[Mordenkainen]], o Cinzento – Supervisor Planar-Geral

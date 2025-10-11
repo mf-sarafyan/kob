@@ -9,24 +9,23 @@ When **Heat** reaches 5 with a faction, that character gains **Wanted** 1 with t
 
 With 5 **Favours**, a character can arrange a **Meeting** with a faction (with [[Bastions]]), to work on increasing their **Standing**. Just like **Wanted**, you need **Meetings** equal to your next Standing level to go up: It takes 2 Meetings to go from **Standing +1** to **Standing +2**, as well as from **Standing -3** to **Standing -2**
 
--3     -2    -1  0  +1   +2     +3   **//Standing**
-| - - - | - - | - | - | - - | - - - |  
-
-Going up: 
-S-3 -> 2M -> S-2 -> 1M -> S-1 -> 1M -> S0 -> 1M -> S+1 -> 2M -> S+2 -> 3M -> S+3
-Going down: 
-S+3 -> 2W -> S+2 -> 1W -> S+1 -> 1W -> S0 -> 1W -> S-1 -> 2W -> S-2 -> 3W -> S-3
-
 
 ## Major Factions
-[[La Mano Legata]]
+[[La Mano Legata]]:
 - [[Cartocci]]
+	- Strong-armed bureaucrats. Often affects prices via permits and protection rackets. Having their favour will make getting materials easier, but being on their bad side will bury you in "taxes" and paperwork.
 - [[Zenonni]]
+	- A collection of odd individuals. Their appearances will bring chaos - sometimes in your favour, sometimes not.
 - [[Malvessi]]
+	- Mobsters with a pirate skin. They come to plunder. But if you're in with them, they'll share. Will resort to violence and sabotage against enemies. If you're a friend, you can point your enemies as theirs. 
 - [[Il Velluto]]
+	- Socialites can bring you to ruin with a word, as much as elevate you with just their presence. Your relation with the Velluto is pretty much your relation with high society.
 - [[Luminari]]
+	- Kind of like the Velluto, but for whispers among the commonfolk. 
 [[Cinders]]
+	Enemies of the status quo, armed with fire and powder. Currying favor with them will probably anger everyone else, but it might upset the power balance for the entire city. They're relentless enemies or allies.
 [[Monarquia Braliana]]
+	The crown has the reach to override any impediments other factions could put in your way, or to reinforce them.  
 
 These are the major players in the Bralian politics. All of them will have Standing, Favours and Heat with each player character. You can interact with them using the Bastion system (as well as during the story), and they will trigger their own actions in Bastion Turns, which can help or hinder your operations.
 
@@ -46,15 +45,15 @@ Standing represents a faction’s long-term attitude. Tiers are ordered from wor
 ## Changing Standing (Meetings & Wanted)
 Characters change Standing by holding **Meetings** (see Meetings, below) or by accruing **Wanted**, as shown on the ladder.
 
-| Standing    | Level | Meetings to go Up | Wanted to go Down |
-| ----------- | :---: | :---------------: | :---------------: |
-| War         |  −3   |         3         |         —         |
-| Hostile     |  −2   |         2         |         3         |
-| Interfering |  −1   |         1         |         2         |
-| Neutral     |   0   |         1         |         1         |
-| Helpful     |  +1   |         2         |         1         |
-| Friendly    |  +2   |         3         |         2         |
-| Allied      |  +3   |         —         |         3         |
+| Standing    | Level | Cash in Value | Meetings to go Up | Wanted to go Down |
+| ----------- | :---: | :-----------: | :---------------: | :---------------: |
+| War         |  −3   |     -50%      |         3         |         —         |
+| Hostile     |  −2   |     -25%      |         2         |         3         |
+| Interfering |  −1   |     -10%      |         1         |         2         |
+| Neutral     |   0   |      0%       |         1         |         1         |
+| Helpful     |  +1   |     +10%      |         2         |         1         |
+| Friendly    |  +2   |     +25%      |         3         |         2         |
+| Allied      |  +3   |     +50%      |         —         |         3         |
 
 > A Meeting that would raise Standing when the character already has **Wanted** with that faction first reduces **Wanted** by 1 (no Standing increase), then any extra Meetings may advance Standing.
 
@@ -62,26 +61,26 @@ Characters change Standing by holding **Meetings** (see Meetings, below) or by a
 # Favours
 **Favours** are short-term IOUs held by a character with a specific faction.
 - **Capacity.** A character can hold up to **7 Favours** with a faction. Excess Favours are lost.
-- **Spending Favours (Pulls).** Characters spend Favours to request aid (“Pulls”) from a faction.
-    - **Minor Pull (1–2 Favours).** A permit, an introduction, safe passage, lookout detail, or simple paperwork.
-    - **Major Pull (3–4 Favours).** A small squad for one operation, access to restricted goods or places, forged documents that endure scrutiny, or quashing a minor charge.
-    - **Big Ask (5–7 Favours).** A ship berth sealed for a night, erasing a case, a cutter and crew for one job, or shutting down a rival’s operation for a short time.
-- **Pull Checks.** When uncertainty exists, call for a check at **DC 10 (Minor), 15 (Major), 20 (Big)** using an appropriate skill. Each **additional Favour** spent on the same Pull grants **+2** to the check.
+- **Spending Favours (Cash-in).** Characters spend Favours to request aid (“Cash-in”) from a faction. What they can get depends a lot on the faction, and the value can be modified by current **Standing**, as per the table above. 
+    - **Minor Cash-in (2 Favours).** Common goods worth around 20GP per level (more with higher standing), a simple NPC introduction, safe passage, lookout detail, or simple paperwork. 
+    - **Major Cash-in (4 Favours).** Rare or restricted goods worth around 50GP per level (more with higher standing). Looking the other way on something significant. An introduction to an important faction member. Lowering Heat from another faction.
+    - **Big Ask (7 Favours).** Very rare or forbidden goods worth around 100GP per level. Meeting a leader or adjacent faction member. More permanent paperwork. Strikes on rival factions. Lowering Wanted from another faction.
+- **Pull Checks.** When uncertainty exists, call for a check at **DC 10 (Minor), 15 (Major), 20 (Big)** using an appropriate skill (usually Persuasion). Each **additional Favour** spent on the same Pull grants **+2** to the check.
 
 > **Baliza monetária**: a minha idéia é que uma ação de downtime pra conseguir favours valha um *pouco* mais que uma ação básica de Trade num Bastion ([[Bastions#Trade (mod.)]]). O quão melhor é modificado pelo Standing: quanto mais longe de neutro, maior o valor - inclusive negativamente; só que em vez de lucro, são custos. 
 > Ou seja: um Minor Pull neutro deve valer mais ou menos uns 20GP por nível de personagem, igual uma ação de [[Bastions#Trade (mod.)|Trade]]. Calculando um Big Ask com um aliado: 5-7 favours são umas 3-4 ações, então começamos de uns 70GP; chutando uns +50% pela aliança, isso valeria lá pelos 100-110 GP por nível. 
 
 # Heat & Wanted
-**Heat** is fresh trouble with a faction; **Wanted** is formalized hostility.
+**Heat** is fresh trouble with a faction; **Wanted** is formalized hostility. Both alter the character's results from Actions with a faction, as well as that faction's Approach when it's active during [[Bastions2]] turns.
 - **Heat Gain.** Unless otherwise stated, actions that anger or implicate a character with a faction add **1d4 Heat** with that faction.
 - **Cap and Conversion.** On reaching **5 Heat**, set Heat to 0 and the character gains **Wanted +1** with that faction.
 - **Heat vs Favours.** When a character gains Favours and Heat with the same faction at the same time, reduce one by the other **1:1**, then apply any remainder.
-- **Effects.** For each **3 Heat** a character has with a faction, that character’s checks to secure Pulls from that faction suffer **+2 DC**.
+- **Effects.** For each **3 Heat** a character has with a faction, that character’s checks to secure Pulls from that faction suffer **+2 DC**. 
 
 ### Wanted
 **Wanted** reflects warrants, vendettas, or kill orders with a faction.
-- **Gaining Wanted.** Each time Heat converts, the character marks **Wanted +1** with that faction and immediately triggers a **Hostile Move** (below).
-- **Clearing Wanted.** Each Meeting with that faction first reduces **Wanted by 1** (no Standing change). A character may also clear **Wanted 1** by completing a special mission for that faction or by “laying low” (skipping their next Bastion Turn).
+- **Gaining Wanted.** Each time Heat reaches 5, the character marks **Wanted +1** with that faction.
+- **Clearing Wanted.** Each Meeting with that faction first reduces **Wanted by 1** (no Standing change). A character may also clear **Wanted 1** by completing a special mission for that faction, or with a **Big Ask** from another faction.
 - **Hostile Moves.** When a character gains Wanted, the DM chooses or rolls a consequence:
     - **Sabotage.** A Bastion room is disabled until repaired (cost or downtime).
     - **Shakedown.** Pay a fine or gain **+2 Heat** with a different faction.
@@ -92,7 +91,7 @@ Characters change Standing by holding **Meetings** (see Meetings, below) or by a
 Most faction-touching activities award **1d4 Favours** with one faction and **1d4 Heat** with one or more other factions (DM’s call), modified by approach.
 - **Patronage (Low Profile).** Donate goods, coin, intel, or services. Gain **1–2 Favours** (1d4 −1, minimum 1) with the target faction; gain **0–1 Heat** (DM’s call).
 - **Enforcement** **(High Profile).** Do rough work on the faction’s behalf. Gain **2–4 Favours** (1d4 +1) with the target faction; gain **1–4 Heat** (1d4) with one or more logical rivals.
-- **Cool-Off.** Spend time and resources to reduce friction. Reduce **Heat with one faction by 1d3**; pay **100 gp per Heat** reduced or burn **1 Favour** from any other faction to cover costs.
+- **Cool-Off.** Spend time and resources to reduce friction. Reduce **Heat with one faction by 1d4-1**. 
 
 > **Faction Drift.** When a character gains Favours with a faction, the DM may apply **+1 Heat** to one rival faction (or split between two) to reflect tension.
 
@@ -137,4 +136,4 @@ Some examples of Minor Factions are:
 - Minor gangs (such as the Yakuza); 
 - Powerful individuals (say you're great friends with [[Luigi Zenonni]], but don't necessarily have a good standing with the entire crew)
 
-However, it's possible to **Ally** them during special interactions in the story or if you really, really want to go out of your way to do it; they'll give a minor specific boon to your Bastion. You can only be allied to one minor faction at a time, though. 
+It's possible to **Ally** them during special interactions in the story or if you really, really want to go out of your way to do it; they'll give a minor specific boon to your Bastion. You can only be allied to one minor faction at a time, though. 

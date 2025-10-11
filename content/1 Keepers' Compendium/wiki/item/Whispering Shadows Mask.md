@@ -2,7 +2,7 @@
 type: item
 entry_type: item
 relates_to:
-  - "[[kob/content/1 Keepers' Compendium/wiki/character/Vax|Vax]]"
+  - "[[Vax|Vax]]"
 author: DM
 item_type: wondrous item
 item_rarity: rare

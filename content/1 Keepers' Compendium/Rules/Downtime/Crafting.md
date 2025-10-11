@@ -1,5 +1,4 @@
 # Regra Base
-
 Requires 
 - Arcana proficiency
 - Tool proficiency + tools
@@ -22,15 +21,16 @@ Requires
 | Weapon        | Leatherworker's, Smith's, Woodcarver's                  |
 | Wondrous Item | Tinker's, or Other                                      |
 #### Magic Item Crafting Time and Cost
+You pay crafting costs per turn as you don't need to buy all materials at once. If you don't have money to pay for crafting that turn, it gets paused. 
 
-| Item Rarity | Time (Bastion Turns)* | Cost*      |
-| ----------- | --------------------- | ---------- |
-| Common      | 1                     | 50 GP      |
-| Uncommon    | 2                     | 200 GP     |
-| Rare        | 6                     | 2'000 GP   |
-| Very Rare   | 15                    | 20'000 GP  |
-| Legendary   | 30                    | 100'000 GP |
-*Time and cost are halved for consumables*
+| Item Rarity | Time (Bastion Turns)* | Cost*     | Cost per turn |
+| ----------- | --------------------- | --------- | ------------- |
+| Common      | 1                     | 50 GP     | 50 GP         |
+| Uncommon    | 2                     | 200 GP    | 100 GP        |
+| Rare        | 6                     | 3'000 GP  | 500 GP        |
+| Very Rare   | 15                    | 15'000 GP | 1'000 GP      |
+| Legendary   | 30                    | 90'000 GP | 3'000 GP      |
+*\*Time and cost are halved for consumables*
 
 # House Rule: Essence
 Alguns monstros grandes, exóticos e/ou poderosos podem ter **Essence**: a possibilidade de obter um material utilizável para criar itens mágicos. **Essence** também pode ser obtida de tesouros na forma de itens mágicos "crus".
