@@ -42,3 +42,59 @@ Dá pra colocar hotkey no obsidian pra rodar esses 2 codiguinho e facilitar a vi
 - Cria comandinhos `cd kob && publish-branch.bat` e `cd kob && pull.bat` 
 - Clica lá pra adicionar hotkey
 Pronto, vc tem botões pra dar pull e push. Eu uso ctrl+alt+shift+enter pra push e ctrl+alt+shift+tab pra pull
+
+---
+
+# Keepers RAG Chat (Local, Streamlit + LangChain + Ollama)
+
+Chatbot local de RAG sobre a pasta `content/` do projeto (campanha "Keepers of the Balance"). Usa Ollama tanto para LLM quanto para embeddings.
+
+### Requisitos
+- Python 3.10+
+- Ollama instalado e no PATH (`https://ollama.com`)
+
+Baixe os modelos (o script de setup também faz isso):
+```bash
+ollama pull llama3.1:8b-instruct
+ollama pull nomic-embed-text
+```
+
+### Setup
+Windows:
+```cmd
+scripts\setup.bat
+```
+
+macOS/Linux:
+```bash
+bash scripts/setup.sh
+```
+
+### Executar
+Windows:
+```cmd
+scripts\run.bat
+```
+
+macOS/Linux:
+```bash
+bash scripts/run.sh
+```
+
+A primeira execução cria o índice FAISS em `.rag_index/`; as próximas reutilizam.
+
+### Configuração
+Edite `src/settings.py` para mudar caminhos, modelos e parâmetros.
+
+Estrutura principal:
+- `src/rag/load.py` — loaders e chunking
+- `src/rag/index.py` — FAISS + embeddings do Ollama
+- `src/rag/chain.py` — cadeia RetrievalQA e prompt
+- `src/app.py` — UI Streamlit
+
+Executar manualmente (alternativo):
+```bash
+streamlit run src/app.py
+```
+
+Para reindexar após mudanças no conteúdo, apague `.rag_index/` e execute novamente.

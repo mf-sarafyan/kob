@@ -7,3 +7,18 @@ private/
 .vscode/
 *.pdf
 .tmp*
+
+# RAG Chatbot artifacts
+.venv/
+.rag_index/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.coverage
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json

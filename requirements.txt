@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-ollama
+faiss-cpu
+pydantic
+python-dotenv
+unstructured
+markdown
+pypdf
+langchain-text-splitters
+

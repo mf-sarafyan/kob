@@ -4,7 +4,7 @@ Each character tracks their relationship with every faction using **two dials**�
 - **Standing (−6…+6).** A faction’s long‑term attitude toward the character.
 - **Favours (can be negative).** A single running balance with that faction. Positive values are goodwill you can spend; negative values are **debts/ill‑will** that make life harder until repaid.
 
-Factions react during Bastion Turns (see [[Bastions2]]), and your choices in play nudge these two dials up or down.
+Factions react during Bastion Turns (see [[Bastions]]), and your choices in play nudge these two dials up or down.
 
 ---
 
@@ -58,49 +58,31 @@ Standing moves by **spending or losing Favours**—no extra clocks.
 # Favours (Positive & Negative)
 **Favours** are your currency with a faction. The balance may be **positive** (stored goodwill) or **negative** (debts/ill‑will).
 
-### Earning & Losing Favours (typical)
-- **Patronage** (low profile): **+1 Favour** with the target faction.
-- **Enforcement** (high profile): **+2 Favours** with the hiring faction; usually **−1 Favour** with one plausible rival (DM call).
-- **Cool‑Off** (apology/PR): Clears up to **2 negative Favours** with target faction.
-- **Political friction & fallout:** whenever fiction or a table entry would cause trouble with a faction, apply **−1 Favour** with that faction.
-
-> **Cross‑Faction Attention.** If at least one faction is **active** in the district, doing **Patronage** or **Enforcement** for a **non‑active** faction assigns **−1 Favour** with one active faction that plausibly resents it (DM decides; particularly inflammatory acts may ding two).
-
-### Spending Favours (Cash-in & Meetings)
-
-| Ask                 | Cost  | Notes                                                                    |
-| ------------------- | :---: | ------------------------------------------------------------------------ |
-| **Minor Cash-in**   | **1** | Simple permit, introduction, lookout, small squad for a scene.           |
-| **Major Cash-in**   | **2** | Restricted access, forged papers, squad for an op, quash a minor case.   |
-| **Greater Cash-in** | **3** | Close docks, cutter & crew, erase a case, shut a rival down for a night. |
-| **Meeting**         | **2** | Formal audience; each Meeting you pay for can raise Standing by **+1**.  |
-
-**Checks (when uncertain).** Use **DC 10/15/20** for Minor/Major/Greater. Each **extra Favour** sweetened on the same Pull grants **+2** to the roll. At the DM’s discretion, very high or low **Standing** might grant advantage/disadvantage on social Pulls.
-
----
-
-# Meetings (Advancing Standing)
-A **Meeting** is a formal audience to change long‑term relations.
-
-- **Cost.** **3 Favours** with that faction.
-- **Effect.** Raises your Standing by **+1** (you may not jump more than once per Meeting).
-- **Time.** Takes your Faction Action during a Bastion Turn unless a political ability waives the action cost.
-- **Checks.** Usually none; if the fiction is uncertain, use **Persuasion DC 15** (advantage at a site **Tagged** for that faction).
+![[Factions - Political Actions]]
 
 
 ---
 
-# Tags (Bastion Synergy) -  todo
-*Não sei se isso vai ficar assim tho*
-A Bastion can have up to **two Tags** linking it to districts or factions (earned via upgrades or story).
+# Style (todo)
+*See also: [[Bastions#Bastion Attacks & Defenses (Sea Storm)]]*
+Faction styles indicate how they operate. 
+Each facility is aligned to a style. Bastions take the style of the majority of their facilities (player choice on a tie). Building your bastion to be aligned with the style of the faction you wish to court can give you some bonuses!
 
-- **Patronage at a Tagged site:** **+1 Favour** with that faction.
-- **Meeting at a Tagged site:** Advantage on related checks.
-- **Enforcement launched from a Tagged site:** On success, shift **+1 Favour** with that faction (reduces a negative by 1 if applicable).
+| Faction                                         | Style        | Notes                                      |
+| ----------------------------------------------- | ------------ | ------------------------------------------ |
+| Cartocci                                        | Bureaucratic | Permits, audits, legal shields.            |
+| Monarquia Braliana                              | Bureaucratic | Royal writs, dispensation, guard presence. |
+| Malvessi                                        | Physical     | Hits, stoppages, escorts.                  |
+| Cinders                                         | Physical     | Strikes, sabotage, cell support.           |
+| Luminari                                        | Social       | Boycotts, lantern walks, street whispers.  |
+| Il Velluto                                      | Social       | Galas, snubs, society columns.             |
+| Zenonni                                         | Weird        | Anomalies, specialists, windfalls.         |
+- **Patronage with same-style:** **+1 Favour** with that faction.
+- **Meeting at a same-style Bastion:** Advantage on related checks.
 
 _Examples (wip):_  
-Hookah Bar (Entertainment) — Tags: **Il Velluto**, **Luminari**.  
-Soffiera Workshop — Tags: **Cinders**, **Zenonni**.
+Hookah Bar: Social
+Soffiera Workshop: Physical
 
 ---
 
@@ -108,7 +90,7 @@ Soffiera Workshop — Tags: **Cinders**, **Zenonni**.
 1. **Track per character × faction:** **Standing (−6…+6)** and a single **Favours** balance (may be negative).
 2. **Resolve actions:** Patronage **+1**, Enforcement **+2** (and usually **−1** to a rival), Cool‑Off **+1**. Apply fiction‑based penalties as **−1 Favour**.
 3. **Spend as needed:** Minor/Major/Greater Pulls **1/2/3**; **Meeting 2** to raise Standing **+1**.
-4. **Auto‑slide:** When Favours ≤ **−2**, Standing auto‑drops **−1**, then Favours bump **+2** (repeat until **≥ −1**).
+4. **Auto‑slide:** When Favours ≤ **−3**, Standing auto‑drops **−1**, then Favours bump **+3** (repeat until **≥ −1**).
 5. **Approaches & Attacks:** Use _Bastions2_ for district **Approaches** (bands, economy) and **Sea Storm** attacks; those rules reference Standing and Favours directly.
 
 ---
@@ -116,8 +98,8 @@ Soffiera Workshop — Tags: **Cinders**, **Zenonni**.
 # Quick Reference (Player‑Facing)
 - **Standing:** −6 (War)…−3 (Hostile)…−1 (Interfering)…0…+1 (Helpful)…+3 (Friendly)…+6 (Allied).
 - **Earn:** Patronage **+1**; Enforcement **+2** (and usually **−1** with a rival); Cool‑Off **+1**.
-- **Spend:** Minor/Major/Greater Pull = **1/2/3**; **Meeting = 2** to raise Standing **+1**.
-- **Debt drag:** At **Favours ≤ −2**, Standing drops **−1** and Favours rebound **+2** (repeat as needed).
+- **Spend:** Minor/Major/Greater Pull = **1/2/3**; **Meeting = 3** to raise Standing **+1**.
+- **Debt drag:** At **Favours ≤ −3**, Standing drops **−1** and Favours rebound **+3** (repeat as needed).
 - **Courting outsiders:** If a faction is **active**, doing Patronage/Enforcement for a **non‑active** faction usually causes **−1 Favour** with one active faction.    
 
 ---
