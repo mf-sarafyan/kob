@@ -3,6 +3,8 @@ type: location
 location_type: Building
 parent:
   - "[[La Citta]]"
+appears_in: []
+image: ""
 ---
 Two-tiered open market hall at the heart of La Città, filled with tents, spice caravans, appraisers, entertainers and luxury shops. The busiest place in the city. Merchants peddle good ranging from local fine craftsmanship to imports from know (and sometimes unknown) Spheres. 
 
@@ -23,32 +25,82 @@ The Bazaar sits right by the main canal, across the river from the [[Torri di Co
 
 ![[grand market 1.png|400]]
 
-
-
 <!-- DYNAMIC:related-entries -->
 
-## Factions Based Here
-
- ```dataview
-    TABLE faction_type, alignment
-    WHERE type = "faction" AND location = this.file.link
-    SORT file.name ASC
- ```
+# Links
 
 ## Sub-Locations
+```base
+# Only show locations whose 'parent' includes *this* location
+filters:
+  and:
+    - 'type == "location"'
+    - or:
+        - 'list(parent).contains(this)'
+        - 'list(parent).contains(this.file.asLink())'
+        - 'parent == this'
+        - 'parent == this.file.asLink()'
 
-```dataview
-    TABLE location_type
-    WHERE type = "location" AND contains(parent, this.file.link)
-    SORT file.name ASC
+# Column labels
+properties:
+  file.name:
+    displayName: "Name"
+  location_type:
+    displayName: "Type"
+  parent:
+    displayName: "Parent"
+
+views:
+  - type: table
+    name: "Sub-Locations"
+    order:
+      - file.name
+      - location_type
+      - parent
+  - type: cards
+    name: "Sub-Locations (Cards)"
+```
+
+## Factions Based Here
+```base
+filters:
+  and:
+    - 'type == "faction"'
+    - or:
+        - 'location == this'
+        - 'location == this.file.asLink()'
+        - 'list(location).contains(this)'
+        - 'list(location).contains(this.file.asLink())'
+properties:
+  file.name:
+    displayName: "Name"
+views:
+  - type: table
+    name: "Factions Based Here"
+    order:
+      - file.name
+  - type: cards
+    name: "Factions (Cards)"
 ```
 
 ## Related Entries
-
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - or:
+        - 'list(relates_to).contains(this)'
+        - 'list(relates_to).contains(this.file.asLink())'
+properties:
+  file.name:
+    displayName: "Name"
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

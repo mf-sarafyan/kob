@@ -1,3 +1,11 @@
+---
+type: entry
+entry_type: Rules
+relates_to:
+  - "[[Bastions]]"
+  - "[[Faction Relations]]"
+author: DM
+---
 
 ### Earning & Losing Favours (typical)
 - **Patronage (low profile).** Offer donations, service, or access to **one faction**. Gain **+1 Favour** with that faction.

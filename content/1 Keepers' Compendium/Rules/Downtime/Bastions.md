@@ -1,3 +1,9 @@
+---
+type: entry
+entry_type: Rules
+relates_to: []
+author: DM
+---
 # Summary
 
 A **Bastion** is a character’s seat of influence in Bral—part home, part workshop, part political machine. During downtime, the campaign switches to **Bastion Turns** (about 7 days). In each turn, characters improve holdings, craft items, recruit crew, cultivate faction ties, and prepare for the next venture.
@@ -27,7 +33,7 @@ _**Sequence of Play**_
 Bastion play uses two families of actions: **Business** (money and projects) and **Political** (relationships and pull). Unless a rule says otherwise, each character takes **one of each** per turn.
 
 ### Business Actions
-Business actions affect regular DnD play by giving resources such as money, items and other bonuses like inspiration. These are facility-specific and are detailed on their descriptions on [[Business Facilities]]. 
+Business actions affect regular DnD play by giving resources such as money, items and other bonuses like inspiration. These are facility-specific and are detailed on their descriptions on [[Bastions - Business Facilities]]. 
 
 - **Trade.** Your Bastion earns coin through rents, enterprises, and sales. Baseline income is **20 gp × character level** (or a facility’s alternate). Facilities often add flat gp or % modifiers for **this turn**.
 - **Craft.** Start or advance a project (mundane or magical). See **Crafting** for time, assistants, tools, and Essence. Business facilities apply here (workshops, labs, yards, archives).
@@ -43,7 +49,7 @@ Facilities are the rooms, staff, and agreements that give a Bastion teeth. Mecha
 
 _**Acquiring & Upgrading Basic Facilities.**_ Use your table’s cost/time ladder. When a basic facility is upgraded to its top quality, it often grants a small, always‑on **political modifier** (e.g., Dining Room reduces Meeting cost by 1 Favour; Bedroom adds +1 Favour to Patronage/Enforcement once per turn, etc.). See the **Basic Facilities** page for the finalized list.
 
-_**Business Facilities.**_ Workshops, Smithies, Labs, Arcane Studies, Docks, Archives, etc. provide income and special dnd bonuses. Each Special Facility lists an **Alignment** and **Defense Die** for Bastion Attacks (see below). See [[Business Facilities]]. 
+_**Business Facilities.**_ Workshops, Smithies, Labs, Arcane Studies, Docks, Archives, etc. provide income and special dnd bonuses. Each Special Facility lists an **Alignment** and **Defense Die** for Bastion Attacks (see below). See [[Bastions - Business Facilities]]. 
 
 ***Political Facilities***. See at [[Bastions - Political Facilities]]. Affects political actions and faction relations. 
 

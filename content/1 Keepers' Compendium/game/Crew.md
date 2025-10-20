@@ -1,3 +1,9 @@
+---
+type: entry
+entry_type: Gamestate
+relates_to: []
+author: DM
+---
 
 ```base
 filters:

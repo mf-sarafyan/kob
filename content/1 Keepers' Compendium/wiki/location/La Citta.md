@@ -3,6 +3,8 @@ type: location
 location_type: Quarter
 parent:
   - "[[The Rock of Bral|Bral]]"
+appears_in: []
+image: ""
 ---
 O bairro de cima era dominado por construções coloridas e pontilhado por jardins verdes; agora, o próximo é um mar de tons suaves, terracotas, brancos, azuis fracos. É como se você tivesse jogado Tetris com uma cidadezinha italiana. É parecido com em cima, mas diferente: telhados e varandas que viram passarelas, entuxadas de gente; gôndolas, mas cheias de caixas. Cordas entre uma casa e outra, segurando roupas secando ao invés de bandeiras. Praças lotadas ao invés de jardins. Ainda é um labirinto de escadas, pontes, arcos, abóbadas. Tem florestas de tendinhas de mercado - uma em especial, onde deve ser o mercado principal da cidade. Do outro lado do mercado, uma torre fortificada cinza-escuro quebra o esquema de cores. Entre os dois passa a hidro-avenida principal da cidade, que vocês vêem que leva até o palácio lá em cima. 
 
@@ -68,32 +70,84 @@ La Città e seus canais ainda se extendem pra dentro da montanha; dá pra ver pe
 		- Temple of Odin (sim, o nordico, tem uns vikings na cidade)
 		- House of Tempus (realmspace)
 		- Keep of Gond (artifice god, realmspace, gnomos) (sim tem um templo dele no bg3)
-- piazza Pizza: onde chega a produção agrícola de Bral, vinda do outro lado do lago. Melhores restaurantes. 
+- piazza Pizza: onde chega a produção agrícola de Bral, vinda do outro lado do lago. Melhores restaurantes.
 
 <!-- DYNAMIC:related-entries -->
 
-## Factions Based Here
-
- ```dataview
-    TABLE faction_type, alignment
-    WHERE type = "faction" AND location = this.file.link
-    SORT file.name ASC
- ```
+# Links
 
 ## Sub-Locations
+```base
+# Only show locations whose 'parent' includes *this* location
+filters:
+  and:
+    - 'type == "location"'
+    - or:
+        - 'list(parent).contains(this)'
+        - 'list(parent).contains(this.file.asLink())'
+        - 'parent == this'
+        - 'parent == this.file.asLink()'
 
-```dataview
-    TABLE location_type
-    WHERE type = "location" AND contains(parent, this.file.link)
-    SORT file.name ASC
+# Column labels
+properties:
+  file.name:
+    displayName: "Name"
+  location_type:
+    displayName: "Type"
+  parent:
+    displayName: "Parent"
+
+views:
+  - type: table
+    name: "Sub-Locations"
+    order:
+      - file.name
+      - location_type
+      - parent
+  - type: cards
+    name: "Sub-Locations (Cards)"
+```
+
+## Factions Based Here
+```base
+filters:
+  and:
+    - 'type == "faction"'
+    - or:
+        - 'location == this'
+        - 'location == this.file.asLink()'
+        - 'list(location).contains(this)'
+        - 'list(location).contains(this.file.asLink())'
+properties:
+  file.name:
+    displayName: "Name"
+views:
+  - type: table
+    name: "Factions Based Here"
+    order:
+      - file.name
+  - type: cards
+    name: "Factions (Cards)"
 ```
 
 ## Related Entries
-
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - or:
+        - 'list(relates_to).contains(this)'
+        - 'list(relates_to).contains(this.file.asLink())'
+properties:
+  file.name:
+    displayName: "Name"
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

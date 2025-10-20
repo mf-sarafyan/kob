@@ -1,3 +1,10 @@
+---
+type: entry
+entry_type: Rules
+relates_to:
+  - "[[Bastions]]"
+author: DM
+---
 ### Physical (muscle, logistics, powder)
 
 | Ability              | Style    | Defense     | Effect                                                                         | Examples                                                   |

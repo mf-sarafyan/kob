@@ -7,7 +7,7 @@ type: character
 known_locations: []
 factions:
   - "[[kbβ42]]"
-  - "[[PCS]]"
+  - "[[The Party]]"
 alignment: ""
 appears_in: []
 relates_to: []

@@ -1,3 +1,9 @@
+---
+type: entry
+entry_type: Rules
+relates_to: []
+author: DM
+---
 # Overview: Major Factions
 Each character tracks their relationship with every faction using **two dials**—simple, fast, and always in motion:
 

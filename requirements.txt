@@ -1,12 +1,10 @@
-streamlit
-langchain
+networkx
+pyyaml
+markdown
+sentence-transformers
+huggingface-hub
+faiss-cpu
+matplotlib
 langchain-community
 langchain-ollama
-faiss-cpu
-pydantic
-python-dotenv
-unstructured
-markdown
-pypdf
-langchain-text-splitters
 

@@ -3,6 +3,8 @@ type: location
 location_type: Quarter
 parent:
   - "[[The Rock of Bral|Bral]]"
+appears_in: []
+image: ""
 ---
 # The Lower City
 Bral é quase um degradê. O acobreado da Città escurece conforme chega perto da linha de gravidade. A parte baixa da cidade é de cinzas e marrons - paredes de tijolo e passarelas de madeira molhada, envergadas perigosamente com o peso da civilização. Bragora é sobre eficiência: cada centímetro é usado pra alguma coisa, e o objetivo final quase sempre é te vender algum produto. Se pra cima os telhados viravam passarelas, aqui até as suas paredes viram escadas.  Sempre que possível as casas tem um puxadinho protuberando pra frente, transformando as ruas e canais em becos escuros. 
@@ -90,28 +92,80 @@ Bragora é subdividida em ilhas pelos seus canais; algumas inclusive se tornaram
 
 <!-- DYNAMIC:related-entries -->
 
-## Factions Based Here
-
- ```dataview
-    TABLE faction_type, alignment
-    WHERE type = "faction" AND location = this.file.link
-    SORT file.name ASC
- ```
+# Links
 
 ## Sub-Locations
+```base
+# Only show locations whose 'parent' includes *this* location
+filters:
+  and:
+    - 'type == "location"'
+    - or:
+        - 'list(parent).contains(this)'
+        - 'list(parent).contains(this.file.asLink())'
+        - 'parent == this'
+        - 'parent == this.file.asLink()'
 
-```dataview
-    TABLE location_type
-    WHERE type = "location" AND contains(parent, this.file.link)
-    SORT file.name ASC
+# Column labels
+properties:
+  file.name:
+    displayName: "Name"
+  location_type:
+    displayName: "Type"
+  parent:
+    displayName: "Parent"
+
+views:
+  - type: table
+    name: "Sub-Locations"
+    order:
+      - file.name
+      - location_type
+      - parent
+  - type: cards
+    name: "Sub-Locations (Cards)"
+```
+
+## Factions Based Here
+```base
+filters:
+  and:
+    - 'type == "faction"'
+    - or:
+        - 'location == this'
+        - 'location == this.file.asLink()'
+        - 'list(location).contains(this)'
+        - 'list(location).contains(this.file.asLink())'
+properties:
+  file.name:
+    displayName: "Name"
+views:
+  - type: table
+    name: "Factions Based Here"
+    order:
+      - file.name
+  - type: cards
+    name: "Factions (Cards)"
 ```
 
 ## Related Entries
-
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - or:
+        - 'list(relates_to).contains(this)'
+        - 'list(relates_to).contains(this.file.asLink())'
+properties:
+  file.name:
+    displayName: "Name"
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

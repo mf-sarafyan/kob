@@ -1,3 +1,9 @@
+---
+type: entry
+entry_type: Gamestate
+relates_to: []
+author: DM
+---
 *See [[Faction Relations]] and [[Bastions]]*.
 
 | Character    | [[Cartocci]] | [[Zenonni]] | [[Malvessi]] | [[Il Velluto]] | [[Luminari]] | [[Cinders]] | [[Monarquia Braliana]] | Minor Faction |

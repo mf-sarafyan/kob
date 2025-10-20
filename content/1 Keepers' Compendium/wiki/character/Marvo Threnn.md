@@ -24,16 +24,20 @@ Mind Flayer vegano, responsável pela [[The Library of the Spheres]].
 ```base
 filters:
   and:
-    - 'type == "entry"'
-    - 'relates_to.contains(this)'
+    - type == "entry"
+    - relates_to.contains(this)
 views:
   - type: table
-    name: "Related Entries"
+    name: Related Entries
     order:
-	  - file.name
+      - file.name
       - file.ctime
+    sort:
+      - property: file.ctime
+        direction: ASC
   - type: cards
-    name: "Related Entries (Cards)"
+    name: Related Entries (Cards)
+
 ```
 
 <!-- /DYNAMIC -->

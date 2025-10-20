@@ -5,8 +5,11 @@ location: ""
 faction_type: Adventurer Party
 alignment: Good
 leader: "[[Captain Jordal Brambletopple|Jordal]]"
+appears_in: []
 ---
- ![[kb-alpha-1 1.bmp|350]] 
+# kbα1
+
+![[kb-alpha-1 1.bmp|350]] 
 
 **kbα1**
 *Dragonfly-class Spelljammer*
@@ -20,28 +23,89 @@ leader: "[[Captain Jordal Brambletopple|Jordal]]"
 
 <!-- DYNAMIC:related-entries -->
 
-## Member Characters
+# Links
 
- ```dataview
-    TABLE race, class, alignment
-    WHERE type = "character" AND contains(factions, this.file.link)
-    SORT file.name ASC
- ```
+## Member Characters
+```base
+filters:
+  and:
+    - 'type == "character"'
+    - or:
+        - 'list(factions).contains(this)'
+        - 'list(factions).contains(this.file.asLink())'
+        - 'factions == this'
+        - 'factions == this.file.asLink()'
+properties:
+  file.name:
+    displayName: "Name"
+  race:
+    displayName: "Race"
+  class:
+    displayName: "Class"
+  alignment:
+    displayName: "Alignment"
+views:
+  - type: table
+    name: "Member Characters"
+    order:
+      - file.name
+      - race
+      - class
+      - alignment
+  - type: cards
+    name: "Member Characters (Cards)"
+```
 
 ## Child Factions
-
- ```dataview
-    TABLE faction_type, alignment
-    WHERE type = "faction" AND parent = this.file.link
-    SORT file.name ASC
- ```
+```base
+filters:
+  and:
+    - 'type == "faction"'
+    - or:
+        - 'parent == this'
+        - 'parent == this.file.asLink()'
+        - 'list(parent).contains(this)'
+        - 'list(parent).contains(this.file.asLink())'
+properties:
+  file.name:
+    displayName: "Name"
+  faction_type:
+    displayName: "Type"
+  alignment:
+    displayName: "Alignment"
+views:
+  - type: table
+    name: "Child Factions"
+    order:
+      - file.name
+      - faction_type
+      - alignment
+  - type: cards
+    name: "Child Factions (Cards)"
+```
 
 ## Related Entries
-
- ```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - or:
+        - 'list(relates_to).contains(this)'
+        - 'list(relates_to).contains(this.file.asLink())'
+properties:
+  file.name:
+    displayName: "Name"
+  entry_type:
+    displayName: "Type"
+  author:
+    displayName: "Author"
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

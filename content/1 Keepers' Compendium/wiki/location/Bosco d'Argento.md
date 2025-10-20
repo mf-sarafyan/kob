@@ -4,6 +4,7 @@ location_type: Sub-district
 parent:
   - "[[La Citta]]"
 appears_in: []
+image: ""
 ---
 # A Floresta Élfica
 Dizem que o ar muda quando se entra no **Bosco d’Argento**. O som da cidade se apaga, e o mundo se torna mais lento, mais suave. O bairro é todo arborizado — não com as árvores jovens dos parques de Frun, mas com carvalhos e salgueiros antigos, de troncos retorcidos e copas que tocam umas nas outras como velhos conhecidos. Muitos juram que aquelas árvores são mais velhas do que a cidade, ou mesmo do que os próprios elfos que vivem sob elas.
@@ -20,28 +21,80 @@ E mesmo os bralianos mais céticos admitem: há algo no ar do Bosco que **não s
 
 <!-- DYNAMIC:related-entries -->
 
-## Factions Based Here
-
- ```dataview
-    TABLE faction_type, alignment
-    WHERE type = "faction" AND location = this.file.link
-    SORT file.name ASC
- ```
+# Links
 
 ## Sub-Locations
+```base
+# Only show locations whose 'parent' includes *this* location
+filters:
+  and:
+    - 'type == "location"'
+    - or:
+        - 'list(parent).contains(this)'
+        - 'list(parent).contains(this.file.asLink())'
+        - 'parent == this'
+        - 'parent == this.file.asLink()'
 
-```dataview
-    TABLE location_type
-    WHERE type = "location" AND contains(parent, this.file.link)
-    SORT file.name ASC
+# Column labels
+properties:
+  file.name:
+    displayName: "Name"
+  location_type:
+    displayName: "Type"
+  parent:
+    displayName: "Parent"
+
+views:
+  - type: table
+    name: "Sub-Locations"
+    order:
+      - file.name
+      - location_type
+      - parent
+  - type: cards
+    name: "Sub-Locations (Cards)"
+```
+
+## Factions Based Here
+```base
+filters:
+  and:
+    - 'type == "faction"'
+    - or:
+        - 'location == this'
+        - 'location == this.file.asLink()'
+        - 'list(location).contains(this)'
+        - 'list(location).contains(this.file.asLink())'
+properties:
+  file.name:
+    displayName: "Name"
+views:
+  - type: table
+    name: "Factions Based Here"
+    order:
+      - file.name
+  - type: cards
+    name: "Factions (Cards)"
 ```
 
 ## Related Entries
-
-```dataview
-    TABLE entry_type, author
-    WHERE type = "entry" AND contains(relates_to, this.file.link)
-    SORT file.ctime DESC
+```base
+filters:
+  and:
+    - 'type == "entry"'
+    - or:
+        - 'list(relates_to).contains(this)'
+        - 'list(relates_to).contains(this.file.asLink())'
+properties:
+  file.name:
+    displayName: "Name"
+views:
+  - type: table
+    name: "Related Entries"
+    order:
+      - file.ctime
+  - type: cards
+    name: "Related Entries (Cards)"
 ```
 
 <!-- /DYNAMIC -->

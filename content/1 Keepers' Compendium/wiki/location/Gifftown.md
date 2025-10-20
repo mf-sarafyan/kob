@@ -28,7 +28,7 @@ Giffs marchando com armas renascentistas pra cima. Praças onde treinam aquelas 
 
 Se trombar é uma tradição giff; e não-giffs frequentemente caem com tudo no chão por conta disso. 
 
-Barris que podem ser de cerveja ou de pólvora. Cuidado. Mesmo assim, gente fumando do lado. O chão é cheio de bitucas e marcas de explosão. 
+Barris que podem ser de cerveja ou de pólvora. Cuidado. Mesmo assim, gente fumando do lado. O chão é cheio de bitucas e marcas de explosão.
 
 <!-- DYNAMIC:related-entries -->
 

@@ -1,3 +1,9 @@
+---
+type: entry
+entry_type: Rules
+relates_to: []
+author: DM
+---
 # Regra Base
 Requires 
 - Arcana proficiency

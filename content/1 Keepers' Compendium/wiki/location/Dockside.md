@@ -26,7 +26,7 @@ Mais próxima da água e da bagunça do cais, Riva Bassa é uma mistura de taver
 
 ## Visual/vibe
 **Riva Alta**: Piers de madeira, canais finos com espaço pra 1-2 gôndolas. Caixas sendo carregadas e descarregadas, de Spelljammer pra pier, de pier pra gôndola, de gôndola pra armazém, e vice-versa. Marinheiros suados carregando coisas, e burocratas (e/ou mafiosos) com pranchetas vistoriando naves e cargas. Gritos de "sai do mei!" pra passar coisas grandes pelas ruas apertadas retrucados com xingamentos. 
-**Riva Bassa**: ruas de paralelepípedo com bêbados tropeçando; caindo no canal enquanto uma gôndola passa com velas novas. Casas de madeira de 2-3 andares, com capitães negociando suprimentos na porta enquanto a tripulação enche a cara. Piratas mal encarados encostados, fumando, num beco. 
+**Riva Bassa**: ruas de paralelepípedo com bêbados tropeçando; caindo no canal enquanto uma gôndola passa com velas novas. Casas de madeira de 2-3 andares, com capitães negociando suprimentos na porta enquanto a tripulação enche a cara. Piratas mal encarados encostados, fumando, num beco.
 
 <!-- DYNAMIC:related-entries -->
 
