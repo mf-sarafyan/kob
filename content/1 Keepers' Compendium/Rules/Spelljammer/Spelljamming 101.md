@@ -1,4 +1,4 @@
-Resumão do GPT 
+ Resumão do GPT 
 
 # Introduction to Spelljamming 
 
@@ -24,10 +24,8 @@ Beyond that membrane stretches the **Astral Sea**, the conceptual ocean of thoug
     
     - **Speed:** ×1.5 to ×3 jamming speed on a “running with the flow”; ×½ against it.
     - **Navigation:** –2 to +5 to daily route DCs; some currents _force_ straight-line headings between defined waypoints.
-    - **Hazards:** check **1/day** or on failure: **DC 15** save (type varies) to avoid effects like firestorms (Phlogiston), necrotic fogs (Nyxefell), mind squalls (generic astral storm).
-    - **Mapability:** some currents drift seasonally; charts can become **stale** (impose +2 DC) until updated.
-
-> _Designer’s note:_ This folds your “currents as real lanes” into play: they’re fast when known, dangerous when not, and absolutely political.
+    - **Hazards and events:** DM has  a table for random happenings during travel; some may be positive, some may be negative. The [[Poderes Astrais|influences]] might favour you. 
+    - **Mapability:** some currents drift seasonally; charts can become **stale** (increase DC) until updated.
 
 ---
 
@@ -77,10 +75,12 @@ A **spelljamming helm** is a conduit; attune and sit, and the ship becomes your 
 
 ### Rules (long form)
 
-- **Attunement & Control:** While attuned and seated, you are the **Helmsman**. You use your **spellcasting ability modifier** with proficiency for checks related to piloting the ship. 
+- **Attunement & Control:** While attuned and seated, you are the **Helmsman**. You use your **spellcasting ability modifier** (with proficiency, if you are a trained pilot) for checks related to piloting the ship. 
 - **Action Economy:** Piloting is **concentration-like**: you can cast and act normally, but the DM may call for a **Concentration check** when the ship takes a **critical effect** (see below) or you take damage.
-- **Fatigue:** Helming for more than **8 hours** in a 24-hour period risks **exhaustion** as per forced march. Short breaks (1 hour off-helm) reset the count for that hour only.
+- **Fatigue:** Helming for more than **8 hours** in a 24-hour period risks **exhaustion** as per forced march. Short breaks (1 hour off-helm) reset the count for that hour only. 
 - **Vacant Helm:** If no Helmsman is seated, **Speed becomes 0** and the ship cannot change facing except by drift or external forces.
+
+> Spelljamming crews usually function in 8-hour shifts; sometimes even travelling all day if three pilots are available. 
 
 ---
 
@@ -89,24 +89,11 @@ A **spelljamming helm** is a conduit; attune and sit, and the ship becomes your 
 Spelljammers are characters with stat lines. Typical stats:
 
 - **Armor Class (AC):** How hard the ship is to hit.
-    
-- **Hull Points (HP):** Structural health on a ship scale; each 1 HP represents a _lot_ of creature-scale damage. At **0 HP**, the ship is **dead-in-space** (Speed 0; disadvantage to resist grapples; cannot jamming-charge).
-    
-- **Bulwark Points (BP):** An ablative buffer—reinforced plating, bracing, arcane wards—that soaks damage before HP.
-    
+- **Hull Points (HP):** Structural health on a ship scale; each 1 HP represents a _lot_ of creature-scale damage. At **0 HP**, the ship is **dead-in-space** (Speed 0; disadvantage to resist grapples; cannot jamming-charge). Hull Points are hard to repair and require time and resources.
+- **Bulwark Points (BP):** An ablative buffer—reinforced plating, bracing, arcane wards—that soaks damage before HP. Bulwark Points are easy to fix in-combat.
 - **Speed:** Tactical distance per round and **Maneuverability** (maximum turning angle you can sustain while keeping trim).
-    
 - **Hardpoints & Arcs:** Weapon mounts with defined **90° firing arcs** (fore, aft, port, starboard); turrets may have wider arcs at higher cost.
-    
-
-### Rules (long form)
-
-- **Damage Order:** Damage reduces **BP first**, then **HP**. BP resets/refreshes through **Boatswain** actions (below) and repairs.
-    
-- **Crew Effects:** Falling below **minimum crew** imposes **–10 ft Speed** and **–45° Maneuverability** (or the closest step) and may prevent operating certain hardpoints.
-    
-- **Modules:** Sails, keels, helms, magazines, and other modules can be **disabled** on criticals or called shots (see Fighters & Called Shots).
-    
+* **Modules**: As well as the standard sails, weapons and helm, a ship may have a number of modules that give it different combat and travel capabilities, such as sensors, fighter bays, or other exotic implements.
 
 ---
 
@@ -125,18 +112,14 @@ Measured turns, careful facing, and violent choices.
 - **Dropping to Tactical:** Any hostile action, near-body navigation (e.g., in atmospheres, docks), or helm disruption drops you to Tactical immediately.
     
 
-### Jamming Speed (Deep-Space Travel)
+### Jamming Speed (Wildspace & Astral Travel)
 
 The long, straight burn between worlds.
 
 - **Charge:** After **1 minute** of uninterrupted helm channeling, the ship enters **Jamming** and travels at **~100 million miles/day** in a **straight line**.
-    
 - **Gravity Wells:** You can’t start (or maintain) Jamming while deep inside another mega-object’s gravity field (e.g., low orbit or below). Exiting to a safe distance is required.
-    
 - **Currents:** Apply **region/current** modifiers (speed multipliers, DC adjustments, hazards).
-    
 - **Dropping Out:** You may drop to Tactical as a **free interaction** at the start of any round, or are forced out by critical helm shocks, grapples, strong wells, or losing the Helmsman.
-    
 
 ### Planetary Speed (Atmosphere & Ascent)
 
@@ -149,7 +132,7 @@ The climb from sky to void and back again.
 
 ---
 
-## Crews, Bridge Roles, and What They Do
+## Crews, Bridge Roles, and What They Do - WIP
 
 A ship is a community with jobs to match. In battle, characters take **bridge roles**; one role per creature (some roles unique, some repeatable). You can swap roles as a **bonus action** if the current occupant agrees.
 
@@ -158,53 +141,39 @@ A ship is a community with jobs to match. In battle, characters take **bridge ro
 Rallies and commands—calling grapples, boarding actions, and desperate gambles.
 
 - **Orders (1/round):** As a **bonus action**, grant one ally at a station **+1d4** to a ship-scale check or attack this round (range: on board).
-    
 - **Grapple/Boarding (see below):** You initiate these actions, setting DCs and sequencing the assault.
-    
 - **Steady the Line (1/short rest):** End **Frightened** on crew or **remove Shaken** critical effect from the ship.
-    
 
 ### Helmsman (unique)
 
 Keeps the keel true; their checks/saves often stand in for the ship’s.
 
 - **Evasive Handling:** As a **reaction** when the ship is targeted by a ship-scale attack, make **Dex save**; on success the attack is at **disadvantage**. Uses equal to **proficiency bonus** per long rest.
-    
 - **Power to Sails:** As an **action**, trade **–10 ft Speed** for **+45° Maneuverability** (or vice-versa) until start of your next turn.
-    
 
 ### Boatswain (unique)
 
 Wring performance from wood and rope; patch damage; brace a side to take a hit.
 
 - **Bulwark Regeneration:** At the **start** of the Boatswain’s turn, the ship regains **BP equal to half its maximum BP (rounded up)**.
-    
 - **Brace (Action):** Pick one **90° facing**; until the start of your next turn, ship gains **resistance** to the first instance of damage from that arc.
-    
 - **Fix It Up (Action):** Make a **DC 15 Intelligence (Carpenter’s tools)** check to clear a **Disabled Module** (critical result) or to restore **1d4 BP** if nothing’s disabled.
-    
 - **Work the Sails (Action):** Until your next turn, exchange **+20 ft Speed** for **–45° Maneuverability** _or_ **–20 ft Speed** for **+45° Maneuverability** (choose one).
-    
 - **“Hurry It Up!” (1/minute):** Rally the crew to **fully restore BP** and allow **one Gunner** to fire a **bonus-action** attack this round.
-    
 
 ### Gunner (repeatable)
 
 Makes the ship bite—choosing targets and firing arcs, timing the broadside.
 
 - **Open Fire (Action):** Operate one hardpoint in your arc; apply your class features that affect ranged weapon attacks if appropriate.
-    
 - **Suppressive Fire:** On a hit without dealing HP (BP soaked), can impose **–10 ft Speed** _or_ **–45° Maneuverability** on the target until the end of its next turn (choose one).
-    
 
 ### Fighter Helmsman (repeatable)
 
 Launches in cutters and skiffs to harry weapons, slash rigging, and force mistakes.
 
 - **Deploy (Action):** Launch a fighter; while deployed, you act on the **fighter’s** turn order and can make **called shots** (below).
-    
 - **Emergency Repair:** Spend your action adjacent to an ally ship’s crippled module to allow its **Boatswain** to reroll **Fix It Up** this round.
-    
 
 ---
 
@@ -212,20 +181,13 @@ Launches in cutters and skiffs to harry weapons, slash rigging, and force mistak
 
 **Grapples** end standoffs; **boarding** ends arguments. Fighters and crack crews also make **called shots** to disable parts.
 
-### Rules (long form)
-
 - **Grapple (Captain Action):** Target a ship within **30 ft** in any arc; make an **Opposed** check (your **Str (Athletics)** or **Dex (Vehicles/Space)** vs. theirs). On a success, ships are **grappled**:
-    
     - Both ships’ **Speed is halved**; they move together.
-        
     - **Helmsmen** on either ship can **contest** the grapple each round as an **action**.
-        
     - A ship at **0 HP** automatically fails to resist grapples.
-        
 - **Boarding (Captain Action):** While grappled or within **10 ft**, you may **order a boarding party**. Resolve with creature-scale combat; while boarding is active, each ship’s **Gunners** fire at **disadvantage** at the meleeed target to avoid friendly fire.
-    
 - **Called Shots (Fighter/Fine Fire):** You may target **Weapons, Sails, or Modules** at **disadvantage** using the ship’s AC. Each has **10 Hull Points** (ship-scale); at **0**, it’s **Disabled** (weapons can’t fire; sails lose **45° Maneuverability** each; helm shock forces a **Concentration** check from the Helmsman). Damage must pass **BP** to affect parts. **Fix It Up** can clear **Disabled**.
-    
+
 
 ---
 
@@ -233,49 +195,12 @@ Launches in cutters and skiffs to harry weapons, slash rigging, and force mistak
 
 When a ship suffers a **critical hit** (or on certain hazards), roll on a **Critical Effects** table to generate story-rich consequences: **Fire in the Rigging**, **Casualties**, **Module Damaged**, **Holed Hull**, **Ship Shaken**, **Spelljammer Shock** (Helm feedback—Helmsman must save or lose the helm for a round), and so on. Fires spread if not contained; **Boatswain** actions and crew checks can triage.
 
+> Ainda temo que testar essa parte. Eu acho que vai ser bem mais punitivo pra vcs que pros inimigos, então não tenho certeza. Na tabela de críticos do Wildjammer tem até "crew dies". Imagina o Pffred morrendo pra um 20 aleatório? Mó zoado.
+
 ### Rules (long form)
 
 - **Trigger:** Natural 20 with ship weapons, certain hazards, or by fiat at dramatic moments.
-    
 - **Effect Resolution:** Each effect lists: immediate consequence, checks to mitigate (usually **DC 15** tools or **Dex/Con** saves), and ongoing penalties until repaired or doused.
-    
 - **Stacking:** Multiple concurrent effects impose cumulative **–10 ft Speed** and **–45° Maneuverability** caps at DM discretion.
-    
 
----
 
-## Using Currents in Play (Examples)
-
-- **Phlogiston (Rainbow Flow) – Region:**
-    
-    - **Speed:** ×2 jamming speed with the flow; ×½ against.
-        
-    - **Hazard:** **DC 15 Con save** on failure/each day; on fail, **Firestorm** scorches sails (lose **45° Maneuverability**) and **1d4 BP**; open flame explodes (don’t).
-        
-    - **Mapability:** Drifts seasonally (old charts impose +2 DC).
-        
-- **Numicrowyr (Crimson Cataracts) – Current:**
-    
-    - **Effect:** Pushes you outward from its center; checks at **DC 15 Str (Helm)** each day to hold line; failure throws you **1d4 hexes** off route and triggers a **Warfare Encounter**.
-        
-- **Nyxefell (Veil Spectral) – Region:**
-    
-    - **Effect:** Perception checks suffer **–5**; each day make **DC 15 Wis save** or suffer **1 level of short-term Madness** (10 minutes) from whispering fogs; necrotic squalls deal **1d4 BP** on failed **Con save**.
-        
-
-> Tweak numbers to your table’s taste; the important thing is that **currents feel different** and matter to navigation, logistics, and politics.
-
----
-
-### Final Notes for Your Table
-
-- Keep **House Rules** clearly tagged in your notes so players know what’s core and what’s custom.
-    
-- Use **currents** to create chokepoints, seasonal routes, and _reasons_ to care about Bral’s cartographers, lighthouse-mages, and smugglers.
-    
-- Let **Boatswains** be heroes. In ship fights, their turn is the “heartbeat” that keeps everyone alive.
-    
-- When in doubt, **favor storyful criticals** over raw HP races: a fire in the rigging or a disabled helm is more memorable than “–7 HP.”
-    
-
-Want this formatted as two clean Obsidian pages—**“Intro to Spelljamming (Fluff + Rules)”** and **“Astral Currents (Regions & Tags)”**—with your Portuguese headings and House Rule tags? I can drop those in next.

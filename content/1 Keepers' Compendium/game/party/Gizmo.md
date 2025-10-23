@@ -1,5 +1,5 @@
 ---
-race: Racoon (usando tabaxi de referencia)
+race: Tabaxi (racoon)
 class: Artificer
 height: 1,20m
 origin: "?"

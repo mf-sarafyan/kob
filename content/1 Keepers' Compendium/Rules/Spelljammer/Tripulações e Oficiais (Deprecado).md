@@ -116,12 +116,12 @@ Um grupo de aventureiros normalmente não é suficiente para cumprir com todas a
 Tripulantes vem em quatro níveis: 
 
 
-|  Nivel   |  Salário mensal  | Proficiência  |
-| --- | --- | -- |
-|   Verde  |  2gp  | +1 |
-| Amador | 4gp | +2 |
-| Profissional | 6gp | +3 |
-| Especialista | 6gp | +4 |
+| Nivel        | Salário semanal (bastion turn) | Proficiência |
+| ------------ | ------------------------------ | ------------ |
+| Verde        | 10gp                           | +1           |
+| Amador       | 20gp                           | +2           |
+| Profissional | 30gp                           | +3           |
+| Especialista | 40gp                           | +4           |
 
 **Verdes** são encontrados em qualquer lugar, inclusive mundos terrestres; são perdidos procurando sua fortuna pela primeira vez no espaço. 
 **Amadores** são encontrados com mais frequência nos portos civilizados como [[The Rock of Bral|Bral]]. São tripulantes que já tiveram alguma experiência em Wildspace. 

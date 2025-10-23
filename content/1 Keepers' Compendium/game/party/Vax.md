@@ -1,5 +1,5 @@
 ---
-race: Black Cat (utilizando Tabaxi de referencia
+race: Tabaxi (Black Cat)
 class: Warlock, Celestial Patron
 height: 1,20m
 origin: "[[Greyhawk]]"
