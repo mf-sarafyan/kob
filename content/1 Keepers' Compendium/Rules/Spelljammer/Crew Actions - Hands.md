@@ -32,7 +32,7 @@ You assign **Hands** to tasks. Unless a task calls for a check, it succeeds. Whe
 - **Clear Misfire (if applicable)** — **Hands:** per profile; **Check:** **DC** per profile (Tools). On fail, jam persists.
 - **Traverse Mount (change facing 90°)** — **Hands:** per profile (often 1).
 
-### Weapon Profile Template (put this on each weapon’s entry)
+### Weapon Examples
 
 - **Light Ballista**: **Reload 1**, **Fire 1**, **Traverse 1**, **Misfire —**
 - **Light Cannon (6–8 lb)**: **Reload 2**, **Fire 1**, **Traverse 1**, **Misfire 2 (DC 12)**
@@ -82,19 +82,20 @@ Regular crew won't pilot fighters - but maybe you can recruit specialized pilots
 
 # Bridge Talents (Free-Form Picks)
 
-**All talents cost 1 point.** Each character gains **4 points at 1st level**, then **+2 at 5, 9, 13, 17**. Unless noted, a talent does not change Hands costs; it changes _options_, _tempo_, or _who rolls_.
+Each character gains **4 points at 1st level**, then **+2 at 5, 9, 13, 17**. Each talent costs one point. No need to pick a class; you can pick talents from anywhere.
+
+Unless noted, a talent does not change Hands costs; it changes _options_, _tempo_, or _who rolls_.
 
 ## Command (Captain / First Mate)
 
 - **Bark Orders (Bonus).** Choose one task this round; reduce its **Hands** cost by **1** (min 1).
-- **Rally to Stations (Action, 1/rest).** Immediately grant **2 temporary Hands** usable only for **Damage Control** tasks this round.
+- **Rally to Stations (Action, 1/rest).** Use your action to gain **2 hands** (instead of 1).
 - **Grapple Master (Passive).** You have **advantage** on the opposed check to establish a Grapple.
-- **Keep It Together! (Reaction, 2/rest).** When your ship would suffer a **Shaken**-style effect, ignore it.
 - **Deck Whip (Bonus).** Choose one task; if it calls for a check, the crew performing it rolls with **advantage**.
-- 
+
 ## Helm (Chair)
 
-- **Hold the Line (Prepared Movement).** Instead of moving in your turn, you choose a target ship or mega creature. Until the start of your next turn, if it moves, you can use your reaction to follow it, maintaining the same distance, up to your movement speed. 
+- **Hold the Line (Prepared Movement).** If you have not moved your Spelljammer in your turn, you choose a target ship or mega creature. Until the start of your next turn, you Spelljammer's Speed becomes 0, but if the target moves, you can use your reaction to follow it, maintaining the same distance, up to your movement speed. 
 - **Crash Stop (Bonus, 1/rest).** Drop Speed to **0**; rams/collisions against you this round deal **half** damage.
 - **Evasive Handling (Reaction, PB/rest).** Impose **disadvantage** on one ship-scale attack targeting your ship.
 
@@ -108,6 +109,7 @@ Regular crew won't pilot fighters - but maybe you can recruit specialized pilots
 
 - **Fighter Qualified (Passive).** You can launch/pilot a fighter and make called shots.
 - **Cut Their Lines (Passive).** Your fighter’s called shots vs. rigging/sails **don’t** suffer disadvantage. Requires **Fighter Qualified.**
+- **Saboteur (Passive).** Your fighter’s called shots vs. weapons **don’t** suffer disadvantage. Requires **Fighter Qualified.**
 - **Barrel Roll (Reaction).** When your fighter is targeted by an attack, impose **disadvantage** on that attack. Requires **Fighter Qualified.**
 
 
