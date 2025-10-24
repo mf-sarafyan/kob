@@ -12,6 +12,25 @@ This section presents the shared framework your table uses whenever Bastions com
 
 ---
 
+## Facilities
+Facilities are the rooms, staff, and agreements that give a Bastion teeth. Mechanically they’re either **Business** (Trade & Craft) or **Political** (Patronage, Enforcement, Cool‑Off, Meeting, Cash‑In). You can skin a political ability as a room, hireling, or contract; the ability is what matters.
+
+_**Business Facilities.**_ Workshops, Smithies, Labs, Arcane Studies, Docks, Archives, etc. provide income and special dnd bonuses. Each Special Facility lists an **Alignment** and **Defense Die** for Bastion Attacks (see below). See [[Bastions - Business Facilities]]. 
+
+***Political Facilities***. See at [[Bastions - Political Facilities]]. Affects political actions and faction relations. 
+
+**Your Bastion starts with one Business and one Political facility.** You gain more facilities (no cost) at some level breakpoints. Some facilities can be upgraded, too. 
+
+| Level | Special Facilities |
+| ----- | ------------------ |
+| 5     | 2                  |
+| 9     | 4                  |
+| 13    | 5                  |
+| 17    | 6                  |
+
+---
+
+
 ## Running a Bastion Turn
 
 A Bastion Turn represents roughly a week of focused effort, meetings, and maintenance.
@@ -30,7 +49,7 @@ _**Sequence of Play**_
 ---
 
 ## Actions
-Bastion play uses two families of actions: **Business** (money and projects) and **Political** (relationships and pull). Unless a rule says otherwise, each character takes **one of each** per turn.
+Bastion play uses two families of actions: **Business** (money and projects) and **Political** (relationships and pull). 
 
 ### Business Actions
 Business actions affect regular DnD play by giving resources such as money, items and other bonuses like inspiration. These are facility-specific and are detailed on their descriptions on [[Bastions - Business Facilities]]. 
@@ -42,16 +61,6 @@ Business actions affect regular DnD play by giving resources such as money, item
 ### Political Actions
 ![[Factions - Political Actions]]
 
----
-
-## Facilities
-Facilities are the rooms, staff, and agreements that give a Bastion teeth. Mechanically they’re either **Business** (Trade & Craft) or **Political** (Patronage, Enforcement, Cool‑Off, Meeting, Cash‑In). You can skin a political ability as a room, hireling, or contract; the ability is what matters.
-
-_**Acquiring & Upgrading Basic Facilities.**_ Use your table’s cost/time ladder. When a basic facility is upgraded to its top quality, it often grants a small, always‑on **political modifier** (e.g., Dining Room reduces Meeting cost by 1 Favour; Bedroom adds +1 Favour to Patronage/Enforcement once per turn, etc.). See the **Basic Facilities** page for the finalized list.
-
-_**Business Facilities.**_ Workshops, Smithies, Labs, Arcane Studies, Docks, Archives, etc. provide income and special dnd bonuses. Each Special Facility lists an **Alignment** and **Defense Die** for Bastion Attacks (see below). See [[Bastions - Business Facilities]]. 
-
-***Political Facilities***. See at [[Bastions - Political Facilities]]. Affects political actions and faction relations. 
 
 ---
 

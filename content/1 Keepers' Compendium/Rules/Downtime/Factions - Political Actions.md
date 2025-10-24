@@ -6,6 +6,7 @@ relates_to:
   - "[[Faction Relations]]"
 author: DM
 ---
+You can only take one Political Action per turn: it represents your approach towards your relationship with factions for the week. 
 
 ### Earning & Losing Favours (typical)
 - **Patronage (low profile).** Offer donations, service, or access to **one faction**. Gain **+1 Favour** with that faction.
