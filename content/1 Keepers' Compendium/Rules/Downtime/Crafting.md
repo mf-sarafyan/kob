@@ -33,7 +33,7 @@ You pay crafting costs per turn as you don't need to buy all materials at once. 
 | ----------- | --------------------- | --------- | ------------- |
 | Common      | 1                     | 50 GP     | 50 GP         |
 | Uncommon    | 2                     | 200 GP    | 100 GP        |
-| Rare        | 6                     | 3'000 GP  | 500 GP        |
+| Rare        | 4                     | 2'000 GP  | 500 GP        |
 | Very Rare   | 15                    | 15'000 GP | 1'000 GP      |
 | Legendary   | 30                    | 90'000 GP | 3'000 GP      |
 *\*Time and cost are halved for consumables*
@@ -52,14 +52,21 @@ Ter Essence também garante que conseguir os materiais pra craftar um item (os R
 
 #### Updated Magic Item Crafting Time and Cost
 
-| Item Rarity | Time (Bastion Turns)* | Cost*      | Max Assistants/Essence |
-| ----------- | --------------------- | ---------- | ---------------------- |
-| Common      | 1                     | 50 GP      | 0                      |
-| Uncommon    | 2                     | 200 GP     | 1                      |
-| Rare        | 6                     | 2'000 GP   | 2                      |
-| Very Rare   | 15                    | 20'000 GP  | 3                      |
-| Legendary   | 30                    | 100'000 GP | 4                      |
+| Item Rarity | Time (Bastion Turns)* | Cost*      | Cost/ turn | Max Assistants/Essence | Min Time (turns) |
+| ----------- | --------------------- | ---------- | ---------- | ---------------------- | ---------------- |
+| Common      | 1                     | 50 GP      | 50 GP      | 0                      | 1                |
+| Uncommon    | 2                     | 200 GP     | 100 GP     | 1                      | 1                |
+| Rare        | 6                     | 2'000 GP   | 500 GP     | 2                      | 2 (1.5, 6/4)     |
+| Very Rare   | 15                    | 20'000 GP  | 1'000 GP   | 3                      | 5                |
+| Legendary   | 30                    | 100'000 GP | 3'000 GP   | 4                      | 8 (7.5)          |
 *Time and cost are halved for consumables*
+
+#### Crafting Complex Nonmagical Items 
+> RAW o tempo é preço/10. O exemplo que vimos foi de um musket, que precisaria de 50(!) dias. Vamos fazer um negócio que faz mais sentido: 
+
+- A partir do preço do item, encaixe numa tier de item mágico, arredondando pra cima (ie: Musket de 500GP -> Rare)
+- Use o tempo equivalente a essa raridade
+- Divida o preço pelos turnos: no exemplo, 250GP/2 turnos (com assistentes) custaria 125GP por turno. 
 
 ## Obtendo Essence
 Além de ser encontrada em tesouros, Essence pode ser colhida de monstros com duas novas ações: 

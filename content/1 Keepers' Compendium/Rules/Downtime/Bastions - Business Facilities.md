@@ -44,7 +44,8 @@ author: DM
 - ***Order: Craft.*** Your hirelings can produce arcane foci, blank books. +5 GP/level on your business this turn. 
 - ***Order: Craft.*** Craft items with Calligrapher's Supplies (craft spell scrolls).
 - ***Order: Craft.*** (Requires level 9): You hirelings can make common/uncommon arcane items.
-- **Boon:** You can cast *identify* for free once. Recharges when you spend a Bastion turn on your study. 
+- **Boon:** You can cast *identify* for free once. Recharges when you spend a Long Rest on your study. 
+- ***Upgrade.*** This facility starts with 2 hirelings. You can pay 2'000GP to upgrade it, increasing the hireling capacity to 4. This also grants another use of *identify* between recharges. 
 
 ### Armory
 *Function: Defensive + Financial*
@@ -60,7 +61,7 @@ author: DM
 - **Boon:** Once per turn, you or an ally gain **advantage on one Athletics or Intimidation check** made in the city. 
 
 ### Garden
-*Function: Craft + Financial*
+*Function: Harvest + Financial*
 - **Alignment / Defense:** Social / **d6**
 - ***Order: Harvest (Decorative).*** Produces aesthetically pleasing flowers and arrangements. +5 GP/level on your business this turn. 
 - ***Order: Harvest (Nutritious).*** Produces delicious mushrooms or vegetables. Grants **100 days worth of Rations.**
@@ -84,6 +85,7 @@ _Function: Craft + Boon_
 - ***Order: Craft.*** You can craft of divine/druidic magic items (per [[Crafting]]).
 - ***Order: Craft.*** (Requires level 9): You hirelings can make common/uncommon divine/druidic items.
 - **Boon.** You hold a **Healing Word** charm (1 use, lasts 7 days). Recharges when you spend a Bastion Turn in your Sanctum/Sanctuary complex.
+- ***Upgrade.*** This facility starts with 2 hirelings. You can pay 2'000GP to upgrade it, increasing the hireling capacity to 4. This also grants you another use of Healing Word (2 instead of 1). 
 
 ### Smithy
 _Function: Craft + Financial_
@@ -91,6 +93,7 @@ _Function: Craft + Financial_
 - _**Order: Craft.**_ Equipment to fabricate metal goods (Smith's Tools).
 - ***Order: Craft.*** (Requires level 9): You hirelings can make common/uncommon armaments.
 - **Financial:** +10 GP/level per turn on your business. 
+- ***Upgrade.*** This facility starts with 2 hirelings. You can pay 2'000GP to upgrade it, increasing the hireling capacity to 4. This also increases the defense die to a **d8**.
 
 ### Storehouse
 _Function: Financial + Defensive_
@@ -104,8 +107,7 @@ _Function: Craft ++
 - _**Order: Craft.**_ Choose 6 tools when you build this facility; you can craft items requiring those tools.
 - ***Order: Craft.*** (Requires level 9): You hirelings can make common/uncommon items with the tools available to your workshop.
 - **Boon: Inspired Creativity.** After spending an entire Short Rest in your Workshop, you gain Heroic Inspiration. You can't gain this benefit again until you finish a Long Rest.
-
-> **Upgrade**. You can Upgrade your Workshop to a Grand Workshop by spending 2,000 GP. If you do so, the Workshop gains two additional hirelings and three additional Artisan's Tools (chosen from the list above).
+- **Upgrade**. This facility starts with 2 hirelings. You can Upgrade your Workshop to a Grand Workshop by spending 2,000 GP. If you do so, the Workshop gains two additional hirelings and three additional Artisan's Tools (chosen from the list above).
 
 
 ## Level 9
@@ -129,6 +131,7 @@ _Function: Craft + Financial_
 - ***Order: Craft.*** Craft items with Alchemist’s supplies (craft potions). 
 - _**Order: Craft.**_ Hirelings can craft mundane alchemical items at half price.
 - **Financial.** **+15 GP/level** per turn to your business.
+- ***Upgrade.*** This facility starts with 2 hirelings. You can pay 2'000GP to upgrade it, increasing the hireling capacity to 4. 
 
 ### Sacristy
 **Prerequisite**: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
@@ -139,6 +142,7 @@ _Function: Craft + Boon_
 - _**Order: Craft.**_ You can craft/bless divine items, I guess.
 - _**Order: Craft.**_ You can order your hirelings to craft Common/Uncommon relics. (There's a table with Relics in the DMG.)
 - **Boon.** After a Short Rest in the Bastion, **regain one expended spell slot (≤5th)** (1/Long Rest).
+- ***Upgrade.*** This facility starts with 2 hirelings. You can pay 2'000GP to upgrade it, increasing the hireling capacity to 4. 
 
 ### Scriptorium
 _Function: Craft + Defensive_
@@ -147,6 +151,7 @@ _Function: Craft + Defensive_
 - ***Order: Craft.*** Craft items with Calligrapher's Supplies (craft spell scrolls).
 - ***Order: Craft (Books).*** Copy books for sale; +10 GP/level on your business this turn.
 - ***Order: Craft (Scroll)***. Your hirelings can produce Spell Scrolls of level 3 or lower for you at half price. 
+- ***Upgrade.*** This facility starts with 2 hirelings. You can pay 2'000GP to upgrade it, increasing the hireling capacity to 4. 
 
 ### Stable?
 _Function: Financial + Boon_
