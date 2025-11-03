@@ -65,7 +65,7 @@ class GraphAnalyzer:
     
     def explore_node(self, node_name: str, max_depth: int = 2) -> Dict[str, Any]:
         """
-        Explore a node's connections in detail
+        Explore a node's connections in detail, with comprehensive entity information
         
         :param node_name: Name of the node to explore
         :param max_depth: Maximum depth of exploration
@@ -74,33 +74,38 @@ class GraphAnalyzer:
         if node_name not in self.graph.nodes:
             return {"error": f"Node '{node_name}' not found in the graph"}
         
-        # Get node details
-        node_data = dict(self.graph.nodes[node_name])
-        
-        # Get the type of the starting node
-        start_node_type = node_data.get('type', 'unknown')
+        # Get full entity details
+        entity_details = self.get_full_entity_details(node_name)
         
         # Prepare exploration results
         exploration = {
-            "node_name": node_name,
-            "node_type": start_node_type,
-            "node_attributes": node_data,
+            "node_details": entity_details,
             "connections": {
                 "direct": {},
                 "indirect": {}
             }
         }
         
-        # Direct connections (1-hop)
+        # Direct connections (1-hop) - exclude content_chunk nodes
         for neighbor in self.graph.neighbors(node_name):
-            edge_data = list(self.graph.get_edge_data(node_name, neighbor).values())[0]
-            exploration["connections"]["direct"][neighbor] = {
-                "type": self.graph.nodes[neighbor].get('type', 'unknown'),
-                "edge_type": edge_data.get('type', 'unknown')
-            }
+            neighbor_type = self.graph.nodes[neighbor].get('type', 'unknown')
+            
+            # Skip content_chunk nodes - they're part of content structure, not semantic connections
+            if neighbor_type != 'content_chunk':
+                edge_data = list(self.graph.get_edge_data(node_name, neighbor).values())[0]
+                edge_type = edge_data.get('type', 'unknown')
+                
+                # Also skip has_content_chunk edges
+                if edge_type != 'has_content_chunk':
+                    exploration["connections"]["direct"][neighbor] = {
+                        "type": neighbor_type,
+                        "edge_type": edge_type,
+                        "edge_weight": edge_data.get('weight', 0)
+                    }
         
         # Indirect connections (2-hop)
         if max_depth > 1:
+            start_node_type = entity_details.get('node_type', 'unknown')
             for neighbor in exploration["connections"]["direct"].keys():
                 for indirect_neighbor in self.graph.neighbors(neighbor):
                     # Only add indirect connections of the same type as the starting node
@@ -205,3 +210,137 @@ class GraphAnalyzer:
             plt.show()
         
         plt.close()
+
+    def diagnose_graph_connectivity(self) -> Dict[str, Any]:
+        """
+        Diagnose overall graph connectivity and potential issues
+        
+        :return: Comprehensive graph connectivity analysis
+        """
+        # Analyze node types
+        type_counts = self.count_nodes_by_type()
+        
+        # Check for isolated nodes
+        isolated_nodes = list(nx.isolates(self.graph))
+        
+        # Weakly connected components
+        weakly_connected = list(nx.weakly_connected_components(self.graph))
+        
+        # Analyze edge types
+        edge_types = {}
+        for _, _, edge_data in self.graph.edges(data=True):
+            edge_type = edge_data.get('type', 'unknown')
+            edge_types[edge_type] = edge_types.get(edge_type, 0) + 1
+        
+        return {
+            "total_nodes": len(self.graph.nodes),
+            "total_edges": len(self.graph.edges),
+            "node_types": type_counts,
+            "isolated_nodes": {
+                "count": len(isolated_nodes),
+                "nodes": isolated_nodes[:10]  # Limit to first 10 for brevity
+            },
+            "weakly_connected_components": {
+                "count": len(weakly_connected),
+                "largest_component_size": len(max(weakly_connected, key=len))
+            },
+            "edge_types": edge_types
+        }
+
+    def get_full_entity_details(self, entity_name: str) -> Dict[str, Any]:
+        """
+        Retrieve comprehensive details for a given entity, including all content
+        
+        :param entity_name: Name of the entity to investigate
+        :return: Detailed dictionary of entity information
+        """
+        if entity_name not in self.graph.nodes:
+            return {"error": f"Entity '{entity_name}' not found in the graph"}
+        
+        # Get main node data
+        node_data = dict(self.graph.nodes[entity_name])
+        
+        # Prepare comprehensive entity details
+        entity_details = {
+            "node_name": entity_name,
+            "node_type": node_data.get('type', 'unknown'),
+            "node_attributes": {},
+            "content": {
+                "content_chunks": []
+            },
+            "connections": {
+                "incoming": [],
+                "outgoing": []
+            }
+        }
+        
+        # Add main_content only if it exists in the node itself (for content_chunk nodes)
+        # Main entity nodes don't store content directly - it's in content_chunk nodes
+        if 'content' in node_data and node_data.get('type') != 'content_chunk':
+            entity_details['content']['main_content'] = node_data.get('content', '')
+        
+        # Add all node attributes (excluding content and type)
+        for key, value in node_data.items():
+            if key not in ['content', 'type']:
+                entity_details['node_attributes'][key] = value
+        
+        # Find and sort content chunks - get all chunks connected via 'has_content_chunk' edges
+        content_chunks = []
+        for _, target, edge_data in self.graph.out_edges(entity_name, data=True):
+            if edge_data.get('type') == 'has_content_chunk':
+                # Get chunk node data as a proper dict
+                chunk_node_data = dict(self.graph.nodes[target])
+                
+                # Verify this is actually a content_chunk node
+                if chunk_node_data.get('type') == 'content_chunk':
+                    content_chunks.append(chunk_node_data)
+        
+        # Sort content chunks by index
+        content_chunks.sort(key=lambda x: x.get('chunk_index', 0))
+        
+        # Add sorted content chunks with all their fields
+        chunk_contents = []
+        for chunk_node in content_chunks:
+            chunk_content = chunk_node.get('content', '')
+            if chunk_content:  # Only add non-empty chunks
+                chunk_contents.append(chunk_content)
+            
+            entity_details['content']['content_chunks'].append({
+                'chunk_index': chunk_node.get('chunk_index', -1),
+                'content': chunk_content,
+                'file_path': chunk_node.get('file_path', 'Unknown'),
+                'parent_entity': chunk_node.get('parent_entity', entity_name)
+            })
+        
+        # Combine all chunks into full_content for easier consumption
+        if chunk_contents:
+            entity_details['content']['full_content'] = '\n\n'.join(chunk_contents)
+        elif 'main_content' in entity_details['content']:
+            entity_details['content']['full_content'] = entity_details['content'].get('main_content', '')
+        else:
+            entity_details['content']['full_content'] = ''
+        
+        # Collect incoming connections
+        for source, _, edge_data in self.graph.in_edges(entity_name, data=True):
+            entity_details['connections']['incoming'].append({
+                'source_node': source,
+                'source_type': self.graph.nodes[source].get('type', 'unknown'),
+                'edge_type': edge_data.get('type', 'unknown'),
+                'weight': edge_data.get('weight', 0)
+            })
+        
+        # Collect outgoing connections (exclude content_chunk nodes - they're handled separately)
+        for _, target, edge_data in self.graph.out_edges(entity_name, data=True):
+            target_type = self.graph.nodes[target].get('type', 'unknown')
+            edge_type = edge_data.get('type', 'unknown')
+            
+            # Skip content_chunk nodes - they're part of content, not semantic connections
+            if target_type != 'content_chunk' and edge_type != 'has_content_chunk':
+                entity_details['connections']['outgoing'].append({
+                    'target_node': target,
+                    'target_type': target_type,
+                    'edge_type': edge_type,
+                    'weight': edge_data.get('weight', 0)
+                })
+        
+        return entity_details

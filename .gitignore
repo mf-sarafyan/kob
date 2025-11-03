@@ -22,3 +22,8 @@ __pycache__/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Secrets and API keys
+src/secrets.py
+.env
+*.env

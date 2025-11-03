@@ -6,7 +6,7 @@ import networkx as nx
 import json
 
 from langchain.docstore.document import Document
-from langchain_community.embeddings import OllamaEmbeddings
+from langchain_ollama import OllamaEmbeddings
 from langchain_community.vectorstores import FAISS
 
 from .graph.graph_builder import create_graph_rag_index

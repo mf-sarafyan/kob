@@ -6,7 +6,9 @@ relates_to:
 author: DM
 ---
  When a facility has multiple possible ***orders*** described, you can only choose one per bastion turn. 
- 
+
+*Summary table; more details below*
+
 | Facility                 | Lvl | Align/Def           | Aspects               | Short Effects                                                                                                            |
 | ------------------------ | :-: | ------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **Arcane Study**         |  5  | Bureau d6           | Craft + Boon          | Craft foci/books; scrolls ½ price; **9+** arcane items; **1× identify** charm; **+5 GP/level** when crafting.            |

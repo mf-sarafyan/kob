@@ -16,7 +16,7 @@ Factions react during Bastion Turns (see [[Bastions]]), and your choices in play
 
 ## Major Factions
 
-[[La Mano Legata]]:
+[[La Mano Legata]]: the uneasy alliance between the strongest mafia families of the city. 
 - [[Cartocci]]  
     Strong‑armed bureaucrats whose stamps and permits can starve a shop—or flood it with supply. Favour eases materials; enmity drowns you in taxes and delays.
 - [[Zenonni]]  
@@ -37,7 +37,7 @@ These are the major players of Bralian politics. Each character tracks **Standin
 
 ---
 
-# Standing Scale (Single Meter)
+# Standing Scale
 Standing is a number from **−6** to **+6**. Named breakpoints anchor the fiction:
 
 - **−6** _(War)_ → **−3** _(Hostile)_ → **−1** _(Interfering)_ → **0** _(Neutral)_ → **+1** _(Helpful)_ → **+3** _(Friendly)_ → **+6** _(Allied)_
@@ -58,13 +58,16 @@ Standing moves by **spending or losing Favours**—no extra clocks.
 - **Raising Standing (your choice).** Hold a **Meeting** with a faction and **spend 3 Favours** to increase your Standing by **+1**. (You can purchase multiple steps in separate Meetings.)
 - **Falling Standing (automatic).** Whenever your Favours with a faction drop to **−3 or lower**, immediately reduce your Standing by **−1** and remove 3 negative-favours.
 
+### Standing Effects
+
+(Clearer description of what standing does)
 
 ---
 
 # Favours (Positive & Negative)
 **Favours** are your currency with a faction. The balance may be **positive** (stored goodwill) or **negative** (debts/ill‑will).
 
-![[Factions - Political Actions]]
+![[Factions - Political Orders]]
 
 
 ---

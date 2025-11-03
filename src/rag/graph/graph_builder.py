@@ -6,8 +6,11 @@ from typing import Dict, List, Any, Optional
 import networkx as nx
 import yaml
 import json
+import logging
 
 from .text_processing import normalize_entity_name, clean_markdown_content, smart_chunk_content
+
+logger = logging.getLogger(__name__)
 
 class ObsidianGraphBuilder:
     def __init__(self, content_dir: str):
@@ -52,83 +55,6 @@ class ObsidianGraphBuilder:
         except Exception as e:
             logger.warning(f"Could not extract frontmatter from {file_path}: {e}")
             return {}
-    
-    def _process_node(self, file_path: Path) -> Optional[str]:
-        """
-        Process a single file into a graph node
-        
-        :param file_path: Path to the markdown file
-        :return: Name of the created node, or None if failed
-        """
-        try:
-            # Extract frontmatter
-            frontmatter = self._extract_frontmatter(file_path)
-            
-            # Determine node name and type
-            node_name = frontmatter.get('title') or file_path.stem
-            node_type = frontmatter.get('type', 'note')
-            
-            # Normalize node name
-            normalized_name = normalize_entity_name(node_name)
-            
-            # Read file content
-            with open(file_path, 'r', encoding='utf-8') as f:
-                content = f.read()
-            
-            # Remove frontmatter
-            content = re.sub(r'^---\n.*?\n---\n', '', content, flags=re.DOTALL).strip()
-            
-            # Clean markdown content
-            cleaned_content = clean_markdown_content(content)
-            
-            # Prepare node attributes
-            node_attrs = {
-                'type': node_type,
-                'file_path': str(file_path),
-                'content': cleaned_content,
-                'title': node_name,
-            }
-            
-            # Add aliases from frontmatter
-            aliases = frontmatter.get('aliases', [])
-            if aliases:
-                node_attrs['aliases'] = aliases
-            
-            # Add other frontmatter attributes
-            for key, value in frontmatter.items():
-                if key not in ['title', 'type', 'aliases']:
-                    node_attrs[key] = value
-            
-            # Add node to graph
-            self.graph.add_node(normalized_name, **node_attrs)
-            
-            return normalized_name
-        
-        except Exception as e:
-            logger.error(f"Error processing node from {file_path}: {e}")
-            return None
-    
-    def _extract_wikilinks(self, content: str) -> List[str]:
-        """
-        Extract Obsidian wikilinks from Markdown content
-        
-        :param content: Markdown content
-        :return: List of wikilinks
-        """
-        # Regex to match Obsidian wikilinks [[Link]] or [[Link|Alias]]
-        wikilinks = re.findall(r'\[\[([^\]]+)\]\]', content)
-        
-        # Remove aliases and clean links
-        cleaned_links = []
-        for link in wikilinks:
-            # Split on | to remove aliases
-            base_link = link.split('|')[0].strip()
-            
-            # Ignore empty links
-            if base_link:
-                cleaned_links.append(base_link)
-        
-        return cleaned_links
     
     def _process_explicit_relationships(self, node_name: str, frontmatter: Dict[str, Any]):
         """
@@ -190,6 +116,87 @@ class ObsidianGraphBuilder:
                             weight=rel_info.get('weight', 0.3) * 0.8  # Slightly reduced weight for reciprocal
                         )
     
+    def _create_alias_nodes(self, node_name: str, node_attrs: Dict[str, Any]):
+        """
+        Create alias nodes for a given entity
+        
+        :param node_name: Normalized main node name
+        :param node_attrs: Attributes of the main node
+        :return: List of created alias nodes
+        """
+        created_aliases = []
+        
+        # Get aliases from frontmatter or create potential aliases
+        aliases = node_attrs.get('aliases', [])
+        
+        # If no aliases provided, generate some
+        if not aliases:
+            # Use the original title as a potential alias
+            title = node_attrs.get('title', '')
+            if title and title != node_name:
+                aliases.append(title)
+        
+        # Ensure aliases is a list
+        if isinstance(aliases, str):
+            aliases = [aliases]
+        
+        # Create alias nodes
+        for alias in aliases:
+            # Normalize the alias
+            normalized_alias = normalize_entity_name(alias)
+            
+            # Skip if alias is the same as the main node name
+            if normalized_alias == node_name:
+                continue
+            
+            # Create alias node
+            alias_node_name = f"alias_{normalized_alias}"
+            
+            # Prepare alias node attributes
+            alias_attrs = {
+                'type': 'alias',
+                'original_entity': node_name,
+                'alias_of': alias,
+                'original_type': node_attrs.get('type', 'unknown')
+            }
+            
+            # Add alias node to graph
+            self.graph.add_node(alias_node_name, **alias_attrs)
+            
+            # Create strong connection to the main node
+            self.graph.add_edge(
+                alias_node_name, 
+                node_name, 
+                type='alias_of', 
+                weight=0.9  # Strong connection
+            )
+            
+            created_aliases.append(alias_node_name)
+        
+        return created_aliases
+    
+    def _extract_wikilinks(self, content: str) -> List[str]:
+        """
+        Extract Obsidian wikilinks from Markdown content
+        
+        :param content: Markdown content
+        :return: List of wikilinks
+        """
+        # Regex to match Obsidian wikilinks [[Link]] or [[Link|Alias]]
+        wikilinks = re.findall(r'\[\[([^\]]+)\]\]', content)
+        
+        # Remove aliases and clean links
+        cleaned_links = []
+        for link in wikilinks:
+            # Split on | to remove aliases
+            base_link = link.split('|')[0].strip()
+            
+            # Ignore empty links
+            if base_link:
+                cleaned_links.append(base_link)
+        
+        return cleaned_links
+    
     def build_graph(self, wiki_subdirs: List[str] = None):
         """
         Build a graph from Obsidian notes
@@ -203,7 +210,8 @@ class ObsidianGraphBuilder:
                 '1 Keepers\' Compendium/wiki/location', 
                 '1 Keepers\' Compendium/wiki/item', 
                 '1 Keepers\' Compendium/wiki/entry',
-                '1 Keepers\' Compendium/game/party'  # Added party directory
+                '1 Keepers\' Compendium/game',  
+                '1 Keepers\' Compendium/rules' 
             ]
         
         # Track processed files to avoid duplicates
@@ -217,7 +225,8 @@ class ObsidianGraphBuilder:
                 print(f"Warning: Directory not found - {dir_path}")
                 continue
             
-            for file_path in dir_path.glob('*.md'):
+            # Use rglob for recursive searching of all .md files
+            for file_path in dir_path.rglob('*.md'):
                 # Skip desktop.ini and other non-markdown files
                 if file_path.name == 'desktop.ini':
                     continue
@@ -235,8 +244,10 @@ class ObsidianGraphBuilder:
                     print(f"Error reading {file_path}: {e}")
                     continue
                 
-                # Extract node properties
+                # Normalize the node name early and consistently
                 node_name = normalize_entity_name(file_path.stem)
+                
+                # Extract frontmatter
                 frontmatter = self._extract_frontmatter(file_path)
                 wikilinks = self._extract_wikilinks(raw_content)
                 
@@ -254,13 +265,19 @@ class ObsidianGraphBuilder:
                 cleaned_content = clean_markdown_content(raw_content)
                 content_chunks = smart_chunk_content(cleaned_content)
                 
-                # Add node to graph
+                # Prepare node attributes with normalized title
                 node_attrs = {
                     'type': node_type or 'unknown',
                     'file_path': str(file_path),
+                    'title': frontmatter.get('title', file_path.stem),  # Keep original title for display
                     **frontmatter
                 }
+                
+                # Add node to graph with normalized name
                 self.graph.add_node(node_name, **node_attrs)
+                
+                # Create alias nodes
+                self._create_alias_nodes(node_name, node_attrs)
                 
                 # Process explicit relationships from frontmatter
                 self._process_explicit_relationships(node_name, frontmatter)
@@ -312,6 +329,28 @@ class ObsidianGraphBuilder:
         print(f"Graph built with {len(self.graph.nodes)} nodes and {len(self.graph.edges)} edges")
         
         return self.graph
+    
+    def export_graph(self, output_path: str) -> None:
+        """
+        Export the graph to a JSON file
+        
+        :param output_path: Path to save the graph JSON file
+        """
+        graph_data = nx.readwrite.json_graph.node_link_data(self.graph, edges="links")
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(graph_data, f, indent=2)
+    
+    @staticmethod
+    def load_graph(input_path: str) -> nx.MultiDiGraph:
+        """
+        Load a graph from a JSON file
+        
+        :param input_path: Path to the graph JSON file
+        :return: NetworkX MultiDiGraph
+        """
+        with open(input_path, 'r', encoding='utf-8') as f:
+            graph_data = json.load(f)
+        return nx.readwrite.json_graph.node_link_graph(graph_data, edges="links")
 
 def create_graph_rag_index(content_dir: str, output_dir: str):
     """
@@ -329,9 +368,6 @@ def create_graph_rag_index(content_dir: str, output_dir: str):
     
     # Export the graph
     graph_path = os.path.join(output_dir, 'campaign_graph.json')
-    graph_data = nx.readwrite.json_graph.node_link_data(graph)
-    
-    with open(graph_path, 'w', encoding='utf-8') as f:
-        json.dump(graph_data, f, indent=2)
+    graph_builder.export_graph(graph_path)
     
     return graph_builder

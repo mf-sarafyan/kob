@@ -4,8 +4,6 @@ from typing import List, Dict, Any, Optional, Tuple
 
 import networkx as nx
 from langchain.docstore.document import Document
-from langchain.tools import BaseTool
-from langchain.pydantic_v1 import BaseModel, Field
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OllamaEmbeddings
 
@@ -96,144 +94,6 @@ class VectorSearchAugmenter:
         else:
             return docs
 
-class VectorSearchTool(BaseTool):
-    """
-    LangChain Tool for Vector Search
-    """
-    name: str = "vector_search"
-    description: str = (
-        "Performs a semantic search across documents, "
-        "returning relevant entities and their context."
-    )
-    
-    vector_search_augmenter: VectorSearchAugmenter
-    
-    class Config:
-        arbitrary_types_allowed = True
-    
-    def _run(
-        self, 
-        query: str, 
-        return_type: str = 'entities'
-    ) -> List[Dict[str, Any]]:
-        """
-        Run vector search
-        
-        :param query: Search query
-        :param return_type: 'entities' or 'documents'
-        :return: Search results
-        """
-        return self.vector_search_augmenter.search(query, return_type)
-    
-    async def _arun(
-        self, 
-        query: str, 
-        return_type: str = 'entities'
-    ) -> List[Dict[str, Any]]:
-        """
-        Async run vector search
-        """
-        return self._run(query, return_type)
-
-class GraphSearchTool(BaseTool):
-    """
-    LangChain Tool for Graph-based Entity Search
-    """
-    name: str = "graph_search"
-    description: str = (
-        "Searches for entities in the graph, "
-        "returning their connections and details."
-    )
-    
-    graph_builder: ObsidianGraphBuilder
-    graph_analyzer: GraphAnalyzer
-    
-    class Config:
-        arbitrary_types_allowed = True
-    
-    def _run(
-        self, 
-        entity_name: str, 
-        max_depth: int = 2,
-        relationship_types: Optional[List[str]] = None
-    ) -> Dict[str, Any]:
-        """
-        Run graph search
-        
-        :param entity_name: Name of the entity to search
-        :param max_depth: Maximum depth of graph exploration
-        :param relationship_types: Optional list of relationship types to filter
-        :return: Graph search results
-        """
-        try:
-            # Explore the node
-            node_details = self.graph_analyzer.explore_node(
-                entity_name, 
-                max_depth=max_depth
-            )
-            
-            # Filter relationships if specified
-            if relationship_types:
-                filtered_relationships = {}
-                for rel_type, connections in node_details.get('relationships', {}).items():
-                    if rel_type in relationship_types:
-                        filtered_relationships[rel_type] = connections
-                node_details['relationships'] = filtered_relationships
-            
-            return node_details
-        
-        except Exception as e:
-            logger.error(f"Graph search error for {entity_name}: {e}")
-            return {
-                'error': str(e),
-                'entity': entity_name
-            }
-    
-    async def _arun(
-        self, 
-        entity_name: str, 
-        max_depth: int = 2,
-        relationship_types: Optional[List[str]] = None
-    ) -> Dict[str, Any]:
-        """
-        Async run graph search
-        """
-        return self._run(entity_name, max_depth, relationship_types)
-
-def create_search_tools(
-    vector_store: FAISS, 
-    graph_builder: ObsidianGraphBuilder,
-    top_k: int = 5
-) -> Tuple[VectorSearchTool, GraphSearchTool]:
-    """
-    Create vector and graph search tools
-    
-    :param vector_store: FAISS vector store
-    :param graph_builder: Obsidian graph builder
-    :param top_k: Number of top results to retrieve
-    :return: Tuple of (VectorSearchTool, GraphSearchTool)
-    """
-    # Create Vector Search Augmenter
-    vector_search_augmenter = VectorSearchAugmenter(
-        vector_store, 
-        graph_builder, 
-        top_k=top_k
-    )
-    
-    # Create Graph Analyzer
-    graph_analyzer = GraphAnalyzer(graph_builder.graph)
-    
-    # Create tools
-    vector_search_tool = VectorSearchTool(
-        vector_search_augmenter=vector_search_augmenter
-    )
-    
-    graph_search_tool = GraphSearchTool(
-        graph_builder=graph_builder,
-        graph_analyzer=graph_analyzer
-    )
-    
-    return vector_search_tool, graph_search_tool
 
 # Example usage in __main__
 if __name__ == '__main__':
@@ -243,17 +103,14 @@ if __name__ == '__main__':
     # Create RAG index
     vector_store, graph_builder, _ = create_rag_index(CONTENT_DIR, INDEX_DIR)
     
-    # Create search tools
-    vector_search_tool, graph_search_tool = create_search_tools(
+    # Create vector search augmenter
+    vector_search_augmenter = VectorSearchAugmenter(
         vector_store, 
-        graph_builder
+        graph_builder, 
+        top_k=5
     )
     
     # Example usage
     print("=== Vector Search Example ===")
-    vector_results = vector_search_tool._run("Where is the rock of Bral?")
+    vector_results = vector_search_augmenter.search("Where is the rock of Bral?")
     print(vector_results)
-    
-    print("\n=== Graph Search Example ===")
-    graph_results = graph_search_tool._run("Baang")
-    print(graph_results)

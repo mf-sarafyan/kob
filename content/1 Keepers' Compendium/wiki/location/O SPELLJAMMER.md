@@ -5,6 +5,8 @@ parent:
   - "[[kob/content/1 Keepers' Compendium/wiki/location/Astral Sea|Astral Sea]]"
 appears_in: []
 image: ""
+aliases:
+  - The Spelljammer
 ---
 # O SPELLJAMMER
 Como a WOTC odeia clareza em suas nomeclaturas, além do **Spelljammer** (nome da campanha) e dos **Speljammers** (embarcações mágicas que cruzam o espaço e o astral), existe **O** **SPELLJAMMER** (Spelljammer-class Spelljammer), uma lendária cidade-nave viva, a maior do seu tipo; teorizado ser tão velho quanto as Esferas, tripulado por constructos que ele próprio produzia, habitado por criaturas que eram magicamente *encantadas* por ele, e cercado de lendas, mistérios, e tesouros. 
