@@ -5,46 +5,23 @@ relates_to:
   - "[[Bastions]]"
 author: DM
 ---
-### Physical (muscle, logistics, powder)
+Political facilities differ from [[Bastions - Business Facilities]] in that they can all take the same orders, but they have passive effects that may improve them. 
 
-| Ability              | Style    | Defense     | Effect                                                                          | Examples                                                   |
-| -------------------- | -------- | ----------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| **Fixed Stipend**    | Physical | d6          | **Action:** gain 2 favours with Physical factions.                              | Drill Court & Muster; Oath-Locker; Ward Captain            |
-| **Drilled Protocol** | Physical | d6          | **Meeting costs −1 favour** (cost **2** with Physical factions).                | Parade Ground; Duty Roster Lectern; Sgt-Major              |
-| **Greased Palms**    | Physical | d6          | **Pull costs −1 favour** from Physical factions.                                | Powder Store; Grease Rack; Dockside Fixer                  |
-| **Powder & Pride**   | Physical | d6 → **d8** | Ignore **losing Favours from “courting others”** from active Physical factions. | Blackpowder Shrine; Prize-Flags; Vet Paymaster             |
-| **Citadel Walk**     | Physical | **d8**      | **Defends with advantage vs Physical & Social**.                                | Covered Ramparts; Heraldic Bastions; Master-at-Arms+Ushers |
+Each facility can take one of these orders: 
 
----
+![[Factions - Political Orders]]
 
-### Bureaucratic (seals, archives, arcane ledgers)
+When you get a new Political Facility, you choose from one of the following abilities. You can skin the ability as you like - a hireling with connections, a safe space away from view, a secret contract with a guild. 
 
-| Ability                 | Style        | Defense     | Effect                                                                              | Examples                                             |
-| ----------------------- | ------------ | ----------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| **Stamped Retainer**    | Bureaucratic | d6          | **Action:** gain 2 favours with Bureaucratic factions.                              | Clerk of Seals; Ribbon Counter; Licensed Bailiff     |
-| **Express Docket**      | Bureaucratic | d6          | **Meeting costs −1 favour** (cost **2** with Bureaucratic factions).                | Petitioners’ Hall; Appointment Clock; Registrar      |
-| **Annotated Precedent** | Bureaucratic | d6          | **Pull costs −1 favour** from Bureaucratic factions.                                | Scriptorium Annex; Codex Shelving; Case-Law Advocate |
-| **Quiet File**          | Bureaucratic | d6 → **d8** | Ignore **losing Favours from “courting others”** from active Bureaucratic factions. | Archive of Precedents; Seal Drawer; Palace Liaison   |
-| **Aegis of Writ**       | Bureaucratic | **d8**      | **Defends with advantage vs Bureaucratic & Physical**.                              | Royal Dispensation Niche; Deed Chest; Lord-Advocate  |
+Choosed a style for your facility (Physical, Social, Bureaucratic). The benefit applies for factions of that style. 
 
----
-
-### Social (pubs, salons, gazettes, stages)
-
-| Ability             | Style  | Defense     | Effect                                                                        | Examples                                              |
-| ------------------- | ------ | ----------- | ----------------------------------------------------------------------------- | ----------------------------------------------------- |
-| **Standing Rounds** | Social | d6          | **Action:** gain 2 favours with Social factions.                              | Public House slate; Patron’s Tab; Celebrity Host(ess) |
-| **Private Box**     | Social | d6          | **Meeting costs −1 favour** (cost **2** with Social factions).                | Theater Box; Back-Room Alcove; MC                     |
-| **Gazette Office**  | Social | d6          | **Pull costs −1 favour** from Social factions.                                | Newsroom & Press; Rumor Desk; Columnist               |
-| **Whisper Screen**  | Social | d6 → **d8** | Ignore **losing Favours from “courting others”** from active Social factions. | Sound-Screened Salon; Cloakroom; Discreet Confidante  |
-| **Curtain Call**    | Social | **d8**      | **Defends with advantage vs Social & Bureaucratic**.                          | Patron’s Gallery; Opening Night; Impresario           |
-
----
-
-### Hybrids / Focus
-*A adicionar com o tempo I guess?*
-
-| Ability                 | Style           | Defense | Summary                                                                                                                              | Examples                                                     | Vast / Notes                  |
-| ----------------------- | --------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------- |
-| **Embassy**             | Same as Faction | d6      | Pick **one faction**: you get **all three** discounts with them (**Pat/Enf +2 flat**, **Meeting −1**, **Pull −1**) — each once/turn. | Consular Parlor; Treaty Table; Resident Envoy                | Requires Standing +6 (Allied) |
+- **Order: Court** from this facility produces 2 favours instead of 1. 
+- **Order: Court** from this facility towards factions of its style won't cause negative favours from other active factions.
+- **Order: Court** from this facility towards any factions won't cause negative favours from other active factions of this facility's style.
+- **Order: Cash-in** costs 1 less for Meetings (increasing Standing).
+- **Order: Cash-in** costs 1 less for non-Meetings (material and story benefits).
+- You can **Order: Contest** negative events in other tiers (any style).  
+- Choose two styles; **Order: Contests** you trigger offensively have advantage against both.
+- Choose two styles; on **Order: Contests** triggered against you, you have advantage against both.
+- You can **Order: Help Contest.** Spend your order on this facility to add **1d6** to an ally's Contest in any city tier. This adds advantage to both your and your allies' rolls if your Style beats the opponnent's.
 

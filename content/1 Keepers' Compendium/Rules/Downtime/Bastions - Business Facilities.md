@@ -5,7 +5,7 @@ relates_to:
   - "[[Bastions]]"
 author: DM
 ---
- When a facility has multiple possible ***orders*** described, you can only choose one per bastion turn. 
+When a facility has multiple possible ***orders*** described, you can only choose one per bastion turn. 
 
 *Summary table; more details below*
 
@@ -43,36 +43,40 @@ author: DM
 
 *Function: Craft + Boon*
 - **Alignment / Defense:** Bureaucratic / **d6**
-- ***Order: Craft.*** Your hirelings can produce arcane foci, blank books. +5 GP/level on your business this turn. 
-- ***Order: Craft.*** Craft items with Calligrapher's Supplies (craft spell scrolls).
+- ***Order: Trade.*** Your hirelings can produce arcane foci, blank books. +5 GP/level on your business this turn. 
+- ***Order: Craft.*** Can craft items with Calligrapher's Supplies (craft spell scrolls).
 - ***Order: Craft.*** (Requires level 9): You hirelings can make common/uncommon arcane items.
 - **Boon:** You can cast *identify* for free once. Recharges when you spend a Long Rest on your study. 
 - ***Upgrade.*** This facility starts with 2 hirelings. You can pay 2'000GP to upgrade it, increasing the hireling capacity to 4. This also grants another use of *identify* between recharges. 
 
 ### Armory
 *Function: Defensive + Financial*
+
 - **Alignment / Defense:** Physical / **d8**
-- **Defensive:** You gain **+1** to your Defense roll vs Physical. **You can grant this bonus to any chosen ally's Bastion.**
-- **Financial:** +10 GP/level per turn on your business. 
+- **Order: Garrisson.** The chosen Bastion gains **+1** to your Contest rolls vs Physical. 
+- **Financial (passive):** +10 GP/level per turn on your business. 
 
 ### Barrack
 *Function: Defensive + Boon*
+
 - **Alignment / Defense:** Physical / **d8**
 - **Aspects:** **Defensive** + **Boon**
-- **Defensive:** You gain **+1** to your Defense roll vs Physical. **You can grant this bonus to any chosen ally's Bastion.**
+- **Order: Garrisson.** The chosen Bastion gains **+1** to your Contest rolls vs Physical. 
 - **Boon:** Once per turn, you or an ally gain **advantage on one Athletics or Intimidation check** made in the city. 
 
 ### Garden
 *Function: Harvest + Financial*
+
 - **Alignment / Defense:** Social / **d6**
 - ***Order: Harvest (Decorative).*** Produces aesthetically pleasing flowers and arrangements. +5 GP/level on your business this turn. 
 - ***Order: Harvest (Nutritious).*** Produces delicious mushrooms or vegetables. Grants **100 days worth of Rations.**
 - ***Order: Harvest (Medicinal).*** Produces either 10 Healer's Kits or one Potion of Healing.
 - ***Order: Harvest (Noxious).*** Produces 2 vials of Antitoxin or one Basic Poison.
-- **Financial:** +10 GP per turn on your business. 
+- **Financial (passive):** +10 GP/level per turn on your business. 
 
 ### Library
 *Function: Boons*
+
 - **Alignment / Defense:** Bureaucratic / **d6**
 - ***Order: Craft.*** Craft items with Calligrapher's Supplies (craft spell scrolls).
 - ***Order: Research.*** Each turn, learn **up to three new facts** on a chosen topic (DM adjudicates).
@@ -94,7 +98,7 @@ _Function: Craft + Financial_
 - **Alignment / Defense:** Physical / **d6**
 - _**Order: Craft.**_ Equipment to fabricate metal goods (Smith's Tools).
 - ***Order: Craft.*** (Requires level 9): You hirelings can make common/uncommon armaments.
-- **Financial:** +10 GP/level per turn on your business. 
+- **Financial (passive):** +10 GP/level per turn on your business. 
 - ***Upgrade.*** This facility starts with 2 hirelings. You can pay 2'000GP to upgrade it, increasing the hireling capacity to 4. This also increases the defense die to a **d8**.
 
 ### Storehouse
@@ -106,7 +110,7 @@ _Function: Financial + Defensive_
 ### Workshop
 _Function: Craft ++
 - **Alignment / Defense:** Physical / **d6**  
-- _**Order: Craft.**_ Choose 6 tools when you build this facility; you can craft items requiring those tools.
+- _**Order: Craft.**_ Choose 6 tools when you build this facility; you and your hirelings can craft items requiring those tools.
 - ***Order: Craft.*** (Requires level 9): You hirelings can make common/uncommon items with the tools available to your workshop.
 - **Boon: Inspired Creativity.** After spending an entire Short Rest in your Workshop, you gain Heroic Inspiration. You can't gain this benefit again until you finish a Long Rest.
 - **Upgrade**. This facility starts with 2 hirelings. You can Upgrade your Workshop to a Grand Workshop by spending 2,000 GP. If you do so, the Workshop gains two additional hirelings and three additional Artisan's Tools (chosen from the list above).
@@ -175,14 +179,14 @@ _Function: Boon + Financial_
 
 - **Alignment / Defense:** Social / **d6**
 - ***Boon: Theatrical Inspiration*.** Every day in town you and your allies gain **one Theater Die** (d6; **d8 at 13+**; **d10 at 17+**) to add to a d20 Test, like a Bardic Inspiration. These don't stack.
-- ***Order: Participate (Special).*** You **and your allied PCs** can spend your Bastion Turn working on a theatrical performance, as composers, writers, conductors, directors, or performers. A character that Participates on a Theater performance can't take work on other stuff this turn, such as Crafting (though their hirelings can craft stuff for them). Each Participating character increases the income of the Theater by **10GP/level**.
+- ***Order: Participate (Busy).*** You **and your allied PCs** can spend your Bastion Turn working on a theatrical performance, as composers, writers, conductors, directors, or performers. Each Participating character increases the income of the Theater by **10GP/level** and gains an additional Theatrical Inspiration.
 - **Financial.** **+10 GP/level** per turn. 
 
 ### Training Area
 _Function: Boon + Defensive_
 
 - **Alignment / Defense:** Physical / **d8**
-- ***Order: Participate (Special).*** You **and your allied PCs** can spend your Bastion Turn training here. A character that Participates on a Training performance can't take work on other stuff this turn, such as Crafting (though their hirelings can craft stuff for them). A Participating character can gain one of the Order boons from this facility.
+- ***Order: Participate (Busy).*** You **and your allied PCs** can spend your Bastion Turn training here. A Participating character can gain one of the Order boons from this facility.
 - **Order: Training (battle).** For the next 7 days, when you take damage from an unarmed or weapon attack, you can use your Reaction to reduce the damage by 1d4. 
 - **Order: Training (Skill).** For the next 7 days, you gain proficiency in one of the following skills of your choice: Acrobatics, Athletics, Performance, Sleight of Hand, or Stealth.
 - **Order: Training (Tool).** For the next 7 days, you gain proficiency with one tool of your choice.

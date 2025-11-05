@@ -62,7 +62,7 @@ _**Sequence of Play**_
 
 1. **_Declare Participation_.** Each character who is present in Bral may take Bastion actions this turn.
 2. **_Set Active Factions_.** Pick which factions are exerting themselves in each city tier this turn (e.g., Bragora, La Città). For each active faction, we’ll roll a single **Base Posture** (see _Faction Approaches_ below).
-3. **_Players Choose Orders_.** Each participating character gives orders **to each of their facilities**.
+3. **_Players Choose Orders_.** Each participating character gives one order **to each of their facilities**.
 4. **_Resolve Faction Approaches_.** Per-turn faction approaches depend on player relations and will affect their actions and income. 
 5. **_Resolve Actions_.** Apply facility modifiers, political abilities, and effects from faction approaches.
 6. **_Update Records_.** Record Standing, Favours, gold gained/spent, project progress, and any facility changes.
@@ -78,21 +78,25 @@ Business actions affect regular DnD play by giving resources such as money, item
 **Each business facility has its own set of available orders** - some may let you craft or harvest items, or spend time to gain temporary buffs. 
 These are facility-specific and are detailed on their descriptions on [[Bastions - Business Facilities]]. 
 
+***Busy***. Some orders will specify they make you Busy. You can't be Busy with two things at once in a turn. If you issue an **Order: Craft**, and you're doing the crafting yourself, you'll be Busy.
+
 Some examples:
-- **Trade.** Your Bastion earns coin through rents, enterprises, and sales. Baseline income is **20 gp × character level**. Facilities often add flat gp or % modifiers for **this turn**.
+- **Trade.** Your Bastion earns coin through rents, enterprises, and sales. Baseline income per facility is **20 gp × character level**. Facilities often add flat gp or % modifiers for **this turn**.
 - **Craft.** Start or advance a project (mundane or magical) on a facility with the appropriate Tools. See **[[Crafting]]** for time, assistants, tools, and Essence.
 - **Recruit / Empower / Harvest, etc.** Facility‑specific business orders which can give other regular play bonuses.
 
 ### Political Orders
-
+![[Factions - Political Orders]]
 
 ---
 
 ## Faction Events
-This section references the standing/favours model. For details on Favours, Standing, Meetings, and Cash‑Ins, see **[[Faction Relations]]**.
+Each turn, we model life in the city by rolling for random events. 
+First, we draft the **active factions** for each city tier where players have Bastions. 
 
-### Active Factions (per tier)
-For each city tier this turn ([[Soffiera]], [[Bragora]] & [[La Citta]]), pick or roll an active faction:
+Then, we roll for events for each: opportunities, hostility, friendship, business. The outcome can be better or worse depending on each PC's relation to each faction. Most events present players with a choice that will affect their Bastion's effectiveness for the turn. 
+
+### Active Factions 
 
 | d8  | Active Faction                                  | Style        | Vibe                                       |
 | :-: | ----------------------------------------------- | ------------ | ------------------------------------------ |
@@ -105,82 +109,19 @@ For each city tier this turn ([[Soffiera]], [[Bragora]] & [[La Citta]]), pick or
 |  7  | Zenonni                                         | Weird        | Anomalies, specialists, windfalls.         |
 |  8  | Two active—roll twice again; ignore further 8s. | —            | —                                          |
 
----
 
-### Faction Approaches 
-At the start of the turn—**before** resolving actions—set a **Base Posture** for each **active** faction. Then, as characters interact, derive **Personal Treatment** from that one roll.
+### Events 
+Before choosing actions, the DM rolls on a *(secret)* table to get how the current active factions approach each PC's Bastion. Here are some examples: 
 
-Faction Approach represents both:
-- How the current activity drives the economy of the region this turn
-	- which alters general income and prices, as in:
-		- if the faction is cracking down and people are staying home and not spending on player businesses, or raising their prices to cover for faction "taxes"
-		- if the faction is encouraging business, people are going around spending more, prices get lower. 
-- And how the faction treats the PCs' businesses specifically
-	- Even if the faction may have a positive approach in a turn, if they absolutely loathe that PC, they'll still give them trouble. The same is true for the opposite - if they're on a crackdown, they'll still give benefits to their friends.
-		- That doesn't change the general economy in the district, though!
-
-#### Step 1 — Base Posture
-The DM rolls **1d10** for each active faction **once**. Apply the **district economy** to everyone **this turn**:
-
-| Base Roll | Vibe                | District Economy (this turn)     |
-| :-------: | ------------------- | -------------------------------- |
-|  **≤ 0**  | **Sea Storm**       | **Income −20%**, **Prices +20%** |
-|  **1–2**  | **Gale Warning**    | **Income −20%**, **Prices +20%** |
-|  **3–4**  | **Headwinds**       | **Income −10%**, **Prices +10%** |
-|  **5–6**  | **Steady Waters**   | **±0%**                          |
-|  **7–8**  | **Favorable Winds** | **Income +10%**, **Prices −10%** |
-| **9–10**  | **Full Sail**       | **Income +20%**, **Prices −20%** |
-| **≥ 11**  | **Fair Tide**       | **Income +20%**, **Prices −20%** |
-
-**Stacking:** Sum all active factions’ income/price modifiers, cap at **−30% / +30%**.
-
-#### Step 2 — Personal Treatment (per character × faction)
-Each faction's approach to a character depends on their approach but is modified by their standing:
-
-**Personal Total = Base Roll + Standing + Favours\***
-*Negative favours always apply and are consumed. Positive favours can add to the total if the player chooses to when approaches are rolled.*
-
-Map the Personal Total to the **same bands**. That band is the character’s **Personal Treatment** for action effects with that faction this turn.
-
-Different characters may land on **different bands** from the **same** Base Posture.
-
-### Band Effects (this turn)
-**Sea Storm (≤0)** — _Attack!_ Resolve a **Bastion Attack** against this character (see below), in addition to Gale Warning's effects.
-
-**Gale Warning (1–2)** — _disruptive posture_
-- With this faction: **Patronage/Enforcement** or **Cool‑Off** you do **with them** also grants **+1 Favour** (on top of normal gains). 
-- Meetings don't consume an action if below 0 Standing.
-- If you court others: **Patronage/Enforcement** you do for **another** faction this turn causes **−2/-3 Favours** with this faction.
-
-**Headwinds (3–4)** — _pressuring posture_
-- With this faction:  **Patronage** or **Cool‑Off** you do **with them** grants **+1 Favour**.
-- If you court others: **Patronage/Enforcement** for someone else this turn causes **−1/-2 Favours** here.
-
-**Steady Waters (5–6)** — _business as usual_
-- No extra effects. 
-- **Courtesy:** if you did **Patronage** to them, you don't lose favours with other factions.
-
-**Favorable Winds (7–8)** — _mild patronage_
-- With this faction: **Patronage/Enforcement** with them yields **+1 extra Favour**.
-- A **Cash-in** this turn costs **-1 favour** (min 0).
-- If you court others: **Patronage/Enforcement** for someone else this turn causes **−1/-2 Favours** here.
-
-**Full Sail (9–10)** — _strong patronage_
-- With this faction: **Patronage/Enforcement** with them yields **+1 extra Favour**.
-- Your next **Cash-in** with them costs **−1 Favour** (min 0).
-- A **Meeting** may be held **without consuming your action** (still costs **3 Favours**). 
-- If you court others: **Patronage/Enforcement** you do for **another** faction this turn causes **−2/-3 Favours** with this faction.
-
-**Fair Tide (≥11)** — _windfall_
-In addition to Full Sail's effects:
-- **Free Minor Cash‑In** now (no cost, no action, no check), or your **next Cash‑In with this faction** today costs **−2 Favours** (min 0).
-
+***Lockdown.*** You can't issue **orders** to your facilities this turn, as the faction is putting it on lockdown: either harassing staff and visitors, burying it in paperwork, or good old sabotage. You can clear this up by winning a **Contest** in the district - if you do, the Bastion works normally, but you take **-2 favours** with the faction.
+***Smuggling Window.*** You get a golden opportunity - you can choose to A) take have 50% lower **prices** for the turn, but you need to win a **Contest**. If you lose, the money (50%) is spent and you get nothing. Or you can choose to play it safe and B) get 10% increase income this turn. 
+***Visitor.*** A friendly NPC asks for recurring access to your Bastion this week. They won't disrupt your other orders. You choose: A) +1 Favour with the faction or B) +25% income in a facility this turn. 
 
 
 ---
 
-# Bastion Styles
-**Styles** become relevant when resolving attacks. Factions and bastions can be aligned to **Physical**, **Social** or **Bureaucratic**. Each has advantage against another: 
+# Contests and Styles
+**Styles** become relevant when resolving **contests**. Factions and bastions can be aligned to **Physical**, **Social** or **Bureaucratic**. Each has advantage against another: 
 - **Physical** intimidation outweighs **Social** commentary, but yields to the correct **Bureaucratic** permits. 
 - **Social** can ridicule or talk itself out of **Bureaucratic** sanctions, but can't stop a **Physical** slap to the face. 
 - **Bureaucratic** forms can stop a **Physical** goon on its tracks, but won't stop **Social** whispers at the next gathering.
@@ -188,34 +129,21 @@ It's Rock-Paper-Scissors: Physical > Social > Buroca > Physical.
 
 Factions have their own aligment (Zenonni are random!). Bastions take the alignment of the majority of its facilities (player chooses on ties). 
 
-## Attack and Defense
-When a character’s **Personal Treatment** is **Sea Storm** (≤0), resolve a quick clash.
+## Resolving Contests
+When a character’s Bastion is **contested**, or the player decides to initiate a contest against an **Event**, both sides roll to resolve the issue. 
 
-**Facility Defense.** Each Special Facility lists an **Alignment** and a **Defense Die** (default **1d6**; fortifying sites like **Barracks/War Room** may list **1d8**; optional size steps Cramped d4 / Roomy d6 / Vast d8). See more on [[Facilities List]].
+**Facility Defense.** Each Special Facility lists an **Alignment** and a **Defense Die** (default **1d6**; fortifying sites like **Barracks/War Room** may list **1d8** or give bonuses to rolls). See more on the facility lists linked above. 
 
 **Resolve:**
 1. **Style.** Check who has advantage due to style.
-2. **Roll attack.** Attacker **1d6 + current negative Favours**. 
-3. **Roll Defense.** Roll the largest die among facilities. 
-4. **Outcome.** Whatever the outcome, negative favours are spent. If the attack roll beats the defense roll, one facility at random is disabled for this round, as its focused on repairs: its actions can't be taken, its bonuses are deactivated, and its income is zero. 
+2. **Roll Faction.** DM rolls; usually **1d6 + current negative Favours**, but can change by Event.
+3. **Roll Defense.** Player rolls the largest die among facilities, adds relevant bonuses. 
+4. **Outcome.** Whatever the outcome, negative favours are spent.
+	1. **Player-triggered contest**
+		1. **Player wins** - negative effects from events are negated *for all contestable events in the entire district*. That means your friend can help you out. 
+		2. **Player loses** - Contest again, now as a Faction attack.  
+	2. **Faction Attack**
+		1. **Player wins** - nothing happens; the Bastion is secure. 
+		2. **Player loses** - one Facility at random is deactivated for the round. It can't take orders and its passive effects don't apply. 
 
----
-
-## Quick GM Flow (with d10)
-
-1. **Active factions.** Pick per tier.
-2. **Base Posture.** Roll **1d10** once per active faction; apply economy modifiers (respect caps).
-3. **Plans.** Players declare actions: business and political.
-4. **District Economy.** Calculate incomes and prices from current faction approaches.
-5. **Attacks.** If any Personal Treatment is **Sea Storm**, run a Bastion Attack.
-6. **Resolve.** Get results from plans considering the faction events and attacks. 
-7. **Record.** Update Standing, Favours, income, projects.
-
----
-
-## Design Notes
-
-- **Two dials only.** Standing and Favours do all the work—no extra clocks.
-- **This‑turn effects.** No delayed penalties; the Bastion phase stays snappy.
-- **District breathes.** Money dials (income/prices) reflect street weather, while bands shape political friction.
-- **Player choice.** You decide when to climb (Meetings at **3 Favours**); debts drag you down automatically.
+> ***Difficulty***. Balance is TODO, but lower Standing thresholds (-1, -3 and -6) will probably trigger harsher contests, as the Faction will dedicate more towards fucking with you.
