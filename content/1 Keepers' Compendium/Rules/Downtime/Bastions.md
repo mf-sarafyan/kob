@@ -30,13 +30,13 @@ You gain additional facilities at levels **9/13/17** as per the table below.
 ## Facilities
 Facilities are the rooms, staff, and agreements that give a Bastion life. Mechanically they’re either **Business** (Trade & Craft) or **Political** (Factions). You can skin a facility as a room, hireling, or contract; the ability is what matters.
 
+> Take a look and understand the rules in this document before checking the facilities!
+
 _**Business Facilities.**_ Workshops, Smithies, Labs, Arcane Studies, Docks, Archives, etc. provide income and special DnD-play bonuses. Each business facility has its own set of possible orders, and sometimes additional passive effects. Each Special Facility also lists an **Alignment** and **Defense Die** for Bastion Attacks (see below). See [[Bastions - Business Facilities]]. 
 
 ***Political Facilities***. Allies, envoys, contracts. These provide ways to affect faction relations and interact with the city politics - for better or worse. Different from Business Facilities, there are a couple of default political orders, and you facilities improve their effectiveness. See [[Bastions - Political Facilities]]. 
 
-**Your Bastion starts with one Business and one Political facility.** You gain more facilities (no cost) at some level breakpoints (then you can . Some facilities can be upgraded, too; by paying gold and spending one turn unavailable for orders as work is done there. 
-
-> Take a look and understand these rules before checking the facilities!
+**Your Bastion starts with one Business and one Political facility.** You gain more facilities (no cost) at some level breakpoints (then you can . Some facilities can be upgraded, too (details are on their descriptions); you pay gold and the Facility spends one turn unavailable for orders, as work is done there. 
 
 | Level | Special Facilities |
 | ----- | ------------------ |
@@ -61,11 +61,10 @@ A Bastion Turn represents roughly a week of focused effort, meetings, and mainte
 _**Sequence of Play**_
 
 1. **_Declare Participation_.** Each character who is present in Bral may take Bastion actions this turn.
-2. **_Set Active Factions_.** Pick which factions are exerting themselves in each city tier this turn (e.g., Bragora, La Città). For each active faction, we’ll roll a single **Base Posture** (see _Faction Approaches_ below).
+2. **_Set Active Factions and Events_.** Roll which factions are exerting themselves in each city tier this turn (e.g., Bragora, La Città). For each active faction, we’ll roll random events.
 3. **_Players Choose Orders_.** Each participating character gives one order **to each of their facilities**.
-4. **_Resolve Faction Approaches_.** Per-turn faction approaches depend on player relations and will affect their actions and income. 
-5. **_Resolve Actions_.** Apply facility modifiers, political abilities, and effects from faction approaches.
-6. **_Update Records_.** Record Standing, Favours, gold gained/spent, project progress, and any facility changes.
+4. **_Resolve Actions_.** Apply facility modifiers, political abilities, and effects from factions.
+5. **_Update Records_.** Record Standing, Favours, gold gained/spent, project progress, and any facility changes.
 
 
 ---
@@ -78,10 +77,10 @@ Business actions affect regular DnD play by giving resources such as money, item
 **Each business facility has its own set of available orders** - some may let you craft or harvest items, or spend time to gain temporary buffs. 
 These are facility-specific and are detailed on their descriptions on [[Bastions - Business Facilities]]. 
 
-***Busy***. Some orders will specify they make you Busy. You can't be Busy with two things at once in a turn. If you issue an **Order: Craft**, and you're doing the crafting yourself, you'll be Busy.
+***Busy***. Some orders will specify they make you Busy. You can't be Busy with two things at once in a turn. If you issue an **Order: Craft**, and you're doing the crafting yourself, you'll be Busy. If your hirelings are crafting for you, you won't be busy; but they usually (before level 9) can only craft mundane items.
 
 Some examples:
-- **Trade.** Your Bastion earns coin through rents, enterprises, and sales. Baseline income per facility is **20 gp × character level**. Facilities often add flat gp or % modifiers for **this turn**.
+- **Trade.** Your Bastion earns coin through rents, enterprises, and sales. Baseline income per Bastion is **20 gp × character level**. Facilities often add flat gp or % modifiers for **this turn**.
 - **Craft.** Start or advance a project (mundane or magical) on a facility with the appropriate Tools. See **[[Crafting]]** for time, assistants, tools, and Essence.
 - **Recruit / Empower / Harvest, etc.** Facility‑specific business orders which can give other regular play bonuses.
 
@@ -109,13 +108,12 @@ Then, we roll for events for each: opportunities, hostility, friendship, busines
 |  7  | Zenonni                                         | Weird        | Anomalies, specialists, windfalls.         |
 |  8  | Two active—roll twice again; ignore further 8s. | —            | —                                          |
 
-
 ### Events 
-Before choosing actions, the DM rolls on a *(secret)* table to get how the current active factions approach each PC's Bastion. Here are some examples: 
+Before players choose orders, the DM rolls on a *(secret)* table to get how the current active factions approach each Bastion. Here are some examples: 
 
 ***Lockdown.*** You can't issue **orders** to your facilities this turn, as the faction is putting it on lockdown: either harassing staff and visitors, burying it in paperwork, or good old sabotage. You can clear this up by winning a **Contest** in the district - if you do, the Bastion works normally, but you take **-2 favours** with the faction.
-***Smuggling Window.*** You get a golden opportunity - you can choose to A) take have 50% lower **prices** for the turn, but you need to win a **Contest**. If you lose, the money (50%) is spent and you get nothing. Or you can choose to play it safe and B) get 10% increase income this turn. 
-***Visitor.*** A friendly NPC asks for recurring access to your Bastion this week. They won't disrupt your other orders. You choose: A) +1 Favour with the faction or B) +25% income in a facility this turn. 
+***Smuggling Window.*** You get a golden opportunity - you can choose to A) take have 50% lower **prices** for the turn, but you need to win a **Contest**. If you lose, the money (50%) is spent and you get nothing. Or you can choose to play it safe and B) get 10% increased income this turn. 
+***Visitor.*** A friendly NPC asks for recurring access to your Bastion this week. They won't disrupt your other orders. You choose: A) +1 Favour with the faction or B) +25% income in this turn. 
 
 
 ---
