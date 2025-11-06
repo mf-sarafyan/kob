@@ -115,6 +115,8 @@ Before players choose orders, the DM rolls on a *(secret)* table to get how the 
 ***Smuggling Window.*** You get a golden opportunity - you can choose to A) take have 50% lower **prices** for the turn, but you need to win a **Contest**. If you lose, the money (50%) is spent and you get nothing. Or you can choose to play it safe and B) get 10% increased income this turn. 
 ***Visitor.*** A friendly NPC asks for recurring access to your Bastion this week. They won't disrupt your other orders. You choose: A) +1 Favour with the faction or B) +25% income in this turn. 
 
+([[Bastion Events|Link fácil pro DM]])
+
 
 ---
 
