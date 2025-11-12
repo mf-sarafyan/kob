@@ -5,10 +5,11 @@ race: Human
 aliases:
   - Mordy
 type: character
-known_locations: []
+known_locations:
+  - "[[Interdimensional Tower of Urm]]"
 factions:
   - "[[Keepers of the Balance]]"
-alignment: ""
+alignment: True Neutral
 appears_in: []
 relates_to: []
 image: "[[Mordenkainen_VEoR.webp]]"
@@ -17,7 +18,7 @@ image: "[[Mordenkainen_VEoR.webp]]"
 
 Mago vindo de Greyhawk, líder do Circle of Eight e autor de muitas famosas magias.
 
-Líder dos Keepers of the Balance.
+Líder dos [[Keepers of the Balance]].
 
 <!-- DYNAMIC:related-entries -->
 

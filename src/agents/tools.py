@@ -2,7 +2,7 @@ import os
 import logging
 from typing import Dict, Any, Optional, List, Tuple
 
-from langchain.tools import BaseTool
+from langchain_core.tools import BaseTool
 from pydantic import BaseModel, Field, ConfigDict
 from langchain_community.vectorstores import FAISS
 

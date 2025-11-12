@@ -10,9 +10,8 @@ import seaborn as sns
 import umap
 import networkx as nx
 
-from langchain.docstore.document import Document
+from langchain_core.documents import Document
 from langchain_community.vectorstores import FAISS
-from langchain_community.embeddings import OllamaEmbeddings
 
 from .graph.graph_analysis import GraphAnalyzer
 from .graph.graph_builder import ObsidianGraphBuilder
@@ -315,7 +314,7 @@ def create_rag_analyzer(
     index_dir: str, 
     chunk_size: int = 500, 
     chunk_overlap: int = 100, 
-    embed_model: str = 'bge-m3'
+    embed_model: str = 'snowflake/snowflake-arctic-embed-l-v2.0'
 ) -> 'RAGAnalyzer':
     """
     Convenience function to create a RAG analyzer

@@ -24,11 +24,10 @@ def main():
     try:
         print("=== Running Comprehensive RAG Analysis ===")
         
-        # Create RAG analyzer with BGE-M3 embedding model
+        # Create RAG analyzer with Snowflake Arctic-Embed-L v2.0 embedding model
         rag_analyzer = create_rag_analyzer(
             CONTENT_DIR, 
-            INDEX_DIR, 
-            embed_model='bge-m3'
+            INDEX_DIR
         )
         
         # Visualize vector space

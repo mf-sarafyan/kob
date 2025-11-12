@@ -7,6 +7,7 @@ alignment: ""
 leader: "[[Mordenkainen]]"
 aliases:
   - KOTB
+  - Keepers
 appears_in: []
 ---
 # Keepers of the Balance

@@ -3,9 +3,8 @@ import logging
 from typing import List, Dict, Any, Optional, Tuple
 
 import networkx as nx
-from langchain.docstore.document import Document
+from langchain_core.documents import Document
 from langchain_community.vectorstores import FAISS
-from langchain_community.embeddings import OllamaEmbeddings
 
 from .graph.graph_builder import ObsidianGraphBuilder
 from .graph.graph_analysis import GraphAnalyzer

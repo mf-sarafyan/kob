@@ -95,23 +95,6 @@ Soffiera Workshop: Physical
 
 ---
 
-# Using the Module
-1. **Track per character × faction:** **Standing (−6…+6)** and a single **Favours** balance (may be negative).
-2. **Resolve actions:** Patronage **+1**, Enforcement **+2** (and usually **−1** to a rival), Cool‑Off **+1**. Apply fiction‑based penalties as **−1 Favour**.
-3. **Spend as needed:** Minor/Major/Greater Pulls **1/2/3**; **Meeting 2** to raise Standing **+1**.
-4. **Auto‑slide:** When Favours ≤ **−3**, Standing auto‑drops **−1**, then Favours bump **+3** (repeat until **≥ −1**).
-5. **Approaches & Attacks:** Use _Bastions2_ for district **Approaches** (bands, economy) and **Sea Storm** attacks; those rules reference Standing and Favours directly.
-
----
-
-# Quick Reference (Player‑Facing)
-- **Standing:** −6 (War)…−3 (Hostile)…−1 (Interfering)…0…+1 (Helpful)…+3 (Friendly)…+6 (Allied).
-- **Earn:** Patronage **+1**; Enforcement **+2** (and usually **−1** with a rival); Cool‑Off **+1**.
-- **Spend:** Minor/Major/Greater Pull = **1/2/3**; **Meeting = 3** to raise Standing **+1**.
-- **Debt drag:** At **Favours ≤ −3**, Standing drops **−1** and Favours rebound **+3** (repeat as needed).
-- **Courting outsiders:** If a faction is **active**, doing Patronage/Enforcement for a **non‑active** faction usually causes **−1 Favour** with one active faction.    
-
----
 
 # Minor Factions
 Minor factions aren’t tracked with Standing or Favours by default and don’t act on Bastion Turns.

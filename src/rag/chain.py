@@ -11,16 +11,14 @@ import networkx as nx
 import json
 
 from langchain_community.chat_models import ChatOllama
-from langchain_community.embeddings import OllamaEmbeddings
-from langchain.prompts import PromptTemplate
-from langchain.schema import StrOutputParser
-from langchain.schema.runnable import RunnablePassthrough, RunnableMap
-from langchain.tools import BaseTool
+from langchain_core.prompts import PromptTemplate
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.runnables import RunnablePassthrough, RunnableMap
+from langchain_core.tools import BaseTool
 from pydantic import BaseModel, Field
 from langchain.agents import AgentExecutor, create_tool_calling_agent
-from langchain.tools import Tool
+from langchain_core.tools import Tool
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
-from langchain_core.runnables import RunnablePassthrough
 
 from .graph import ObsidianGraphBuilder
 from src.settings import CONTENT_DIR
