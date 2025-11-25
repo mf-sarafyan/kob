@@ -7,8 +7,8 @@ author: DM
 # Overview: Major Factions
 Each character tracks their relationship with every faction using **two dials**—simple, fast, and always in motion:
 
-- **Standing (−6…+6).** A faction’s long‑term attitude toward the character. Has a few breakpoints where rewards improve (or costs worsen).
-- **Favour (can be negative).** A single running balance with that faction. Not exactly always "owing them one"; this also represents goodwill or sympathy in general. Positive values are goodwill you can spend; negative values are **debts/ill‑will** that make life harder until repaid.
+- **Standing (−6…+6).** A faction’s long‑term attitude toward the character.
+- **Favours (can be negative).** A single running balance with that faction. Positive values are goodwill you can spend; negative values are **debts/ill‑will** that make life harder until repaid.
 
 Factions react during Bastion Turns (see [[Bastions]]), and your choices in play nudge these two dials up or down.
 
@@ -17,23 +17,23 @@ Factions react during Bastion Turns (see [[Bastions]]), and your choices in play
 ## Major Factions
 
 [[La Mano Legata]]: the uneasy alliance between the strongest mafia families of the city. 
-- [[Cartocci]] 
+- [[Cartocci]]  
     Strong‑armed bureaucrats whose stamps and permits can starve a shop—or flood it with supply. Favour eases materials; enmity drowns you in taxes and delays.
-- [[Zenonni]] 
+- [[Zenonni]]  
     A society of odd specialists. Their arrivals bring chaos—sometimes priceless, sometimes costly.
-- [[Malvessi]] 
+- [[Malvessi]]  
     Mobsters in pirate trim. They plunder, but share with friends. Enemies see sabotage and violence; allies can point them at targets.
-- [[Il Velluto]] 
-    High society arbiters. A word from them can ruin or exalt; your place with them mirrors your place in salons and stages. 
-- [[Luminari]] 
-    Whisper‑makers of the streets. If the lamps like you, doors open. 
-[[Cinders]] 
-    Enemies of the status quo, armed with fire and powder. Winning them over angers others—but can upend the city’s balance. Relentless as enemies or allies. 
-[[Monarquia Braliana]] 
+- [[Il Velluto]]  
+    High society arbiters. A word from them can ruin or exalt; your place with them mirrors your place in salons and stages.    
+- [[Luminari]]  
+    Whisper‑makers of the streets. If the lamps like you, doors open.  
+[[Cinders]]  
+    Enemies of the status quo, armed with fire and powder. Winning them over angers others—but can upend the city’s balance. Relentless as enemies or allies.  
+[[Monarquia Braliana]]  
     The crown can override or reinforce any impediment other factions put in your way.
 
 
-These are the major players of Bralian politics. Each character tracks **Standing** and **Favour** with each.
+These are the major players of Bralian politics. Each character tracks **Standing** and **Favours** with each.
 
 ---
 
@@ -52,13 +52,15 @@ Standing is a number from **−6** to **+6**. Named breakpoints anchor the ficti
 
 > **Starting Standing.** Unless noted, characters begin at **−1 (Interfering)** with all factions. **Zenonni** commonly start **0 (Neutral)**.
 
-> **Standing effects**. A **Hostile** faction will always bring negative events to your Bastion when active. A **Warring** faction may bring negative events *even when they're not the active faction*. Conversely, **friendly** and **allied** factions will pop in with positive events, grant higher rewards when **cashing-in** (see later), and allow you to get special **facilitites** for your bastions. 
-
 ### Changing Standing
-Standing moves by **spending or losing Favour**.
+Standing moves by **spending or losing Favours**—no extra clocks.
 
-- **Raising Standing (your choice).** Hold a **Meeting** with a faction and **spend 3 Favour** to increase your Standing by **+1**. 
-- **Falling Standing (automatic).** Whenever your Favour with a faction drop to **−3 or lower**, immediately reduce your Standing by **−1** and remove 3 negative-favours.
+- **Raising Standing (your choice).** Hold a **Meeting** with a faction and **spend 3 Favours** to increase your Standing by **+1**. (You can purchase multiple steps in separate Meetings.)
+- **Falling Standing (automatic).** Whenever your Favours with a faction drop to **−3 or lower**, immediately reduce your Standing by **−1** and remove 3 negative-favours.
+
+### Standing Effects
+
+(Clearer description of what standing does)
 
 ---
 
@@ -70,20 +72,26 @@ Standing moves by **spending or losing Favour**.
 
 ---
 
-# Style
+# Style (todo)
 *See also: [[Bastions#Bastion Attacks & Defenses (Sea Storm)]]*
 Faction styles indicate how they operate. 
 Each facility is aligned to a style. Bastions take the style of the majority of their facilities (player choice on a tie). Building your bastion to be aligned with the style of the faction you wish to court can give you some bonuses!
 
-| Faction            | Style        | Notes                                      |
-| ------------------ | ------------ | ------------------------------------------ |
-| Cartocci           | Bureaucratic | Permits, audits, legal shields.            |
-| Monarquia Braliana | Bureaucratic | Royal writs, dispensation, guard presence. |
-| Malvessi           | Physical     | Hits, stoppages, escorts.                  |
-| Cinders            | Physical     | Strikes, sabotage, cell support.           |
-| Luminari           | Social       | Boycotts, lantern walks, street whispers.  |
-| Il Velluto         | Social       | Galas, snubs, society columns.             |
-| Zenonni            | Weird        | Anomalies, specialists, windfalls.         |
+| Faction                                         | Style        | Notes                                      |
+| ----------------------------------------------- | ------------ | ------------------------------------------ |
+| Cartocci                                        | Bureaucratic | Permits, audits, legal shields.            |
+| Monarquia Braliana                              | Bureaucratic | Royal writs, dispensation, guard presence. |
+| Malvessi                                        | Physical     | Hits, stoppages, escorts.                  |
+| Cinders                                         | Physical     | Strikes, sabotage, cell support.           |
+| Luminari                                        | Social       | Boycotts, lantern walks, street whispers.  |
+| Il Velluto                                      | Social       | Galas, snubs, society columns.             |
+| Zenonni                                         | Weird        | Anomalies, specialists, windfalls.         |
+- **Patronage with same-style:** **+1 Favour** with that faction.
+- **Meeting at a same-style Bastion:** Advantage on related checks.
+
+_Examples (wip):_  
+Hookah Bar: Social
+Soffiera Workshop: Physical
 
 ---
 

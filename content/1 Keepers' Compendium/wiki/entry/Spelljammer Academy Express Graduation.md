@@ -6,17 +6,17 @@ author: DM
 tags:
   - cy
   - timeline
-startDate: 574-7-7-00
+startDate: 574-1-1-1
 ---
-Os nossos Keepers resgatam a [[Betsy]] de um portal meio-aberto ao Abismo.
-
-
+Os meses em que nossos aventureiros estudaram na [[Spelljammer Academy]]. 
 <!-- Dynamic:timeline-event:start -->
 <div class="ob-timelines"
-  data-title="Finding Betsy"
+  data-title="Spelljammer Academy Express Graduation"
   data-description=""
-  data-start-date="574-7-7-00"
+  data-type="range"
+  data-start-date="574-1-1-00"
+  data-end-date="574-6-12-00"
   data-tags="cy; timeline">
-  Evento
+  
 </div>
 <!-- Dynamic:timeline-event:end -->

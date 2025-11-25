@@ -6,17 +6,16 @@ author: DM
 tags:
   - cy
   - timeline
-startDate: 574-7-7-00
+startDate: 573-12-1-00
 ---
-Os nossos Keepers resgatam a [[Betsy]] de um portal meio-aberto ao Abismo.
-
 
 <!-- Dynamic:timeline-event:start -->
 <div class="ob-timelines"
-  data-title="Finding Betsy"
+  data-title="Downtime in Candlekeep"
   data-description=""
-  data-start-date="574-7-7-00"
+  data-start-date="573-12-1-00"
   data-tags="cy; timeline">
   Evento
 </div>
 <!-- Dynamic:timeline-event:end -->
+

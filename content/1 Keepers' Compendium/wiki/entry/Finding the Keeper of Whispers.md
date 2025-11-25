@@ -6,17 +6,16 @@ author: DM
 tags:
   - cy
   - timeline
-startDate: 574-7-7-00
+title: Finding the Keeper of Whispers
+startDate: 573-11-31-00
 ---
-Os nossos Keepers resgatam a [[Betsy]] de um portal meio-aberto ao Abismo.
-
-
+Nossos aventureiros recuperam o [[Keeper of Whispers]] das mãos do vilão Jair Guthmere. 
 <!-- Dynamic:timeline-event:start -->
 <div class="ob-timelines"
-  data-title="Finding Betsy"
+  data-title="Finding the Keeper of Whispers"
   data-description=""
-  data-start-date="574-7-7-00"
+  data-start-date="573-11-31-00"
   data-tags="cy; timeline">
-  Evento
+  
 </div>
 <!-- Dynamic:timeline-event:end -->
