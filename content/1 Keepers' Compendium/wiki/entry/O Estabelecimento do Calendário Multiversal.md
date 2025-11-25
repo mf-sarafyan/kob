@@ -10,3 +10,5 @@ Era uma vez uma cronomante; uma de muitas arcanistas estudiosas que se incomodar
 
 Até hoje, organizações multiversais usam esse relógio como referência; como guildas de mercadores Spelljammers, a Armada Élfica, e os Keepers of the Balance. Todos se balizam no **Green Witch of Mechanus Time** (GMT). 
 
+---
+Hoje, manter esse padrão é facilitado por itens também abreviados como GMTs: [[Green Witch's Timepiece]].
