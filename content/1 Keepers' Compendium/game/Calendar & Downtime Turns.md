@@ -13,12 +13,12 @@ author: DM
 
 # Chapter 1: Keepers of the Gate, or The Keeper of Whispers
 Elturel falls into Avernus somewhere in 1494 DR, which should be around Ready'reat 573 CY - our intro is us "getting ready".
-- [[The Descent of Elturel]]
-- [[Finding the Keeper of Whispers]]
+- [[0 The Unknowable/wiki/entry/The Descent of Elturel]]
+- [[kob/content/1 Keepers' Compendium/wiki/entry/Finding the Keeper of Whispers|Finding the Keeper of Whispers]]
 
 ## Downtime in Candlekeep
 3 weeks in Candlekeep for level-ups and crafting. 
-- [[Downtime in Candlekeep]] 
+- [[kob/content/1 Keepers' Compendium/wiki/entry/Downtime in Candlekeep|Downtime in Candlekeep]] 
 
 # Chapter 2: Keepers of the Stars, or Spelljamming Ahoy
 
@@ -26,16 +26,16 @@ Elturel falls into Avernus somewhere in 1494 DR, which should be around Ready're
 *Let's say the graduation took about six months...*
 We start the graduation around New Year's 574 in Oerth. 
 Our Keepers arrive in Bral in the middle of Wealsun. 
-- [[Spelljammer Academy Express Graduation]]
+- [[Spelljammer Academy Express Graduation 1]]
 
 ## Rescuing Betsy 
 *In the second week of Reaping, an Abyssal confluence brought the Material close enough for a portal to open - right when [[kbβ41]] were investigating... Right after, the player characters are [[Finding Betsy]].*
 
 ## Downtime: 3rd Week of Reaping
-
+[[Downtime - 3rd Week of Reaping 574]]
 
 ## Downtime: 4th Week of Reaping
-
+[[Downtime - 4th Week of Reaping 574]]
 
 
 # Chapter 3: Keepers of the Grey, or The Feather of Zariel

@@ -14,8 +14,8 @@ author: DM
 
 # Chapter 1: Keepers of the Gate, or The Keeper of Whispers
 Elturel falls into Avernus somewhere in 1494 DR, which should be around Ready'reat 573 CY - our intro is us "getting ready".
-- [[The Descent of Elturel]]
-- [[Finding the Keeper of Whispers]]
+- [[kob/content/1 Keepers' Compendium/wiki/entry/The Descent of Elturel]]
+- [[kob/content/1 Keepers' Compendium/wiki/entry/Finding the Keeper of Whispers]]
 
 ## Downtime in Candlekeep
 3 weeks in Candlekeep for level-ups and crafting. 
@@ -27,7 +27,7 @@ Elturel falls into Avernus somewhere in 1494 DR, which should be around Ready're
 *Let's say the graduation took about six months...*
 We start the graduation around New Year's 574 in Oerth. 
 Our Keepers arrive in Bral in the middle of Wealsun. 
-- [[Spelljammer Academy Express Graduation]]
+- [[kob/content/1 Keepers' Compendium/wiki/entry/Spelljammer Academy Express Graduation]]
 
 ## Rescuing Betsy 
 *In the second week of Reaping, an Abyssal confluence brought the Material close enough for a portal to open - right when [[kbβ41]] were investigating... Right after, the player characters are [[Finding Betsy]].*
