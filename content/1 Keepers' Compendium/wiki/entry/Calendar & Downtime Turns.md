@@ -4,11 +4,12 @@ entry_type: Gamestate
 relates_to:
   - "[[O Estabelecimento do Calendário Multiversal]]"
   - "[[Calendário de Greyhawk]]"
+  - "[[Timeline]]"
 author: DM
 ---
-*As datas fazem mais sentido se ler as notas no relates-to.*
+*As datas fazem mais sentido se ler as notas no relates-to. Em [[Timeline]] tem um desenho mais bonitinho.*
 
-> Estamos em 574 CY em Greyhawk, e 1494 DR em Faerûn. Isso coloca a gente 5 anos depois da [[Battle of the Emridy Meadows]] em Oerth, pra história do Baang fazer sentido, e no ano de Descent into Avernus, que estava acontecendo no nosso capítulo 1. Baldur's Gate 3 deve acontecer daqui a uns 2 anos in-game.
+> Estamos em 574 CY em Greyhawk, e 1493 DR em Faerûn. Isso coloca a gente 5 anos depois da [[Battle of the Emridy Meadows]] em Oerth, pra história do Baang fazer sentido, e no ano de Descent into Avernus, que estava acontecendo no nosso capítulo 1. Baldur's Gate 3 deve acontecer daqui a uns 2 anos in-game.
 > Funny enough, o material oficial diz que DiA é em 94 e BG3 em 92, sendo que BG3 referencia coisas que acontecem em DiA e em outra aventura que também é em 94, o que significa que, surpreendentemente, todos esses números são inventados e não querem dizer nada.
 
 # Chapter 1: Keepers of the Gate, or The Keeper of Whispers
