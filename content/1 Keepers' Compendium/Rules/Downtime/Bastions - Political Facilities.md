@@ -15,7 +15,6 @@ When you get a new Political Facility, you choose from one of the following abil
 
 Choosed a style for your facility (Physical, Social, Bureaucratic). The benefit applies for factions of that style. 
 
-- **Order: Court** from this facility produces 2 favours instead of 1. 
 - **Order: Court** from this facility towards factions of its style won't cause negative favours from other active factions.
 - **Order: Court** from this facility towards any factions won't cause negative favours from other active factions of this facility's style.
 - **Order: Cash-in** costs 1 less for Meetings (increasing Standing).

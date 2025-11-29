@@ -6,7 +6,7 @@ author: DM
 tags:
   - cy
   - timeline
-startDate: 574-1-1-1
+startDate: 574-1-00-00
 ---
 Os meses em que nossos aventureiros estudaram na [[Spelljammer Academy]]. 
 <!-- Dynamic:timeline-event:start -->

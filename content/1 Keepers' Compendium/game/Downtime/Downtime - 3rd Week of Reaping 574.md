@@ -54,6 +54,12 @@ startDate: 574-7-15-00
 **Orders: Rhogar**
 
 **Orders: Juju**
+1 - B) Court Il Veluto (+3 Favours)
+2 - A) Pays 50 GP 
+Passive - Earns 150 GP 
+Order - Court Cinders (+1 Favour)
+Order - Decorative (+25 GP) 
+Total 125 GP
 
 ### La Città
 - Facção (1d8): **7 → Zenonni**
@@ -63,6 +69,8 @@ startDate: 574-7-15-00
 
 
 **Orders: Vax**
+Political: Court Il Veluto (+1 Favour)
+Business: Craft 1 lvl 3 scroll of cure wounds (custa 100gp)
 
 **Orders: Baang**
 

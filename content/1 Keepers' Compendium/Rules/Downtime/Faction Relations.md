@@ -65,7 +65,7 @@ Standing moves by **spending or losing Favour**.
 # Favours (Positive & Negative)
 **Favours** are your currency with a faction. The balance may be **positive** (stored goodwill) or **negative** (debts/ill‑will).
 
-![[Factions - Political Orders]]
+![[Factions - Political Orders#Political Orders]]
 
 
 ---

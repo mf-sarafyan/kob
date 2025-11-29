@@ -41,6 +41,8 @@ startDate: 574-7-23-00
 **Orders: Rhogar**
 
 **Orders: Juju**
+Political Order: Hang Out with Luigi 
+Business: +1 basic poison
 
 ### La Città
 - Facção (1d8): **6 → Il Velluto**
@@ -53,6 +55,10 @@ startDate: 574-7-23-00
 
 
 **Orders: Vax**
+A) +1 Favour Veluto 
+Political: Court (+2 favours veluto)
+Business: Research Graz'zt
+
 
 **Orders: Baang**
 

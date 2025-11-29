@@ -8,6 +8,7 @@ author: DM
 ---
 *Again, this won't make sense without reading [[Faction Relations]]...*
 
+# Political Orders
 Different from Business Orders, Political Orders are common to all political facilities; facilities just improve their effects. These orders interact with player-faction status by altering Favours and Standing. **Faction Events** (see below) also alter the outputs of these orders. 
 
 **Order: Court.** Offer service or show favoritism to a chosen faction. **Gain one favour** with a chosen faction. 
