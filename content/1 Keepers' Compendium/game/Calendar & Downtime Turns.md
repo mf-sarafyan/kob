@@ -33,6 +33,8 @@ Our Keepers arrive in Bral in the middle of Wealsun.
 
 You were left with a loose end - who got Ariel Palavro's (the forger) mind wiped? You need access to the Obliviattos Archives to figure that out. This will cost you a Cash-in from a Friendly faction! *(See [[Faction Relations]])*
 
+> Dinheiro atm: 2'000GP
+
 ## Downtime: 3rd Week of Reaping
 [[Downtime - 3rd Week of Reaping 574]]
 
@@ -42,4 +44,5 @@ You were left with a loose end - who got Ariel Palavro's (the forger) mind wiped
 
 # Chapter 3: Keepers of the Grey, or The Feather of Zariel
 *Our adventurers start the 1st of Goodmonth of 574 CY heading to Greyhawk.*
-
+- 3/8: arrival, meet morena, etc. 
+- 4/8: meet Sarana, Theatre of Ashes

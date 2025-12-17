@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - type == "creature"
+    image: note.image

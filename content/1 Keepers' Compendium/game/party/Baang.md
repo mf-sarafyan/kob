@@ -13,7 +13,7 @@ appears_in: []
 relates_to: []
 image: "[[Baang.jpg]]"
 ---
-# Baang
+ # Baang
 
 ![[Baang.jpg]]
 

@@ -1,0 +1,20 @@
+{
+  "title": "Mind flayer",
+  "note_type": "creature",
+  "parameters": {
+    "creature_type": "Aberration",
+    "size": "Medium",
+    "usual_alignment": "Lawful evil",
+    "origin": "Aberrant",
+    "known_locations": [
+      "Far Realm",
+      "The Underdark"
+    ],
+    "appears_in": [],
+    "image": null
+  },
+  "summary": "Mind flayers, also known as illithids, are sadistic aberrations known for their powerful psionic abilities and their horrifying practice of consuming brains. They seek to dominate and control other life forms, often seen as masterminds of sinister schemes across the multiverse.",
+  "source_url": "https://forgottenrealms.fandom.com/wiki/Mind_flayer",
+  "source_name": "Fandom Wiki",
+  "extracted_at": "2025-12-16T20:14:05.258462"
+}

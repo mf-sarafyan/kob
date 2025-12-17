@@ -1,0 +1,4634 @@
+Title: Mind flayer
+Source URL: https://forgottenrealms.fandom.com/wiki/Mind_flayer
+Source Name: Fandom Wiki
+
+================================================================================
+
+Image Candidates (2):
+  1. [infobox] https://static.wikia.nocookie.net/forgottenrealms/images/2/2b/Mind_flayer_-_5E.jpg/revision/latest/scale-to-width-down/268?cb=20200305201225
+  2. [og] https://static.wikia.nocookie.net/forgottenrealms/images/2/2b/Mind_flayer_-_5E.jpg/revision/latest?cb=20200305201225
+
+================================================================================
+Content:
+================================================================================
+
+Mind flayer is a Featured Article! It is one of the best articles created by the Forgotten Realms Wiki community.
+However, if you can update it or think of a way to further improve it, then please feel free to contribute.
+5e
+4e
+3e
+2e
+1e
+Various depictions of the feared illithid.
+Mind Flayer
+(Illithid)
+5e
+4e
+3e
+2e
+1e
+5th Edition Statistics
+[
+1
+]
+[
+2
+]
+Size
+Medium
+Type
+Aberration
+Alignment
+Lawful evil
+Challenge rating
+Mind flayer
+7
+Arcanist
+8
+Psion
+8
+4th Edition Statistics
+[
+3
+]
+Size
+Medium
+Origin
+Aberrant
+Type
+Humanoid
+Alignment
+Evil
+3rd Edition Statistics
+[
+4
+]
+[
+5
+]
+Size
+Medium
+Type
+Aberration
+Subtype(s)
+Psionic
+Alignment
+Usually
+lawful evil
+Challenge rating
+8
+2nd Edition Statistics
+[
+6
+]
+Size
+Medium
+Alignment
+Lawful evil
+1st Edition Statistics
+[
+7
+]
+Size
+Medium
+Alignment
+Lawful evil
+General Information
+Patron deity
+Ilsensine
+[
+2
+]
+[
+8
+]
+Maanzecorian
+[
+2
+]
+[
+8
+]
+Vision
+Darkvision
+[
+1
+]
+[
+4
+]
+Activity cycle
+Any
+[
+6
+]
+Diet
+Brains
+Average lifespan
+125 years
+[
+6
+]
+Homeland(s)
+Far Realm
+[
+9
+]
+The
+Underdark
+[
+1
+]
+Language(s)
+Undercommon
+[
+4
+]
+Deep Speech
+[
+1
+]
+Qualith
+[
+1
+]
+Subraces
+Ulitharid
+Alhoon
+Favored climate
+Any
+[
+6
+]
+Favored terrain
+Underground
+[
+4
+]
+[
+6
+]
+Appearance
+Average height
+6 ft  (1.8 m)
+[
+6
+]
+Average weight
+Same as
+humans
+[
+4
+]
+Skin color(s)
+Mauve
+[
+1
+]
+Eye color(s)
+Solid white
+[
+10
+]
+Distinctions
+Facial tentacles
+History
+First appearance
+Eldritch Wizardry
+Mind flayers
+, also known as
+illithids
+(
+sing
+:
+illithid
+;
+pronounced
+: /
+ɪ
+l
+ˈ
+l
+ɪ
+θ
+ɪ
+d
+/
+il-LITH-id
+[
+11
+]
+listen
+, meaning "mind flayer" or "mind ruler" in
+Undercommon
+[
+12
+]
+), and sometimes referred to as
+ghaik
+by the
+githyanki
+,
+[
+13
+]
+were sadistic
+aberrations
+feared by sentient creatures on many worlds across the
+multiverse
+due to their powerful
+psionic
+abilities.
+[
+1
+]
+From their twisted lairs deep in the
+Underdark
+, these alien entities sought to expand their dominion over all other lifeforms, controlling their minds to use them as obedient thralls.
+[
+2
+]
+They consumed their victims' very personality by extracting and devouring their brains while they were still alive.
+[
+14
+]
+Contents
+1
+Description
+2
+Personality
+3
+Abilities
+4
+Combat
+5
+Society
+5.1
+Goals
+5.2
+Language and Names
+5.3
+Magic
+5.4
+Religion
+5.5
+Art
+5.6
+Relationships
+5.6.1
+Thralls
+6
+Biology
+6.1
+Senses
+6.2
+Diet
+6.3
+Reproduction
+6.4
+Illithid Monsters
+6.5
+Memory
+7
+History
+7.1
+Origins
+7.2
+Recorded History
+8
+Notable Mind Flayers
+9
+Appendix
+9.1
+See Also
+9.2
+Notes
+9.3
+Appearances
+9.3.1
+Adventures
+9.3.2
+Novels & Short Stories
+9.3.3
+Comics
+9.3.4
+Gamebooks
+9.3.5
+Video Games
+9.3.6
+Board Games
+9.3.7
+Card Games
+9.3.8
+Miniatures
+9.3.9
+Organized Play & Licensed Adventures
+9.4
+Gallery
+9.4.1
+Books & Magazine Covers
+9.4.2
+Video Games
+9.5
+Further Reading
+9.6
+External Links
+9.7
+References
+9.8
+Connections
+Description
+[
+]
+In terms of height, weight, and build, mind flayers were roughly comparable to thin
+humans
+, but it was at this point that any external comparison to
+humanoids
+ended.
+[
+4
+]
+[
+14
+]
+[
+15
+]
+A mind flayer's body was, in fact, a gruesome mockery of the humanoid form.
+[
+16
+]
+An illithid's flesh, was soft, supple, moist, and rubbery, resulting in an unmistakable texture easily distinguishable from any other creature by anyone familiar with it.
+[
+4
+]
+[
+15
+]
+[
+17
+]
+[
+18
+]
+Their skin ranged from mauve to greenish-violet in color.
+[
+4
+]
+[
+15
+]
+Mind flayers that were healthy from brain-rich diets
+[
+1
+]
+[
+7
+]
+excreted a thin film of slimy, glistening
+mucus
+that kept in moisture and gave off a faint odor similar to
+onions
+,
+garlic
+, or even
+vanilla
+, although the smell was imperceptible from afar.
+[
+17
+]
+Their blood had a silvery-white color.
+[
+19
+]
+An illithid's bulging, ridged, elongated head
+[
+15
+]
+[
+20
+]
+was reminiscent of an
+octopus
+, with a cluster of four flexible, unsegmented, extendable, purplish-black tentacles surrounding their mouths. The tentacles could range in length from 2​ to ​4 feet (0.61​ to ​1.2 meters), appearing shorter when an illithid was at rest. They writhed and undulated almost constantly and absent-mindedly while the illithid pondered or otherwise was not using them,
+[
+7
+]
+[
+18
+]
+[
+20
+]
+and flexed in anticipation when sentient beings drew close.
+[
+1
+]
+They were also incredibly dexterous, powerful, and could be fully controlled by the mind flayer to perform both fine and strength-based tasks.
+[
+18
+]
+[
+20
+]
+In many apocryphal descriptions and diagrams, mind flayers were portrayed as having beaked mouths, possibly owing to their octopus-like heads.
+[
+20
+]
+In reality, an illithid's mouth was more like that of a
+lamprey
+, with a circular, jawless orifice ringed by several rows of small, rasping teeth.
+[
+15
+]
+[
+17
+]
+[
+18
+]
+The tentacles hung above and around their mouths
+[
+17
+]
+[
+18
+]
+and an oily slime constantly dripped out of their maws.
+[
+4
+]
+Illithids did not possess exterior ears, rather hosting small, fleshy, ridged holes on both sides of their heads,
+[
+20
+]
+nor did they have nostrils.
+[
+17
+]
+Their eyes, sheltered by brow ridges, were uniformly pale and devoid of pupils
+[
+18
+]
+in addition to being bloated and featureless, similar to those of blind
+cave fish
+.
+[
+4
+]
+[
+20
+]
+Illithid hands were long, slender, and lacked an index finger, but were otherwise similar to those of normal humanoid creatures. The remaining fingers and opposable thumb were red to mauve in coloration, and their nails were thick and black. Though illithid nails seemed dangerous, they were actually blunt and composed of soft cartilage, and so had little hope of being effective weapons. Illithid feet were webbed and had only two toes, which were also nailed and could flex widely apart, as if to assist in swimming.
+[
+7
+]
+[
+17
+]
+[
+18
+]
+Illithids were known to dress in dramatic flowing robes and cloaks.
+[
+15
+]
+They were rarely seen without distinctively two-lobed boots, which concealed their webbed feet.
+[
+17
+]
+They often wore high, flaring collars, dark hats, and various other pieces of ornamentation.
+[
+15
+]
+Personality
+[
+]
+Mind flayers had utterly alien thought processes and enigmatic objectives.
+[
+14
+]
+They saw themselves as masterminds that twisted others into serving their own sinister and far-reaching schemes.
+[
+1
+]
+[
+16
+]
+While some individuals could show extreme variance in mindset, the majority shared many common beliefs and precepts.
+[
+21
+]
+Illithids were megalomaniacal in the extreme, tyrants driven by an immense ambition
+[
+16
+]
+and intrinsically ruled by an overwhelming sense of self-importance.
+[
+22
+]
+The mind flayers sought nothing less than world domination,
+[
+16
+]
+knew their destiny was mastery over the universe,
+[
+22
+]
+and the ultimate prize they yearned for was complete dominion over all the
+planes
+of existence, with the power to reshape reality and all within it to fit their otherworldly designs.
+[
+16
+]
+However, mind flayers did not believe themselves to be horrifying monsters.
+[
+21
+]
+In the minds of the illithids, their kind acted as agents of "Order", forces of law tasked with taming a chaotic and unguided universe. They saw the various races in its confines as potential thralls with no supervision, living out aimless existences and working with no direction. In this role as multiversal caretakers, the mind flayers constantly worked for what they saw as the betterment of the cosmos, asserting their ultimate control to provide the restoration of order that only their superior species could bestow to all the multiverse.
+[
+21
+]
+[
+23
+]
+The mind flayers strongly believed in their manifest destiny, and viewed the task of bringing the multiverse to heel as one of great importance. The illithids instructed all who questioned this view to look at the biological facts, how they stood at the top of the food chain and how all others naturally fell beneath them.
+[
+23
+]
+While the illithids recognized that other creatures resisted their control, they perceived this as a natural result of reality's current state, the unknowing thralls within not knowing any better than to fight their masters.
+[
+24
+]
+“
+Oh, most delicious morsel, perceive my appreciation of your unique gifts: Your brow―exquisite in its simple symmetry―is shapely, hinting at the delicacies contained therein. It is merely the wrapping, a fragile package concealing tangy treasure. Snuggled close, warm and moist beneath pale bone, fatty coils of succulent gray meat quiver to be plucked, to be exposed for the appreciation of all, before inevitable, ardent consumption… Ah, that hits the spot.
+”
+— A mental quote from a mind flayer.
+[
+25
+]
+Utterly arrogant, mind flayers were elitists who believed all creatures to be inferior to themselves, livestock fit to fulfill only three purposes: to die as their food, work as their slaves, or serve as vessels for more of their kind.
+[
+6
+]
+[
+16
+]
+Even so, the mind flayers did feel a sense of gratitude towards lesser beings. In truth, they truly appreciated the "gifts" of those they feasted upon, and sincerely felt that they were giving their livestock a gift of their own when they consumed their brains.
+[
+21
+]
+The illithids had to dominate not only to achieve their goals, but to fulfill certain basic needs of their own. Without a mind to control, a mind flayer would feel incomplete. They actually had an intimate relationship with their own thralls, suffering when they died (whether by sickness, age, or physical harm) and sometimes going mad from loneliness without their constant companionship. Illithids were known to postpone their other goals just to renew an emptied retinue of thralls
+[
+23
+]
+and every illithid had at least one personal thrall. When they found one they favored, illithids would go out of their way not to eat personal thralls in bouts of hunger or anger, and might even grant them toys and trinkets to occupy themselves with when not working.
+[
+26
+]
+Individuality
+While almost every illithid sought the dominion of their race, each was an incredibly intelligent, individual entity with different ideas on how to make that happen.
+[
+2
+]
+[
+27
+]
+Some would do so with military might, creating grand thrall armies to conquer the world, while others sought to use their psionics to create powerful magic items to use in their quest. Their intentions in given situations could seem bizarre, sometimes to the point of being incomprehensible, but almost every action taken was meant, in some way, to help them achieve their racial supremacy.
+[
+27
+]
+Despite their emphasis on order, mind flayers were actually incredibly competitive, as well as individualistic, to the point where they seemed hesitant to work as a team. However, while competitiveness was common, this personal desire for success served to enhance the group overall. Each mind flayer recognized that, in order to contribute to their collective intelligence, every member of the community had to obtain as much wisdom and experience as possible. When the individual failed, the community would put aside their ambitions for the greater "good".
+[
+21
+]
+[
+28
+]
+A mind flayer's natural desire to compete, combined with their high levels of intelligence, meant that they were incredibly innovative beings able to come up with unique solutions to their problems. Whether using psionics,
+alchemy
+, magic, mundane technology, or some combination of the four, they were creatures of immense creativity and cunning constantly spurred on to reach new heights of individual achievement.
+[
+28
+]
+[
+29
+]
+Knowledge
+“
+Being as intelligent as they are, endowed with psionic powers, and as physically weak as they are, the illithids believe that the mind is everything and all-important... They consume that which is important to them.
+”
+— A
+githyanki
+on the mind flayers.
+[
+10
+]
+Most illithids understood that knowledge equaled power,
+[
+8
+]
+basing their existence on vast volumes of shared information,
+[
+30
+]
+and so the mind flayers sought to expand their knowledge in all fields.
+[
+22
+]
+They used varied methods to obtain information, always sourcing, verifying, and cross-checking acquired knowledge, for they understood better than any how personal perception and interpretation could twist the truth.
+[
+31
+]
+In their thirst for knowledge, illithids bargained, collected, interrogated, spied, stole, and plundered, obtaining their information from abandoned crypts, enemy storehouses, captive minds, wandering traders, and unwitting pawns. Through these activities they collected arcane secrets, forgotten lore, recent news, supernatural discoveries, and items of power.
+[
+16
+]
+[
+31
+]
+[
+32
+]
+Different illithids placed varying values on certain pieces of information; some believed that there was nothing to be learned from lesser beings, while others thought that all information was valuable.
+[
+2
+]
+Illithids had a unique understanding of time in that they only believed that the present mattered. The past was an environment for the eidetic
+elder brain
+, a living record who shifted through a colony's collective memory for information relevant to current circumstance. This disregard for the past could become a circular issue; illithids did not care for the past, and so kept no written historical records of their empires or communities, and their lack of hard records made them more indifferent towards the past.
+[
+23
+]
+Illithids also had a different concept of the "future" viewing it simply as an inevitable but unrealized part of the present.
+[
+23
+]
+However, illithids did not believe the future (and therefore their destiny) was set in stone. For example, they recognized that it was possible for their race to die out, which would alter the future, and so complacency was not an option. Only by collecting more knowledge could the illithids accurately predict the future, and thus fulfill their destiny.
+[
+22
+]
+Emotions
+To non-illithids, mind flayers seemed calm and collected at almost all times, dispassionate and seemingly emotionless outside of their constant desire to dominate others.
+[
+23
+]
+[
+33
+]
+They dismissed basal emotions like pride as fatal flaws and founded themselves on a pragmatic outlook.
+[
+30
+]
+While they might occasionally seem furious, it was difficult to discern if this was actual feeling or a ruse to manipulate others. Theories on this ranged from the belief that the mind flayers had no emotions, very few, or extreme levels of self-control, but all of these were incorrect. In truth, illithids had a whole spectrum of emotions and felt them intensely,
+[
+23
+]
+[
+33
+]
+sometimes even behaving irrationally because of them,
+[
+30
+]
+but these feelings were almost entirely internalized and not evident even during moments of raging inner turmoil.
+[
+33
+]
+Mind flayer conclave.
+However, while mind flayers did indeed have a range of emotions, these emotions were almost entirely negative. They felt anger and hate when foiled and stymied in their ascent to sovereignty,
+[
+23
+]
+[
+33
+]
+fear when faced with hostile minds they could not control, shame when incapable of controlling minds,
+[
+23
+]
+[
+24
+]
+envy towards vast knowledge that was not their own,
+[
+22
+]
+abhorrence towards a wasteful use of thralls,
+[
+34
+]
+disgust for those that would engage with lesser beings on an equal basis, and sadness when a compatriot died far from home. These emotions, and related feelings such as anxiety and contempt, made up most of an illithid's emotional repertoire.
+[
+23
+]
+[
+33
+]
+The most commonly experienced illithid emotion was frustration, discontentment rooted in the fact that they had not yet achieved dominion, and this dissatisfaction was a subtle, undercurrent that constantly defined them and colored their other emotions and thoughts.
+[
+23
+]
+The same principle of underlying negativity could be found in the illithids overall; mind flayers had no sense of true happiness, and so did not plan to become happy.
+[
+33
+]
+The closest most illithids came to being happy was the delight of consuming a brain, but even then the act had such sadistic overtones that it still wouldn't be "happiness" as normally defined. A mind flayer's highest emotional state was that of self-satisfaction, whether that be from a personal sense of pride or the satiation of their curiosity, and it was this that motivated their behavior.
+[
+33
+]
+They sought to live in luxury, to feast on the minds of well-bred thralls and master their psionic birthright.
+[
+27
+]
+Love, or even friendship outside of acquaintances, was almost unheard of, for they had supernatural means of filling these emotional voids.
+[
+35
+]
+Morality
+Overall, the illithids were cold and calculating creatures
+[
+32
+]
+rarely matched in cruelty and wholly evil.
+[
+4
+]
+[
+14
+]
+They were known to inflict pain on captives purely for amusement and force others to participate in various gladiatorial games.
+[
+6
+]
+If an illithid ever treated a member of another race as an equal, it was in all likelihood feigning friendship for its own purposes. They might behave respectfully (though never deferentially) when it suited them, but each had the instinctive knowledge that the other party would serve better as a thrall at best or meal at worst,
+[
+22
+]
+[
+25
+]
+and chances were that by the time an alliance was formed they had already decided how and when to betray the new partner.
+[
+16
+]
+Furthermore, a major factor holding back the mind flayers and blocking their attempts at world domination were their own inherent, self-serving attitudes.
+[
+27
+]
+Few illithids truly perceived anything, whether cause or companion, worth dying over,
+[
+32
+]
+and they would rarely put their own lives at risk. Each illithid viewed its own life as supremely important and invaluable,
+[
+16
+]
+and the most minor setbacks were often enough to drive the unreliable aberrations to retreat in the interest of self-preservation.
+[
+27
+]
+[
+32
+]
+Despite the myriad of inherent desires and inclinations that would prevent such a thing, (their dietary requirements if nothing else) it was possible for mind flayers to move away from evil. Most were simply incapable of true good, but on occasion, it was possible for an exceptional individual to change their ways to become morally
+neutral
+, and in extreme cases,
+good
+.
+[
+32
+]
+Some were known to question the necessity of dominating the weak and devouring brains,
+[
+36
+]
+but those in a community who would deny the maxim of dominion were quickly rooted out and would be killed if discovered.
+[
+23
+]
+Abilities
+[
+]
+A mind blast.
+In spite of their lack of physical abilities, mind flayers were feared by all beings in the Underdark because of their great mental prowess. In addition to the small array of
+mind-affecting spells
+that every illithid had at its disposal to take control of its prey, they also frequently employed a powerful
+mind blast
+to affect a multitude of foes. The mind flayer's
+mind blast
+was a 60‑foot (18‑meter) cone that stunned anyone caught within it.
+[
+1
+]
+[
+4
+]
+Their abundant psionic powers allowed them to
+levitate
+at will, as well as to
+detect the thoughts
+of nearby creatures and to
+dominate
+or
+charm
+any kind of creature in their vicinity. Additionally, there were reports of mind flayers capable of controlling others by power of
+suggestion
+.
+[
+1
+]
+[
+4
+]
+They were also capable of teleporting themselves to other planes of existence by
+plane shifting
+.
+[
+1
+]
+Some illithids dedicated themselves to studying and honing their innate abilities. Known as
+illithid psions
+, they were capable of even more remarkable feats of psionic power, including telekinetic abilities akin to
+mage hand
+and
+telekinesis
+; further mental control abilities such as
+charm person
+,
+command
+,
+sanctuary
+,
+fear
+,
+crown of madness
+,
+phantasmal force
+, and
+confusion
+; and even
+divination
+abilities such as
+guidance
+,
+true strike
+,
+see invisibility
+,
+clairvoyance
+, and
+scrying
+.
+[
+2
+]
+Combat
+[
+]
+Normally, a mind flayer would use its
+mind blast
+ability to stun a few foes and then drag them away to feed. Once it had its victims, it would attach all of its tentacles to the head of one of its prey. Then, the mind flayer sucked out the brain, instantly killing the creature, as long as it only had one head. Mind flayers mainly used their other spells to enslave their minions and keep them under total control, but they were also used on the battlefield.
+[
+1
+]
+[
+4
+]
+Society
+[
+]
+An illithid oversees the transport of an elder brain by quaggoth slaves.
+Individual mind flayers were rarely found alone; rather, they were usually accompanied by two or more slaves mentally bound to them. Typical enslaved races found among mind flayers included
+grimlocks
+,
+ogres
+,
+quaggoths
+, and
+troglodytes
+.
+[
+1
+]
+[
+4
+]
+These enslaved species had in common the fact that they were not typically considered edible by the illithids.
+[
+10
+]
+Mind flayer communities (also called "colonies") typically ranged in size from two hundred to two thousand, and that was counting only the illithids. Each mind flayer in the community likely had at least two slaves to do its bidding. In these communities, the number of slaves often far outstripped the number of mind flayers.
+[
+37
+]
+For example, the illithid city of
+Oryndoll
+had a total population of just under 24,000 as of
+1372 DR
+, but mind flayers accounted for only about 4,300 of that number.
+[
+38
+]
+“
+One mind flayer sees ye, and they all see.
+One mind. One nasty, suspicious mind.
+”
+—
+Elminster
+[
+2
+]
+Mind flayer colonies operated as a single hive mind, with control centralized by an
+elder brain
+, a singular entity that exerted its telepathic control simultaneously over all mind flayers within a radius of 5 miles  (8 kilometers).
+[
+1
+]
+The elder brain was the heart of the community. Held in a pool of briny fluids, the elder brain consisted of all the brains of the dead mind flayers in the colony.
+[
+4
+]
+It served as the center of the communication network, relaying information received from one mind flayer to the entire colony, storing all the collective knowledge of the colony, and issuing commands to individual mind flayers. The degree of control and organization exerted by the elder brain over a mind flayer community was so absolute that it was more convenient to think of a mind flayer colony as a single individual: the elder brain.
+[
+2
+]
+Although mind flayers willingly came together to achieve an end, they were always vying for more control in the community, but even then they were always beneath the elder brain.
+[
+4
+]
+While individual mind flayers might have, at one time in their past, retained a certain degree of independent thought, after the collapse of the illithids' empires it was generally agreed upon by them that their survival required complete obedience to the elder brain.
+[
+2
+]
+Within the colonies, mind flayers organized themselves in ideological factions known as
+Creeds
+, which aligned with each particular illithid's abilities and philosophy. Representatives of the various Creeds organized themselves in
+Elder Concords
+, which, under the auspices of the elder brain, coordinated the colony's various activities. In cases when multiple colonies pursued common objectives, a "Grand Elder Concord" was formed.
+[
+39
+]
+“
+Please, hold. I understand your rage against my kin. One of my brethren forced a tadpole into your eye. Or ear, perhaps. But I assure you, I stand with the
+Society of Brilliance
+, not the colonies of my people. I ask only that you refrain from violence. I respect that your opinion of my kind may be… charged.
+”
+—
+Omeluum
+, renegade mind flayer.
+[
+40
+]
+When problems arose or the mind flayers wished to discover some secret, they formed "inquisitions", a team of mind flayers, not unlike an adventuring party. Each mind flayer used its own talents and abilities to achieve the inquisition's goal. If a situation was too large for just an inquisition to handle, the mind flayer community put together a "cult". A cult was much larger than an inquisition and was spearheaded by two mind flayers who constantly vied for greater power within it.
+[
+4
+]
+This type of mission, which put mind flayers temporarily out of reach from the elder brain, was regarded as dangerous but highly profitable if successful.
+[
+2
+]
+If a mind flayer remained out of reach from its elder brain, it was possible for it to reacquire its free will. These so-called
+renegade illithids
+could go on to establish their own colonies or, free from the elder brain's arrogant supremacy, even seek cooperation with other species. This new personality and any alliances that were made instantly vanished as soon as the renegade illithid fell back under control of an elder brain.
+[
+2
+]
+Goals
+[
+]
+“
+To put out the myriad suns―to darken the light.
+”
+— The illithid race-wide resolution
+[
+41
+]
+Due to their hatred of the sun, a few elder brains secretly worked toward the goal of extinguishing all of them, but most mind flayer communities focused on finding ways to comfortably operate under sunlight.
+[
+23
+]
+[
+42
+]
+Beyond their aversion to sunlight, Mind Flayers held a broader, more sinister objective known as the
+Grand Design
+. This philosophy involved the re-establishment of their once-vast
+Illithid Empire
+, aiming for order, perfection, and unity across every plane, with every being in their assigned place. This involved reasserting control over former dominions, including enslaving or eliminating all gith as well as other humanoids who had once fallen under their sway.
+[
+13
+]
+Language and Names
+[
+]
+Illithids were capable of speaking
+Undercommon
+and
+Deep Speech
+but preferred telepathic communication.
+[
+1
+]
+[
+4
+]
+They also had a form of written language called
+Qualith
+, which consisted of patterns of four lines imbued with psionic energy, capable of conveying not only text but also the author's thoughts. Without the use of magic, it could only be read by other illithids.
+[
+1
+]
+[
+2
+]
+Mind flayer names were strains of thoughts and images that identified them to other members of the race. Since these names were too complex to be pronounced or even expressed in words, other races of the
+Underdark
+adopted rough translations in
+Undercommon
+by usually combining descriptive words that conveyed the general idea of the mind flayers' original names in order to identify them.
+[
+12
+]
+Sometimes, the illithids themselves chose to adopt pronounceable names for the benefit of their thralls or to instill fear in their enemies.
+[
+2
+]
+Magic
+[
+]
+A mind flayer sorcerer.
+Mind flayers considered
+arcane
+magic
+an abomination. They viewed it as an inferior and corrupt form of psionic power that should disappear from the universe once the illithids regained control of it. It was speculated that this hatred was related to the role of magic in the gith rebellion.
+[
+2
+]
+Arcane magic was especially sought out by renegade illithids looking for ways to shield themselves from the elder brain's influence.
+[
+2
+]
+Although most mind flayer
+arcanists
+were
+wizards
+, a few were also born with the gift of
+sorcery
+. Because a mind flayer sorcerer was naturally more intelligent than other mind flayers, it was better able to resist psionics. For the most part, an illithid with the gift of sorcery would use defensive spells such as
+greater invisibility
+and
+resist energy
+, as well as spells to further hinder enemies, such as
+ray of exhaustion
+and
+touch of idiocy
+.
+[
+4
+]
+Mind flayers were capable of channeling their psionic abilities to craft their own version of
+magic items
+. As a security measure, these items could only be used by the illithids or their thralls. They had a variety of abilities and applications, such as the
+survival mantle
+, which allowed the wearer to breathe in a vacuum, or
+mind carapace armors
+, which protected the wearer's mind as well as its body.
+[
+2
+]
+They also had the ability to craft
+psionic seals
+, a type of brand that granted its wearer a variety of abilities.
+[
+43
+]
+Other items included
+mind blades
+,
+shields of far sight
+,
+[
+2
+]
+psychic swords
+,
+psychic reservoirs
+,
+resonance stones
+,
+tentacle extensions
+,
+gauntlets of Tyla'zhus
+,
+tessadyle robes
+and
+tendril rings of Ilsensine
+.
+[
+43
+]
+Some illithids also experimented with
+symbiont
+creatures in order to create living carapaces of armor.
+[
+44
+]
+A
+nautiloid
+spelljammer
+, used by mind flayers to travel through the
+Material
+and
+Astral
+planes.
+A rare and most treasured item in a mind flayer colony was a flying ship known as a
+nautiloid
+.
+[
+2
+]
+Mind flayers once had a massive presence in space and commanded countless of these
+conch
+-shaped
+spelljammers
+. In fact, spacefaring mind flayers were sometimes quite different from their land-bound counterparts and acted more as traders than conquerors.
+[
+43
+]
+[
+45
+]
+However, incessant hunting by the gith and the fact that mind flayers lost the means to build them or acquire them from
+the arcane
+caused them to almost disappear.
+[
+2
+]
+[
+46
+]
+Religion
+[
+]
+As a race of planar travelers, mind flayers did not worship entities from the
+Outer Planes
+as deities and did not share the same mythical thoughts about the
+afterlife
+.
+[
+47
+]
+[
+2
+]
+Furthermore, the illithids did not believe they possessed souls that were controlled by the gods after death, as their intelligence continued in the elder brain.
+[
+2
+]
+Nevertheless, they could still become
+petitioners
+serving Ilsensine in the
+Caverns of Thought
+, acting much the same as their living counterparts.
+[
+48
+]
+but their disinterest in such a conception of life after death made such petitioners rare.
+[
+8
+]
+These souls most likely initially belonged to the tadpole that created the mind flayer,
+[
+speculation
+]
+as the host's original soul was either sent to the
+Fugue Plane
+or destroyed completely after the process of
+ceremorphosis
+was complete. In fact, the former Lord of the Dead
+Jergal
+, and also
+Mystra
+, stated that the souls of mortals disappeared after they became mind flayers. However, Jergal also noted that those illithids who retained much of their original personality did seem to possess a soul.
+[
+13
+]
+A mind flayer placing the brain of a slain comrade in a funerary jar.
+Instead, even when aware of the option of serving in the afterlife, the last desire of most illithids upon death
+[
+49
+]
+was to be rejoined with its elder brain, thus attaining a form of immortality by having its life experiences merged into the elder brain's consciousness. Elaborate funerary jars, also known as
+brain canisters
+,
+[
+47
+]
+with the individual's biography inscribed in Qualith were commonly used by mind flayer colonies to preserve a dead mind flayer's brain until it was consumed by the elder brain.
+[
+2
+]
+Gods
+Like other races, the illithids claimed to have deities of their own.
+[
+8
+]
+[
+22
+]
+These revered beings were not deities
+per se
+, yet nonetheless divine entities capable of granting
+divine
+powers to their followers, even non-illithid ones.
+[
+2
+]
+[
+49
+]
+However, like the promise of an afterlife, this did not hold as much allure for the mind flayers as it did to other races. Channeling the power of another being, even one as supreme as a deity, did not seem to interest the illithids as much as developing their personal psionics.
+[
+8
+]
+Furthermore, these beings were not worshiped in the same sense other races knew it.
+[
+8
+]
+[
+22
+]
+Rather than the orthodox way, mind flayers revered two beings as manifestations of idealized mental states, both psionic and philosophical, doing so in a form resembling worship, including meditating and performing certain physical actions to help them achieve the desired attitudes.
+[
+2
+]
+[
+49
+]
+When it came to true worship however, mind flayers were simply incapable, for while they might revere deities (perhaps because they believed they were worthy of worship or even just for personal gain) their innate egos prevented them from going beyond this.
+[
+8
+]
+[
+22
+]
+The broader entity was known as
+Ilsensine
+, which embodied a mastery of one's own mind and a union with universal knowledge. Mind flayer colonies interpreted this concept in different ways.
+[
+2
+]
+Some viewed it as a promise of power and domination to its followers, a feature that was also attractive to non-illithid followers.
+[
+49
+]
+Others interpreted these objectives as attainable through dominance or replacement of the deities associated with
+knowledge
+.
+[
+2
+]
+The influence of Ilsensine was important in the conflict between mind flayers of
+Oryndoll
+and the duergar. In the time when they had invaded the
+shield dwarf
+kingdom of
+Shanatar
+and captured many shield dwarves, the mind flayers had no gods. However, when the dwarves began to stage uprisings and rebellions, the city was plunged into chaos. The only reason it did not fall to the duergar rebellions was because of the sudden appearance of the mind flayer god Ilsensine. Since Ilsensine's appearance, the mind flayers became deeply religious and began to develop formidable psionic powers.
+[
+50
+]
+Ilsensine's favored
+proxy
+was
+Lugribossk
+.
+[
+51
+]
+A smaller sect of mind flayers revered another entity called
+Maanzecorian
+. It embodied a complete comprehension of knowledge and the simultaneous access to memory, thought, and aptitude.
+[
+2
+]
+It was also viewed by the illithids as a keeper of secrets. Its essence was killed by
+Tenebrous
+, the undead shadow of the
+demon lord
+Orcus
+sometime in the mid-14
+th
+century
+DR
+,
+[
+52
+]
+though this fact was unknown to most at the time.
+[
+53
+]
+However, in the late 15
+th
+century DR, mind flayer colonies dedicated to Maanzecorian were again common.
+[
+2
+]
+Some mind flayers viewed the perfect memory of the
+aboleths
+as a manifestation of Maanzecorian, which led to several conflicts between them.
+[
+2
+]
+Art
+[
+]
+Mind flayer art focused on intricate geometric patterns and tessellations that expressed powerful emotions when viewed by most illithids.
+[
+54
+]
+They could also see the beauty in
+gold
+,
+silver
+, and other types of treasure.
+[
+34
+]
+Relationships
+[
+]
+Their natural psionic abilities made mind flayers respected in the eyes of the
+beholders
+,
+drow
+,
+duergar
+, and other dominant races of the Underdark.
+[
+32
+]
+However, despite their aggressiveness, illithids were ultimately a paranoid and fearful race. They were relentlessly hunted by the
+gith
+, so any mind flayer colony's first priority was concealment and survival.
+[
+2
+]
+Gith and other creatures that devoted their lives to the eradication of illithids and illithid-kin were known as
+illithid slayers
+.
+[
+55
+]
+Thralls
+[
+]
+Sometimes an illithid colony would convert a humanoid creature into an obedient thrall. Creating the thrall was no small undertaking. It was a process that required the focus and effort of the entire colony. The effort itself was a two-step process: the victim was first rendered docile and mindless, then it was filled with the skills and personality to meet the needs of the colony.
+[
+56
+]
+While one mind flayer focused on creating the thrall itself, the other illithids in the colony were required to focus their full attention on donating their psionic powers to the transformation. First, the potential thrall was calmed using psionic energy. Then, over the course of a day, the mind flayer would bombard the thrall-to-be with a low-powered version of their mind blast. The resulting energy would wash away its personality and leave a mostly empty shell.
+[
+56
+]
+When the victim was ready, the mind flayers replaced the thrall's personality, alignment and skills. A few colonies were so talented at creating thralls that they could retain or even implant new psionic abilities in the resulting thrall. Other colonies were adept at leaving the thrall's persona intact while augmenting it with a unyielding fanaticism to the colony and its elder brain, sometimes granting it the ability to communicate telepathically. Given their ability to mimic their former selves, such thralls were often used as spies.
+[
+56
+]
+Thralls could be restored to their former selves by using a combination of arcane and divine magic. This process lasted three consecutive days and required a daily casting of regeneration, heal and greater restoration, after which the victim was restored to normal.
+[
+56
+]
+Humanoid thralls were highly valuable to the colony as they contained an ideal combination of preferred anatomy and physical attributes. Beasts and other animals were considered less useful as they could not wield tools and required near-constant oversight. Mind flayers preferred
+duergar
+,
+grimlocks
+,
+kuo-toa
+, and
+quaggoths
+the most, although they would settle for any humanoid and considered the rest largely interchangeable. The most rare thralls were kobolds, goblins, gnomes and other small humanoids, as they were mostly seen as as a source of food.
+[
+56
+]
+Biology
+[
+]
+The skull of a mind flayer.
+Mind flayers were both warm-blooded and amphibious.
+[
+6
+]
+Senses
+[
+]
+The mind flayer nervous system was unique in that every nerve had a direct connection to the brain, meaning that a mind flayer's entire body was an extension of its brain, granting mind flayers an incredible awareness of their physical condition.
+[
+18
+]
+Mind flayer eyes were extremely sensitive to bright light, and they considered it painful, a characteristic that some
+githyanki
+scholars attributed to the fact that their alien anatomy focused light in a strange way.
+[
+10
+]
+In fact, their eyes were more sensitive to
+infravision
+than to visible light,
+[
+20
+]
+so that the entirety of their visual acuity was through
+darkvision
+,
+[
+18
+]
+[
+note 1
+]
+and they could see two additional colors in the spectrum beyond the color red.
+[
+57
+]
+However, their visual acuity decreased as ambient light increased, as their white sclera became increasingly opaque. In total darkness or under starlight, a mind flayer could see clearly as far out as 480 feet  (150 meters), but under direct sunlight that infravisual range decreased to just 15 feet  (4.6 meters).
+[
+20
+]
+[
+23
+]
+Mind flayer vision was also more sensitive to the recognition of geometric patterns than that of other humanoids.
+[
+58
+]
+While it did not actually harm them, illithids absolutely despised sunlight, avoiding it at all costs.
+[
+59
+]
+They required only the heat created by the geothermic processes of planets to survive.
+[
+23
+]
+Most mind flayers could not imagine living in the sun without some form of protection. from the desiccating effect it had on their skins to the clouding of their vision, and the mere thought of being immersed in sunlight was as horrifying to them as drowning in blood would be to a human.
+[
+23
+]
+[
+42
+]
+Illithid hearing was a little less acute than that of humans due to their lack of exterior ears. Their rigid auditory canals collected sound over a wide surface area, and they were relatively good at discerning the direction of sounds, but they were lacking in overall hearing and the ability to separate and recognize individual components of given sounds. Illithids also lacked noses, and in fact had no olfactory capacity whatsoever.
+[
+20
+]
+[
+18
+]
+Diet
+[
+]
+A polite illithid having an adventurer for dinner.
+The sustenance of mind flayers were the brains of other creatures, mainly those of
+humanoids
+. Only brain tissue provided the required combination of the three essential components needed to sustain the mind flayer physiology: hormones, enzymes, and psychic energy.
+[
+1
+]
+Mind flayers also ate other foods
+[
+18
+]
+(in addition to requiring water),
+[
+60
+]
+most of which contained the critical enzymes and hormones they needed, with internal organs being good sources and high on the illithid menu.
+[
+18
+]
+While certain essential biochemicals and hormones could only be found in brain matter, illithids ate brains more so for the psychic quotient of sentient gray matter than the physical nutrients.
+[
+61
+]
+Their all-encompassing neurology granted them a unique digestive system, one that was, in a sense, cognitive and self-aware, allowing them to extract more than nourishment from their food.
+[
+18
+]
+Stray memories were acquired from a mind flayer's prey, which they shared with the other members of their colony. As a result of their parasitic nature, traces of the victim's individuality were also retained by a mind flayer. While this did nothing to hamper their intelligence, it did influence their sense of culture and aesthetic preferences, ranging from their desired modes of architecture to their senses of style and decoration. Two communities might focus on or neglect entire areas of design based on their diet.
+[
+2
+]
+Psionic energy was extracted from the brain by an illithid in the victim's last moments of activity.
+[
+2
+]
+The psychic essence freed from brains was nourishing in a way far more efficient and potent than flesh could be alone, metaphysically reenergizing their metabolism so well that only one intelligent brain was needed per month for them to remain healthy.
+[
+61
+]
+Without this minimum requirement met, a mind flayer would slowly suffer physical debilitation and grow so weak that they would die in four months. Ideally they would eat a brain a week so as not to feel deprived, but most mind flayers fell between the two and ate brains about once every two weeks.
+[
+61
+]
+[
+59
+]
+It was common for illithids to supplement their diets with other sources, by snacking on the brains of certain creatures they considered to be delicacies. Still, without the minimum essential brainpower, a mind flayer would slowly waste away. It was possible, although extremely rare, for a mind flayer to restrict its feeding by only consuming the brains of sufficiently intelligent lifeforms. A few animals that demonstrated extraordinary intelligence, such as exceptional
+cats
+,
+dogs
+, or
+bears
+, for example, sometimes had the psychic quotient required to properly nourish a mind flayer.
+[
+32
+]
+[
+61
+]
+Tastes
+A mind flayer eating.
+Despite being capable of doing so, a mind flayer that limited itself to such a restricted diet was rare.
+[
+32
+]
+Mind flayers savored the minds they consumed,
+[
+59
+]
+and the brains of thinking beings were preferable to those of lesser lifeforms.
+[
+6
+]
+Experiences and emotions were the part that made the meal truly fulfilling, and the intelligence and imagination of the victim were a key factor in how highly rated a brain was. Various other elements influenced the flavor of a brain: a sense of great self-importance gave brains a pleasing tanginess,
+[
+59
+]
+those afflicted with demonic madness were more succulent than sane ones,
+[
+62
+]
+and active, magic-filled, and experienced minds were among the tastiest of all.
+[
+34
+]
+[
+59
+]
+For these reasons, mind flayers had preferences for specific types of brains. For example, free individuals were more satisfying than thralls, with the thrilling lives of adventurers ranking their brains highly.
+Troglodytes
+, meanwhile, were considered absolutely terrible, to be consumed only in matters of life and death. Since creatures like goblins and hobgoblins reached "ripeness" faster than other races, they sometimes became staple foods, but were only eaten as a matter of necessity due to their lacking brainpower and creativity.
+[
+59
+]
+Also avoided as food were the thick-skinned
+beholders
+, those diseased with
+lycanthropy
+, practically brainless beings like
+mites
+, some with natural healing capabilities like
+ogre magi
+, and spiritual entities such as
+devils
+.
+[
+10
+]
+In the Underdark, the sense of grandeur felt by the
+derro
+made them favored foodstuff, while drow,
+deep dwarves
+, and
+deep halflings
+were also highly valued.
+[
+59
+]
+In particular, duergar brains were considered delicacies.
+Kuo-toa
+were also a great treat, although only if eaten raw and untainted by psionic energy, meaning they were eaten immediately upon capture.
+[
+2
+]
+[
+59
+]
+The best hunting ground was the surface, where even creatures like goblins, hobgoblins, orcs, and ogres tasted better than their subterranean counterparts, and where the most prized humans, halflings, elves, and dwarves resided.
+[
+59
+]
+Small humanoids such as
+kobolds
+or
+gnomes
+were more frequently hunted for food than made into thralls, as they gathered in large groups, were easily forced into line by stronger thralls, and were often easier to drive to terror or despair, which made their brains tastier.
+[
+2
+]
+Umber hulks
+and
+xorns
+were infrequently consumed for their exotic nature. The blindness of grimlocks also created an exotic taste,
+[
+2
+]
+but they had scaled hides and a foul taste,
+[
+10
+]
+in addition to having similar drawbacks to goblins and hobgoblins.
+[
+59
+]
+Sprites
+,
+satyrs
+,
+nymphs
+, and similar
+fey
+beings were hard-to-obtain delicacies.
+[
+59
+]
+Some mind flayers also had specific tastes or appetites that deviated from the norm: some enjoyed engendering positive emotions before feeding and some were picky eaters, only feasting if the victim was conscious and aware or only devouring the brains of specific species.
+[
+2
+]
+“
+Brains! Once an illithid gets its first taste of "the other white meat," there's no going back.
+”
+— S. Wakeman
+[
+63
+]
+All exceptions, tendencies, and special conditions notwithstanding, the brains of a large majority of humanoids (bugbears, orcs, and humans) were interchangeable in taste.
+[
+2
+]
+Beyond dietary necessity, illithids consumed brains because doing so was an enjoyable activity.
+[
+59
+]
+Feeding was a euphoric experience for a mind flayer, as it absorbed its victim's memories, personality, and deepest fears.
+[
+1
+]
+If they could afford to eat more than one in a month, or even several in one week, they might choose to do so, obtaining both the pleasurable sensation and a psychic boost.
+[
+61
+]
+[
+59
+]
+All species were mere cattle before the mind flayers,
+[
+6
+]
+and to consume brains was their ultimate act of dominance over another creature.
+[
+10
+]
+Reproduction
+[
+]
+Main article:
+Ceremorphosis
+An illithid tadpole preparing to enter a
+human
+host.
+Illithids were all sexless, without male or female biological sex,
+[
+64
+]
+and once or twice in their life they would lay a clutch of eggs from which tadpoles hatched. The tadpoles were kept in the elder brain tank, where they were fed brains by caretakers and engaged in cannibalism for around ten years.
+[
+6
+]
+The elder brain also fed exclusively on tadpoles. Tadpoles that survived to maturity were put through the ceremony of
+ceremorphosis
+, where each was implanted into a humanoid victim and devoured its brain, taking its place and merging with the body to transform it into a new illithid. Only some humanoid species were suitable hosts for illithid tadpoles.
+[
+2
+]
+[
+6
+]
+[
+65
+]
+The multiplication of mind flayer colonies happened when a tadpole, quite rarely, through ceremorphosis, created a more powerful form known as an
+ulitharid
+(meaning "noble devourer" in Undercommon),
+[
+12
+]
+which was biologically bigger, stronger, and more powerful and cunning than regular mind flayers. They possessed six face tentacles instead of the regular four. Most notably, however, they were not controlled by the elder brain. The appearance of an ulitharid caused a burst of growth in both the colony's size and capabilities. Elder brains grudgingly accepted the appearance of a potential rival, because eventually the ulitharid broke off from the colony. When doing so, it took a few mind flayers with it and sought to establish a new colony in a distant location from the original. Eventually, the ulitharid transformed into a new elder brain.
+[
+2
+]
+[
+66
+]
+A mind flayer with a tadpole and a thrall holding down a
+drow
+for ceremorphosis.
+If, for some reason, a mature tadpole did not undergo the process of ceremorphosis, it became a ravenous predatory creature known as an
+illithocyte
+or, if allowed to grow out of control, a
+neothelid
+. These creatures were considered abhorrent by the illithids and were mercilessly hunted.
+[
+2
+]
+[
+67
+]
+Illithid Monsters
+[
+]
+Mind flayers constantly experimented with transforming other creatures and implanting their tadpoles into different races, producing a large variety of thralls.
+[
+2
+]
+[
+67
+]
+The process of ceremorphosis yielded a new mind flayer only if the tadpole was applied to certain compatible types of humanoids. Normally, attempting ceremorphosis on an incompatible creature resulted in death for both the host and the tadpole.
+[
+68
+]
+However, illithid research showed that it was sometimes possible to perform ceremorphosis even on an incompatible host.
+[
+69
+]
+Creatures that underwent successful ceremorphosis but did not produce mind flayers were referred to as
+ceremorphs
+, or "flayer-kin".
+[
+70
+]
+Some known types of ceremorphs included:
+Ceremorphs
+Original Creature
+Resulting Monster
+Inserting a tadpole into a…
+…produced a…
+Human
+Elf
+(including
+drow
+)
+Githyanki
+Githzerai
+Grimlock
+Gnoll
+Goblinoid
+Orc
+Mind flayer
+[
+65
+]
+[
+68
+]
+or
+Ulitharid
+(rarely)
+[
+71
+]
+Beholder
+Mindwitness
+[
+2
+]
+Chuul
+Uchuulon
+[
+72
+]
+Deep gnome
+Mozgriken
+[
+70
+]
+Dragon
+Brainstealer dragon
+[
+73
+]
+Gnome
+Gnome ceremorph
+(if successful)
+Gnome squidling
+(if not)
+[
+74
+]
+Lizardfolk
+Tzakandi
+[
+70
+]
+Roper
+Urophion
+[
+75
+]
+[
+29
+]
+Brainstealer dragon
+The result of implanting a tadpole in a captured
+dragon
+.
+[
+73
+]
+Gnome ceremorph
+The result of implanting a tadpole into a
+gnome
+; only viable by slightly warping the ceremorphosis process. If unsuccessful, the resulting creature was a
+gnome squidling
+.
+[
+74
+]
+Mindwitness
+The result of implanting a tadpole in a captured
+beholder
+.
+[
+2
+]
+Mozgriken
+The result of a tadpole being inserted into a
+deep gnome
+and then subjected to psychic surgery that channeled energy from the
+Shadowfell
+.
+[
+76
+]
+Tzakandi
+The result of a tadpole being inserted into
+lizardfolk
+.
+[
+69
+]
+Uchuulon
+The result of a
+chuul
+being implanted with a tadpole.
+[
+72
+]
+Urophion
+A
+roper
+that had survived the tadpole implantation process.
+[
+75
+]
+In addition to ceremorphosis, many illithid colonies experimented with altering creatures in a variety of ways to produce new monsters that could serve them. Most such experiments resulted in shapeless abominations, but a few were occasionally successful and produced viable servants.
+[
+77
+]
+Some known illithid-created monsters included:
+Brain golem
+A large humanoid-shaped
+construct
+made entirely of brain tissue. They sprouted from the elder brain to conduct specific tasks or as a defense measure.
+[
+78
+]
+[
+79
+]
+Cranium rat
+Regular
+rats
+bombarded with psionic energy. They could form intelligent swarms that grew smarter as they accumulated experiences.
+[
+80
+]
+Nihiloor
+and its pet intellect devourers.
+Intellect devourer
+Creatures created by subjecting a slave's brain to a ritual that caused it to sprout legs. They were employed as guards or as bait to lure outsiders into a colony. The larval form of an intellect devourer, known as an
+ustilagor
+, was considered a delicacy by mind flayers and was commonly found in
+Oryndoll
+.
+[
+2
+]
+[
+61
+]
+[
+67
+]
+[
+81
+]
+Mind worm
+An aquatic monster that resembled a pale, smaller
+purple worm
+. They were capable of attacking creatures through any reflective surface, even across different
+planes
+.
+[
+82
+]
+Nerve swimmer
+A modification of an immature tadpole. Used by some mind flayer colonies such as Oryndoll as a torture instrument.
+[
+67
+]
+Nyraala golem
+A large partially-humanoid construct that did not require the tissue of the elder brain. They almost rivaled brain golems in power and were more numerous in known illithid cities.
+[
+83
+]
+Oblex
+The result of experimentation with
+oozes
+. They fed on their victims' memories and could assume their shapes and identities.
+[
+84
+]
+There were also creatures thought to have originated in the same world as illithids and related to them in the same way that
+animals
+were akin to humans. These creatures, known as
+illithidae
+, were sometimes found near mind flayer settlements. It was unknown whether they were naturally attracted by the colonies or if they had been domesticated by the mind flayers. Some sages believed that
+gas spores
+had been created by mind flayers as well.
+[
+85
+]
+[
+86
+]
+If mind flayers became
+undead
+, their new forms were also alien and in many ways different from other undead creatures.
+[
+87
+]
+Typical undead mind flayers included:
+Alhoon
+A mind flayer who decided to follow the path of wizardry could achieve a lesser form of
+lichdom
+and become an undead creature known as an
+alhoon
+. It was also possible, although rare, for an extremely powerful mind flayer
+wizard
+to become a true lich, also known as an
+illithilich
+. These terrible beings were so rare that usually people did not make that distinction.
+[
+88
+]
+[
+89
+]
+Vampiric illithid
+A feral undead illithid with
+vampiric
+powers. Its origin was unknown,
+[
+87
+]
+although it's said a tadpole can't usually be implanted in a cold-blooded creature
+[
+29
+]
+thus it could be theorised that vampiric illithids are not originated by implanting a tadpole into a vampire.
+Memory
+[
+]
+Normally illithids retained no memory of their previous existences, but it is not unheard of for them to suffer from "partialism", the incomplete sublimation of a host's mind. Partial personalities typically reveal themselves when an illithid is unaware, such as being dazed or preoccupied, at which point they exhibit behaviors completely at odds with their normal mindset. Usually partial personalities are only small fragments of an illithid's overall minds, and so they manifest only in minor autonomous acts, such as tapping fingers or humming tunes in a way familiar to their body donor, or unconsciously scribing words of the host's native language.
+[
+90
+]
+While partialism normally takes the form of a few random memories, it is possible, if extremely uncommon, for a complete memory complexus capable of individual action to survive the ceremorphosis process. There were no records of these partial personalities being cognizant enough to escape active attempts at destruction, but there was an illithid myth of an entity called the Adversary, an illithid whose partial personality was strong enough to subsume the mind flayer's personality and sought to overthrow illithidkind under the innocent guise of a fellow mind flayer. There was no evidence for the legend, but it was popular as a story to frighten young-adult mind flayers.
+[
+90
+]
+However, one illithid calling itself
+The Emperor
+was somehow able to retain all memories of its previous life, and consequently broke free from the illithid hive mind to pursue its own agenda.
+[
+91
+]
+Partialism is considered a disqualifier for joining with the elder brain, and in most cases an afflicted illithid might not even be aware that it suffers from it. The horror an illithid feels upon discovering it suffers from partialism is everlasting, and they then attempt to remove the affected portions of their brain through psionic surgery, or even cruder methods if need be. To guard against partialism, illithids ruthlessly excise subconscious personality fragments that manifest in any of their kind.
+[
+90
+]
+History
+[
+]
+The illithid race was extremely old and predated recorded history, as ancient texts that did not mention younger races already mentioned illithids. The mind flayers themselves appeared not to have much knowledge of their eldritch origins.
+[
+92
+]
+Origins
+[
+]
+A
+githyanki
+attacking a mind flayer.
+Some sages theorized that mind flayers were aliens from an unimaginably distant future, who had come back in time to prevent their extinction from being brought upon by the end of the universe. By the use of a powerful
+spell
+, they sent their great
+spelljamming
+fleet
+back in time
+, arriving at different time periods in different
+crystal spheres
+and reestablishing their empires. This interpretation was consistent with the fact that
+aboleths
+, even with their perfect racial memories, did not remember the beginnings of the illithid race.
+[
+93
+]
+Others believed that, because of their advanced technology and ships, illithids were a cursed, inbred mutant offspring of humans from an ancient and distant crystal sphere known as
+Clusterspace
+,
+[
+94
+]
+forced to live in the underground depths of their world, honing their mental skills and experimenting with psionic powers for ages until the hate for their oppressors caused them to seek vengeance and set out to conquer the universe.
+[
+95
+]
+Other scholars dismissed the origin myths of illithids as a mutant breed of humans, instead believing that they might have originated in the
+Far Realm
+, (referred to as the "Outside" in the
+Sargonne Prophecies
+,)
+[
+92
+]
+or at least had been warped by it.
+[
+96
+]
+A group of mind flayers who later reached the Far Realm on a nautiloid returned with drastically changed bodies, minds, and goals, worshiping an unknown entity referred to as
+Thoon
+.
+[
+97
+]
+Most origin myths agreed that, an untold number of millennia in their past, mind flayers were the most powerful race in the
+Inner Planes
+, commanding vast empires from the
+Astral
+and
+Ethereal
+planes that spanned multiple worlds, kept under control by their nautiloids.
+[
+2
+]
+[
+92
+]
+The
+Planetreader's Primer
+, a book of ancient lore allegedly published in
+Sigil
+, further stated that the vast mind flayer empire also threatened the boundaries of the
+Outer Planes
+, at some point even disturbing the
+Blood War
+.
+[
+35
+]
+[
+98
+]
+At some point, the gith, their most prominent slave race, rebelled and brought down the entirety of the mind flayer empires in the Astral Plane in less than a year. The surviving mind flayer enclaves in the
+Material Plane
+were constantly and mercilessly hunted down by raiding parties from both the
+githyanki
+and
+githzerai
+factions, bringing the illithid race to the brink of extinction.
+[
+2
+]
+[
+92
+]
+Recorded History
+[
+]
+Sometime around
+−11,000 DR
+, illithid refugees from the planet
+Glyth
+arrived on
+Toril
+and founded the city of
+Oryndoll
+in the
+Underdark
+.
+[
+99
+]
+The dwarves of Clan Duergar succumb to the power of the elder brain of Oryndoll.
+In
+−8100 DR
+, the illithids from
+Oryndoll
+attacked eastern Shanatar, starting the twenty-year long
+Mindstalker Wars
+. The war ended with a retreat of the illithids, but they managed to capture and enslave the dwarves from
+Clan Duergar
+, who were experimented with during the following millennia and eventually became the duergar subrace.
+[
+100
+]
+Around
+−4000 DR
+, the duergar slaves rebelled and broke free from the mind flayers, nearly destroying Oryndoll, which narrowly escaped destruction thanks to the appearance of an avatar of Ilsensine.
+[
+101
+]
+The duergar subsequently founded several holds across the northern Underdark.
+[
+102
+]
+In
+−1850 DR
+, the city of Oryndoll was attacked by the duergar as part of a series of attacks against all their enemies.
+[
+103
+]
+The mind flayers had the first contact with the
+Netherese
+in
+−1064 DR
+.
+[
+104
+]
+In
+153 DR
+, an army of illithids and
+lycanthrope
+slaves invaded and conquered the dwarven city of
+Gauntlgrym
+.
+[
+105
+]
+The ruined city remained disputed by groups of aboleths, duergar, drow, and illithids until it was retaken by the
+Companions of the Hall
+in the late 15
+th
+century
+DR
+.
+[
+106
+]
+In
+1154 DR
+, the town of
+Ch'Chitl
+was founded by an illithid cult seeking to establish a partnership with
+Skullport
+.
+[
+107
+]
+The city's elder brain planned to use the town as a foothold in a move to enslave
+Waterdeep
+. In
+1362 DR
+,
+[
+note 2
+]
+however, the city was attacked by githyanki, who mortally injured the elder brain and derailed their invasion plans.
+[
+108
+]
+[
+109
+]
+[
+110
+]
+In
+1385 DR
+, the city was ravaged by the
+Spellplague
+, which created horribly mutated mind flayers with extraordinary psionic abilities.
+[
+111
+]
+A mind flayer of Thoon pursued very different goals from a regular illithid.
+Sometime in the mid-13
+th
+century DR, the illithids managed to reestablish their domain on Glyth, from where they conducted selective breeding experiments with
+oortlings
+.
+[
+112
+]
+Around that same time, there was also an illithid colony in a free-standing object in
+Realmspace
+known as the
+Skull of the Void
+, in which they performed breeding experiments on
+beholders
+. Decades of consumption of the beholders' brains conferred to the illithid inhabitants and their descendants the ability to levitate.
+[
+113
+]
+These colonies were still known to exist as of the 15
+th
+century.
+[
+114
+]
+During the
+Time of Troubles
+, Oryndoll was once again visited by an avatar of Ilsensine, an event that ushered a large expansion in the city's creeds.
+[
+101
+]
+Shortly afterward, members of the
+Loretaker Creed
+traveled to the
+Caverns of Thought
+in search of Ilsensine but returned as firm followers of Thoon.
+[
+115
+]
+In the late 15
+th
+century DR, mind flayers had lost the knowledge of how to construct their plane-crossing nautiloid vessels. Since the illithids knew that the end of the nautiloids would mean their permanent exile in the Material Plane, a few colonies were dedicated to rediscovering the secrets of nautiloid construction.
+[
+2
+]
+Notable Mind Flayers
+[
+]
+Captain N'ghathrod and the
+miniature giant space hamster
+aboard the
+Scavenger
+.
+Balduran
+, a legendary seafaring trader, explorer, and namesake of the city of
+Baldur's Gate
+. He was later transformed into a mind flayer, but kept Balduran's original humanoid memories, and subsequently renamed itself
+The Emperor
+.
+[
+13
+]
+Omeluum
+, a friendly mind flayer without a colony, who acted as a trader, mycologist, sorcerer, and member of the
+Society of Brilliance
+, it often visited the
+Underdark
+to study mushrooms.
+[
+13
+]
+Galuum
+, an inhabitant of the
+Ryxyg
+enclave sent to enslave duergar in the
+Waydown
+in the late 15
+th
+century DR.
+[
+116
+]
+Gideos
+, leader of the
+Bloodrovers
+, a pirate band from
+Avernus
+.
+[
+117
+]
+Grazilaxx
+, a member of the
+Society of Brilliance
+.
+[
+118
+]
+Methil El-Viddenvelp
+, chief advisor to
+House Baenre
+on matters concerning the borders of
+Menzoberranzan
+.
+[
+119
+]
+Captain
+N'ghathrod
+of the
+Scavenger
+, a space pirate native to Glyth.
+[
+114
+]
+Nihiloor
+, a mind flayer who worked for the
+Xanathar's Thieves' Guild
+. It was fond of creating intellect devourers and setting them loose throughout
+Waterdeep
+.
+[
+120
+]
+Vestress
+, a rogue illithid who served the
+Kraken Society
+as Regent of
+Ascarle
+.
+[
+121
+]
+Yharaskrik
+, a mind flayer involved in the destruction of
+Crenshinibon
+in
+1366 DR
+.
+[
+122
+]
+Xetzirbor
+, an inhabitant of the
+Cyrog
+enclave who journeyed to
+Gravenhollow
+to save the city's elder brain from death in the late 15
+th
+century DR.
+[
+123
+]
+Appendix
+[
+]
+“
+I wonder what a mind flayer's brain tastes like.
+”
+—
+Volo
+[
+124
+]
+See Also
+[
+]
+List of illithid locations
+Notes
+[
+]
+↑
+The Illithiad
+specifically states that mind flayers only see in the infrared and are blind to visible light. However, that is inconsistent with other sources, such as
+Into the Void
+, which states that they can see additional colors besides visible, which seems to indicate that they are capable of some sight in the visible spectrum, albeit with poorer acuity. For example,
+Lords of Madness: The Book of Aberrations
+indicates that they only had visual acuity in darkvision, but does not specifically state blindness to visible light.
+↑
+Canon
+sources are contradictory when describing the year in which a
+githyanki
+raid fatally wounded the
+elder brain
+in control of
+Ch'Chitl
+. Two later sources, including
+The Grand History of the Realms
+, place it in
+1250 DR
+, but three earlier sources place it in
+1362 DR
+. Because this event has repercussions in the history of the
+Unseen
+and
+Waterdeep
+, this wiki will use 1362 DR as the accepted date. You can read the relevant discussions
+here
+and
+here
+.
+Appearances
+[
+]
+“
+Volo, ye are the fool of fools. Illithid brains are
+poisonous
+, and drive humans insane with a flood of memories at every bite. Er, ask me not how I know this.
+”
+—
+Elminster
+[
+124
+]
+Adventures
+City of the Spider Queen
+•
+Out of the Abyss
+•
+Waterdeep: Dragon Heist
+•
+Waterdeep: Dungeon of the Mad Mage
+•
+Icewind Dale: Rime of the Frostmaiden
+Referenced only
+Baldur's Gate: Descent into Avernus
+Novels & Short Stories
+Homeland
+•
+Exile
+•
+Sojourn
+•
+Into the Void
+•
+The Radiant Dragon
+•
+Starless Night
+•
+Siege of Darkness
+•
+Elminster: The Making of a Mage
+•
+Tangled Webs
+•
+Finder's Bane
+•
+The Nether Scroll
+•
+Servant of the Shard
+•
+Windwalker
+•
+Return of the Archwizards
+(
+The Summoning
+,
+The Siege
+,
+The Sorcerer
+)
+•
+The Ghost King
+•
+The Companions
+•
+Night of the Hunter
+•
+Rise of the King
+•
+The Fallbacks: Bound for Ruin
+Referenced only
+The Maelstrom's Eye
+•
+The Paladins
+•
+The Crimson Gold
+•
+The Orc King
+•
+Vengeance of the Iron Dwarf
+•
+Archmage
+Comics
+Infernal Tides
+(
+#1
+,
+#3
+,
+#4
+,
+#5
+) •
+Honor Among Thieves: The Feast of the Moon
+Gamebooks
+To Catch a Thief
+Video Games
+Eye of the Beholder
+•
+Eye of the Beholder II: The Legend of Darkmoon
+•
+Spelljammer: Pirates of Realmspace
+•
+Menzoberranzan
+•
+Descent to Undermountain
+•
+Icewind Dale
+•
+Baldur's Gate series
+(
+The Black Pits
+•
+Siege of Dragonspear
+•
+II: Shadows of Amn
+•
+II: Throne of Bhaal
+•
+Baldur's Gate III
+)
+•
+Neverwinter Nights series
+(
+Hordes of the Underdark
+•
+Tyrants of the Moonsea
+•
+2: Mask of the Betrayer
+)
+•
+Neverwinter
+•
+Sword Coast Legends
+•
+Idle Champions of the Forgotten Realms
+•
+Referenced only
+Neverwinter Nights series
+(
+Darkness over Daggerford
+•
+Neverwinter Nights 2
+)
+Board Games
+Lords of Waterdeep: Scoundrels of Skullport
+•
+Tyrants of the Underdark: Aberrations and Undead
+•
+Waterdeep: Dungeon of the Mad Mage
+•
+Dungeons & Dragons Dice Masters: Trouble in Waterdeep
+•
+Dungeons & Dragons: Bedlam in Neverwinter
+Card Games
+AD&D Trading Cards
+•
+Magic: The Gathering
+(
+AFR
+•
+CLB
+)
+•
+Spellfire
+(
+1st
+•
+2nd
+•
+UD
+)
+Miniatures
+AD&D Miniatures
+•
+Dungeons & Dragons Miniatures
+•
+Icons of the Realms
+Organized Play & Licensed Adventures
+The Occupation of Szith Morcane
+•
+The Malady of Elventree
+•
+Writhing in the Dark
+Referenced only
+The Killing Grounds
+Gallery
+[
+]
+A mind flayer from the
+Monstrous Compendium Volume One
+.
+A 2
+nd
+edition depiction.
+A mind flayer playing a
+bonethriven
+instrument.
+A mind flayer savoring its latest meal.
+An
+illithid body tamer
+.
+Cover art from the
+Underdark
+sourcebook
+.
+The mind flayer sage
+Sangalor
+.
+Enjoying another drow meal.
+A mind flayer as depicted in
+Adventures in the Forgotten Realms
+.
+Yet another mind flayer.
+An ulitharid feasting.
+Books & Magazine Covers
+[
+]
+A confrontation with a mind flayer.
+Omin Dran
+and his team confronting an illithid.
+The illithids of
+Phanlinksal
+attacking
+Drizzt
+.
+Video Games
+[
+]
+A mind flayer from 3DO's
+Advanced Dungeons & Dragons: Slayer
+(1995)
+.
+A depiction of a mind flayer from
+Warriors of Waterdeep
+.
+A depiction of a mind flayer from
+Sword Coast Legends
+.
+An illithid from
+Neverwinter Nights 2
+.
+A mind flayer from
+Baldur's Gate III
+.
+A bottle of three extracted mindflayer tadpoles.
+Further Reading
+[
+]
+Clifford Horowitz
+(November 2003). “Brain Power”. In
+Chris Thomasson
+ed.
+Dragon
+#313
+(
+Paizo Publishing, LLC
+), p. 46–52.
+External Links
+[
+]
+Disclaimer:
+The views expressed in the following links do not necessarily represent the views of the editors of this wiki, nor does any lore presented necessarily adhere to established canon. Please consider using affiliate links before purchases to support the wiki.
+Mind flayer
+article at the
+Critical Role Wiki
+.
+Mind flayer
+article at the
+Eberron Wiki
+, a wiki for the
+Eberron
+campaign setting.
+Mind flayer
+article at the
+Ravenloft Wiki
+.
+Mind Flayer
+article at the
+Baldur's Gate 3 Community Wiki
+, a community wiki for
+Baldur's Gate 3
+.
+References
+[
+]
+↑
+1.00
+1.01
+1.02
+1.03
+1.04
+1.05
+1.06
+1.07
+1.08
+1.09
+1.10
+1.11
+1.12
+1.13
+1.14
+1.15
+1.16
+1.17
+1.18
+1.19
+Mike Mearls
+,
+Jeremy Crawford
+,
+Christopher Perkins
+(2014-09-30).
+Monster Manual 5th edition
+. Edited by
+Scott Fitzgerald Gray
+. (
+Wizards of the Coast
+), pp. 221–222. ISBN
+978-0786965614
+.
+↑
+2.00
+2.01
+2.02
+2.03
+2.04
+2.05
+2.06
+2.07
+2.08
+2.09
+2.10
+2.11
+2.12
+2.13
+2.14
+2.15
+2.16
+2.17
+2.18
+2.19
+2.20
+2.21
+2.22
+2.23
+2.24
+2.25
+2.26
+2.27
+2.28
+2.29
+2.30
+2.31
+2.32
+2.33
+2.34
+2.35
+2.36
+2.37
+2.38
+2.39
+2.40
+2.41
+2.42
+2.43
+2.44
+2.45
+2.46
+2.47
+Mike Mearls
+,
+et al
+. (November 2016).
+Volo's Guide to Monsters
+. Edited by
+Jeremy Crawford
+,
+et al
+. (
+Wizards of the Coast
+), pp. 71–81. ISBN
+978-0786966011
+.
+↑
+Mike Mearls
+,
+Stephen Schubert
+,
+James Wyatt
+(June 2008).
+Monster Manual 4th edition
+. (
+Wizards of the Coast
+), pp. 188–189. ISBN
+978-0-7869-4852-9
+.
+↑
+4.00
+4.01
+4.02
+4.03
+4.04
+4.05
+4.06
+4.07
+4.08
+4.09
+4.10
+4.11
+4.12
+4.13
+4.14
+4.15
+4.16
+4.17
+4.18
+4.19
+Skip Williams
+,
+Jonathan Tweet
+,
+Monte Cook
+(July 2003).
+Monster Manual v.3.5
+. (
+Wizards of the Coast
+), pp. 186–188. ISBN
+0-7869-2893-X
+.
+↑
+Bruce R. Cordell
+(April 2004).
+Expanded Psionics Handbook
+. (
+Wizards of the Coast
+), p. 204. ISBN
+0-7869-3301-1
+.
+↑
+6.00
+6.01
+6.02
+6.03
+6.04
+6.05
+6.06
+6.07
+6.08
+6.09
+6.10
+6.11
+6.12
+Doug Stewart
+(June 1993).
+Monstrous Manual
+. (
+TSR, Inc
+), p. 251. ISBN
+1-5607-6619-0
+.
+↑
+7.0
+7.1
+7.2
+7.3
+Gary Gygax
+(December 1977).
+Monster Manual, 1st edition
+. (
+TSR, Inc
+), p. 70. ISBN
+0-935696-00-8
+.
+↑
+8.0
+8.1
+8.2
+8.3
+8.4
+8.5
+8.6
+8.7
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), pp. 40–41. ISBN
+0-7869-1206-5
+.
+↑
+Mike Mearls
+,
+Stephen Schubert
+,
+James Wyatt
+(June 2008).
+Monster Manual 4th edition
+. (
+Wizards of the Coast
+), p. 188. ISBN
+978-0-7869-4852-9
+.
+↑
+10.0
+10.1
+10.2
+10.3
+10.4
+10.5
+10.6
+Roger E. Moore
+(October 1983). “The
+Ecology
+of the Mind Flayer”. In
+Kim Mohan
+ed.
+Dragon
+#78
+(
+TSR, Inc.
+), pp. 66–68.
+↑
+Frank Mentzer
+(January 1985). “Ay pronunseeAYshun gyd”. In
+Kim Mohan
+ed.
+Dragon
+#93
+(
+TSR, Inc.
+), p. 26.
+↑
+12.0
+12.1
+12.2
+Owen K.C. Stephens
+(March 2001). “By Any Other Name: Races of the Underdark”. In
+Dave Gross
+ed.
+Dragon
+#281
+(
+Wizards of the Coast
+), pp. 48–49.
+↑
+13.0
+13.1
+13.2
+13.3
+13.4
+Larian Studios
+(October 2020). Designed by
+Swen Vincke
+, et al.
+Baldur's Gate III
+.
+Larian Studios
+.
+↑
+14.0
+14.1
+14.2
+14.3
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), p. 61. ISBN
+0-7869-3657-6
+.
+↑
+15.0
+15.1
+15.2
+15.3
+15.4
+15.5
+15.6
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 7. ISBN
+0-7869-1206-5
+.
+↑
+16.0
+16.1
+16.2
+16.3
+16.4
+16.5
+16.6
+16.7
+16.8
+Rodney Thompson
+,
+Logan Bonner
+,
+Matthew Sernett
+(November 2010).
+Monster Vault
+. Edited by
+Greg Bilsland
+et al
+. (
+Wizards of the Coast
+), pp. 204–207. ISBN
+978-0-7869-5631-9
+.
+↑
+17.0
+17.1
+17.2
+17.3
+17.4
+17.5
+17.6
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 9. ISBN
+0-7869-1206-5
+.
+↑
+18.00
+18.01
+18.02
+18.03
+18.04
+18.05
+18.06
+18.07
+18.08
+18.09
+18.10
+18.11
+18.12
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), p. 62. ISBN
+0-7869-3657-6
+.
+↑
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 112. ISBN
+0-7869-1206-5
+.
+↑
+20.0
+20.1
+20.2
+20.3
+20.4
+20.5
+20.6
+20.7
+20.8
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 8. ISBN
+0-7869-1206-5
+.
+↑
+21.0
+21.1
+21.2
+21.3
+21.4
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 42. ISBN
+0-7869-1206-5
+.
+↑
+22.0
+22.1
+22.2
+22.3
+22.4
+22.5
+22.6
+22.7
+22.8
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), pp. 72–73. ISBN
+0-7869-3657-6
+.
+↑
+23.00
+23.01
+23.02
+23.03
+23.04
+23.05
+23.06
+23.07
+23.08
+23.09
+23.10
+23.11
+23.12
+23.13
+23.14
+23.15
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), pp. 44–45. ISBN
+0-7869-1206-5
+.
+↑
+24.0
+24.1
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), pp. 57–58. ISBN
+0-7869-1206-5
+.
+↑
+25.0
+25.1
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 43. ISBN
+0-7869-1206-5
+.
+↑
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 73. ISBN
+0-7869-1206-5
+.
+↑
+27.0
+27.1
+27.2
+27.3
+27.4
+Jason Carl
+,
+Sean K. Reynolds
+(October 2001).
+Lords of Darkness
+. Edited by
+Michele Carter
+. (
+Wizards of the Coast
+), pp. 157–159. ISBN
+07-8691-989-2
+.
+↑
+28.0
+28.1
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 46. ISBN
+0-7869-1206-5
+.
+↑
+29.0
+29.1
+29.2
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), p. 66. ISBN
+0-7869-3657-6
+.
+↑
+30.0
+30.1
+30.2
+R.A. Salvatore
+(March 2006).
+Exile
+. (
+Wizards of the Coast
+). ISBN
+0-7869-3983-4
+.
+↑
+31.0
+31.1
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), p. 75. ISBN
+0-7869-3657-6
+.
+↑
+32.0
+32.1
+32.2
+32.3
+32.4
+32.5
+32.6
+32.7
+Bruce R. Cordell
+,
+Gwendolyn F.M. Kestrel
+,
+Jeff Quick
+(October 2003).
+Underdark
+. (
+Wizards of the Coast
+), p. 20. ISBN
+0-7869-3053-5
+.
+↑
+33.0
+33.1
+33.2
+33.3
+33.4
+33.5
+33.6
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), pp. 63–64. ISBN
+0-7869-3657-6
+.
+↑
+34.0
+34.1
+34.2
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), p. 81. ISBN
+0-7869-3657-6
+.
+↑
+35.0
+35.1
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), pp. 70–71. ISBN
+0-7869-3657-6
+.
+↑
+Bruce R. Cordell
+,
+Gwendolyn F.M. Kestrel
+,
+Jeff Quick
+(October 2003).
+Underdark
+. (
+Wizards of the Coast
+), p. 137. ISBN
+0-7869-3053-5
+.
+↑
+Skip Williams
+,
+Jonathan Tweet
+,
+Monte Cook
+(July 2003).
+Monster Manual v.3.5
+. (
+Wizards of the Coast
+), p. 188. ISBN
+0-7869-2893-X
+.
+↑
+Bruce R. Cordell
+,
+Gwendolyn F.M. Kestrel
+,
+Jeff Quick
+(October 2003).
+Underdark
+. (
+Wizards of the Coast
+), p. 168. ISBN
+0-7869-3053-5
+.
+↑
+Eric L. Boyd
+(November 1999).
+Drizzt Do'Urden's Guide to the Underdark
+. Edited by
+Jeff Quick
+. (
+TSR, Inc.
+), pp. 22–23. ISBN
+0-7869-1509-9
+.
+↑
+Larian Studios
+(October 2020). Designed by
+Swen Vincke
+, et al.
+Baldur's Gate III
+.
+Larian Studios
+.
+↑
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 40. ISBN
+0-7869-1206-5
+.
+↑
+42.0
+42.1
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), p. 76. ISBN
+0-7869-3657-6
+.
+↑
+43.0
+43.1
+43.2
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), pp. 80–85. ISBN
+0-7869-1206-5
+.
+↑
+Penny Williams
+(June 2003). “Armed to the Tentacle”. In
+Jesse Decker
+ed.
+Dragon
+#308
+(
+Paizo Publishing, LLC
+), pp. 52–60.
+↑
+Jeff Grubb
+(August 1989). “Lorebook of the Void”.
+Spelljammer: AD&D Adventures in Space
+(
+TSR, Inc.
+), p. 61. ISBN
+0-88038-762-9
+.
+↑
+Jeff Grubb
+(August 1989). “Lorebook of the Void”.
+Spelljammer: AD&D Adventures in Space
+(
+TSR, Inc.
+), p. 67. ISBN
+0-88038-762-9
+.
+↑
+47.0
+47.1
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), pp. 67–68. ISBN
+0-7869-3657-6
+.
+↑
+Richard Baker
+,
+James Wyatt
+(March 2004).
+Player's Guide to Faerûn
+. (
+Wizards of the Coast
+), p. 148. ISBN
+0-7869-3134-5
+.
+↑
+49.0
+49.1
+49.2
+49.3
+Bruce R. Cordell
+(April 2004).
+Expanded Psionics Handbook
+. (
+Wizards of the Coast
+), p. 222. ISBN
+0-7869-3301-1
+.
+↑
+Ed Greenwood
+,
+Sean K. Reynolds
+,
+Skip Williams
+,
+Rob Heinsoo
+(June 2001).
+Forgotten Realms Campaign Setting 3rd edition
+. (
+Wizards of the Coast
+), p. 213. ISBN
+0-7869-1836-5
+.
+↑
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 89. ISBN
+0-7869-1206-5
+.
+↑
+Monte Cook
+(December 2, 1997).
+Dead Gods
+. (
+Wizards of the Coast
+), p. 37. ISBN
+978-0786907113
+.
+↑
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 41. ISBN
+0-7869-1206-5
+.
+↑
+Nigel Findley
+(September 1991).
+Into the Void
+. (
+TSR, Inc.
+), p. 147. ISBN
+ISBN 1-56076-154-7
+.
+↑
+Bruce R. Cordell
+(April 2004).
+Expanded Psionics Handbook
+. (
+Wizards of the Coast
+), p. 146. ISBN
+0-7869-3301-1
+.
+↑
+56.0
+56.1
+56.2
+56.3
+56.4
+Mike Mearls
+,
+et al
+. (November 2016).
+Volo's Guide to Monsters
+. Edited by
+Jeremy Crawford
+,
+et al
+. (
+Wizards of the Coast
+), p. 76. ISBN
+978-0786966011
+.
+↑
+Nigel Findley
+(September 1991).
+Into the Void
+. (
+TSR, Inc.
+), p. 148. ISBN
+ISBN 1-56076-154-7
+.
+↑
+Nigel Findley
+(September 1991).
+Into the Void
+. (
+TSR, Inc.
+), p. 69. ISBN
+ISBN 1-56076-154-7
+.
+↑
+59.00
+59.01
+59.02
+59.03
+59.04
+59.05
+59.06
+59.07
+59.08
+59.09
+59.10
+59.11
+59.12
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), p. 74. ISBN
+0-7869-3657-6
+.
+↑
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 70. ISBN
+0-7869-1206-5
+.
+↑
+61.0
+61.1
+61.2
+61.3
+61.4
+61.5
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), pp. 12, 14. ISBN
+0-7869-1206-5
+.
+↑
+Christopher Perkins
+,
+Adam Lee
+,
+Richard Whitters
+(September 1, 2015).
+Out of the Abyss
+. Edited by
+Jeremy Crawford
+. (
+Wizards of the Coast
+), p. 254. ISBN
+978-0-7869-6581-6
+.
+↑
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 12. ISBN
+0-7869-1206-5
+.
+↑
+Nigel Findley
+(September 1991).
+Into the Void
+. (
+TSR, Inc.
+), pp. 91–92. ISBN
+ISBN 1-56076-154-7
+.
+↑
+65.0
+65.1
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), p. 63. ISBN
+0-7869-3657-6
+.
+↑
+Mike Mearls
+,
+et al
+. (November 2016).
+Volo's Guide to Monsters
+. Edited by
+Jeremy Crawford
+,
+et al
+. (
+Wizards of the Coast
+), p. 175. ISBN
+978-0786966011
+.
+↑
+67.0
+67.1
+67.2
+67.3
+Kevin Baase
+,
+Eric Jansing
+,
+Oliver Frank
+, and
+Bill Halliar
+(November 2005).
+“Monsters of the Mind – Minions of the Mindflayers”
+. In
+Erik Mona
+ed.
+Dragon
+#337
+(
+Paizo Publishing
+), pp. 25–35.
+↑
+68.0
+68.1
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 11. ISBN
+0-7869-1206-5
+.
+↑
+69.0
+69.1
+Christopher M. Schwartz
+(January 1999). “The New Illithid Arsenal”. In
+Bill Slavicsek
+ed.
+Dragon
+#255
+(
+TSR, Inc.
+), p. 33.
+↑
+70.0
+70.1
+70.2
+Eric L. Boyd
+(November 1999).
+Drizzt Do'Urden's Guide to the Underdark
+. Edited by
+Jeff Quick
+. (
+TSR, Inc.
+), p. 22. ISBN
+0-7869-1509-9
+.
+↑
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 15. ISBN
+0-7869-1206-5
+.
+↑
+72.0
+72.1
+Richard Baker
+,
+Joseph D. Carriker, Jr.
+,
+Jennifer Clarke Wilkes
+(August 2005).
+Stormwrack
+. Edited by
+John D. Rateliff
+,
+John Thompson
+. (
+Wizards of the Coast
+), pp. 163–164. ISBN
+0-7869-3689-4
+.
+↑
+73.0
+73.1
+Kevin Baase
+,
+Eric Jansing
+,
+Oliver Frank
+, and
+Bill Halliar
+(November 2005).
+“Monsters of the Mind – Minions of the Mindflayers”
+. In
+Erik Mona
+ed.
+Dragon
+#337
+(
+Paizo Publishing
+), p. 25.
+↑
+74.0
+74.1
+Christopher Perkins
+(September 2020).
+Icewind Dale: Rime of the Frostmaiden
+. Edited by
+Kim Mohan
+. (
+Wizards of the Coast
+), pp. 302–303. ISBN
+978-0786966981
+.
+↑
+75.0
+75.1
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 18. ISBN
+0-7869-1206-5
+.
+↑
+Christopher M. Schwartz
+(January 1999). “The New Illithid Arsenal”. In
+Bill Slavicsek
+ed.
+Dragon
+#255
+(
+TSR, Inc.
+), p. 34".
+↑
+Mike Mearls
+,
+et al
+. (November 2016).
+Volo's Guide to Monsters
+. Edited by
+Jeremy Crawford
+,
+et al
+. (
+Wizards of the Coast
+), p. 78. ISBN
+978-0786966011
+.
+↑
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), pp. 17, 88, 92. ISBN
+0-7869-1206-5
+.
+↑
+Eric Cagle
+,
+Jesse Decker
+,
+James Jacobs
+,
+Erik Mona
+,
+Matthew Sernett
+,
+Chris Thomasson
+, and
+James Wyatt
+(April 2003).
+Fiend Folio
+. (
+Wizards of the Coast
+), pp. 85–86. ISBN
+0-7869-2780-1
+.
+↑
+Mike Mearls
+,
+et al
+. (November 2016).
+Volo's Guide to Monsters
+. Edited by
+Jeremy Crawford
+,
+et al
+. (
+Wizards of the Coast
+), p. 133. ISBN
+978-0786966011
+.
+↑
+Mike Mearls
+,
+Jeremy Crawford
+,
+Christopher Perkins
+(2014-09-30).
+Monster Manual 5th edition
+. Edited by
+Scott Fitzgerald Gray
+. (
+Wizards of the Coast
+), p. 191. ISBN
+978-0786965614
+.
+↑
+Kevin Baase
+,
+Eric Jansing
+,
+Oliver Frank
+, and
+Bill Halliar
+(November 2005).
+“Monsters of the Mind – Minions of the Mindflayers”
+. In
+Erik Mona
+ed.
+Dragon
+#337
+(
+Paizo Publishing
+), pp. 29–31.
+↑
+Christopher M. Schwartz
+(January 1999). “The New Illithid Arsenal”. In
+Bill Slavicsek
+ed.
+Dragon
+#255
+(
+TSR, Inc.
+), p. 32".
+↑
+Mike Mearls
+,
+Jeremy Crawford
+(May 29, 2018).
+Mordenkainen's Tome of Foes
+. Edited by
+Kim Mohan
+,
+Michele Carter
+. (
+Wizards of the Coast
+), pp. 217–219. ISBN
+978-0786966240
+.
+↑
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), pp. 154–157. ISBN
+0-7869-3657-6
+.
+↑
+Stephen Inniss
+(October 1989). “
+The Dragon's Bestiary
+: All life crawls where mind flayers rule”. In
+Roger E. Moore
+ed.
+Dragon
+#150
+(
+TSR, Inc.
+), pp. 12–16.
+↑
+87.0
+87.1
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), pp. 160–161. ISBN
+0-7869-3657-6
+.
+↑
+Mike Mearls
+,
+et al
+. (November 2016).
+Volo's Guide to Monsters
+. Edited by
+Jeremy Crawford
+,
+et al
+. (
+Wizards of the Coast
+), pp. 171–172. ISBN
+978-0786966011
+.
+↑
+James Wyatt
+,
+Rob Heinsoo
+(February 2001).
+Monster Compendium: Monsters of Faerûn
+. Edited by
+Duane Maxwell
+. (
+Wizards of the Coast
+), pp. 89–90. ISBN
+0-7869-1832-2
+.
+↑
+90.0
+90.1
+90.2
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), p. 35. ISBN
+0-7869-1206-5
+.
+↑
+Larian Studios
+(October 2020). Designed by
+Swen Vincke
+, et al.
+Baldur's Gate III
+.
+Larian Studios
+.
+↑
+92.0
+92.1
+92.2
+92.3
+Bruce R. Cordell
+(April 1998).
+The Illithiad
+. Edited by
+Keith Francis Strohm
+. (
+TSR, Inc.
+), pp. 36–40. ISBN
+0-7869-1206-5
+.
+↑
+Richard Baker
+,
+James Jacobs
+, and
+Steve Winter
+(April 2005).
+Lords of Madness: The Book of Aberrations
+. (
+Wizards of the Coast
+), pp. 7, 30, 69. ISBN
+0-7869-3657-6
+.
+↑
+Sam Witt
+(1993). “The Astrogator's Guide”. In
+Michele Carter
+ed.
+The Astromundi Cluster
+(
+TSR, Inc.
+), pp. 4–5. ISBN
+1-56076-632-8
+.
+↑
+Sam Witt
+(1993). “Adventures in the Shattered Sphere”. In
+Michele Carter
+ed.
+The Astromundi Cluster
+(
+TSR, Inc.
+), pp. 48–51. ISBN
+1-56076-632-8
+.
+↑
+Jeremy Crawford
+,
+Christopher Perkins
+,
+James Wyatt
+(December 2014).
+Dungeon Master's Guide 5th edition
+. Edited by
+Scott Fitzgerald Gray
+,
+et al
+. (
+Wizards of the Coast
+), p. 68. ISBN
+978-0-7869-6562-5
+.
+↑
+(July 2007).
+Monster Manual V
+. (
+Wizards of the Coast
+), p. 104. ISBN
+0-7869-4115-4
+.
+↑
+Monte Cook
+(January 1996).
+A Guide to the Astral Plane
+. Edited by
+Miranda Horner
+. (
+TSR, Inc.
+), p. 44. ISBN
+0-7869-0438-0
+.
+↑
+Brian R. James
+,
+Ed Greenwood
+(September 2007).
+The Grand History of the Realms
+. Edited by
+Kim Mohan
+,
+Penny Williams
+. (
+Wizards of the Coast
+), p. 14. ISBN
+978-0-7869-4731-7
+.
+↑
+Brian R. James
+,
+Ed Greenwood
+(September 2007).
+The Grand History of the Realms
+. Edited by
+Kim Mohan
+,
+Penny Williams
+. (
+Wizards of the Coast
+), p. 19. ISBN
+978-0-7869-4731-7
+.
+↑
+101.0
+101.1
+Bruce R. Cordell
+,
+Gwendolyn F.M. Kestrel
+,
+Jeff Quick
+(October 2003).
+Underdark
+. (
+Wizards of the Coast
+), pp. 168–169. ISBN
+0-7869-3053-5
+.
+↑
+Brian R. James
+,
+Ed Greenwood
+(September 2007).
+The Grand History of the Realms
+. Edited by
+Kim Mohan
+,
+Penny Williams
+. (
+Wizards of the Coast
+), p. 27. ISBN
+978-0-7869-4731-7
+.
+↑
+Brian R. James
+,
+Ed Greenwood
+(September 2007).
+The Grand History of the Realms
+. Edited by
+Kim Mohan
+,
+Penny Williams
+. (
+Wizards of the Coast
+), p. 34. ISBN
+978-0-7869-4731-7
+.
+↑
+Brian R. James
+,
+Ed Greenwood
+(September 2007).
+The Grand History of the Realms
+. Edited by
+Kim Mohan
+,
+Penny Williams
+. (
+Wizards of the Coast
+), p. 39. ISBN
+978-0-7869-4731-7
+.
+↑
+Brian R. James
+,
+Ed Greenwood
+(September 2007).
+The Grand History of the Realms
+. Edited by
+Kim Mohan
+,
+Penny Williams
+. (
+Wizards of the Coast
+), p. 65. ISBN
+978-0-7869-4731-7
+.
+↑
+Christopher Perkins
+,
+Adam Lee
+,
+Richard Whitters
+(September 1, 2015).
+Out of the Abyss
+. Edited by
+Jeremy Crawford
+. (
+Wizards of the Coast
+), p. 121. ISBN
+978-0-7869-6581-6
+.
+↑
+Brian R. James
+,
+Ed Greenwood
+(September 2007).
+The Grand History of the Realms
+. Edited by
+Kim Mohan
+,
+Penny Williams
+. (
+Wizards of the Coast
+), p. 122. ISBN
+978-0-7869-4731-7
+.
+↑
+Eric L. Boyd
+(November 1999).
+Drizzt Do'Urden's Guide to the Underdark
+. Edited by
+Jeff Quick
+. (
+TSR, Inc.
+), pp. 44–45. ISBN
+0-7869-1509-9
+.
+↑
+Bruce R. Cordell
+,
+Gwendolyn F.M. Kestrel
+,
+Jeff Quick
+(October 2003).
+Underdark
+. (
+Wizards of the Coast
+), p. 135. ISBN
+0-7869-3053-5
+.
+↑
+Brian R. James
+,
+Ed Greenwood
+(September 2007).
+The Grand History of the Realms
+. Edited by
+Kim Mohan
+,
+Penny Williams
+. (
+Wizards of the Coast
+), p. 126. ISBN
+978-0-7869-4731-7
+.
+↑
+Bruce R. Cordell
+,
+Ed Greenwood
+,
+Chris Sims
+(August 2008).
+Forgotten Realms Campaign Guide
+. Edited by
+Jennifer Clarke Wilkes
+,
+et al
+. (
+Wizards of the Coast
+), pp. 232–233. ISBN
+978-0-7869-4924-3
+.
+↑
+Dale "slade" Henson
+(April 1991).
+Realmspace
+. Edited by
+Gary L. Thomas
+,
+Karen S. Boomgarden
+. (
+TSR, Inc
+), p. 39. ISBN
+1-56076-052-4
+.
+↑
+Dale "slade" Henson
+(April 1991).
+Realmspace
+. Edited by
+Gary L. Thomas
+,
+Karen S. Boomgarden
+. (
+TSR, Inc
+), p. 54. ISBN
+1-56076-052-4
+.
+↑
+114.0
+114.1
+Christopher Perkins
+(November 2018).
+Waterdeep: Dungeon of the Mad Mage
+. Edited by
+Jeremy Crawford
+. (
+Wizards of the Coast
+), p. 250. ISBN
+978-0-7869-6626-4
+.
+↑
+(July 2007).
+Monster Manual V
+. (
+Wizards of the Coast
+), p. 125. ISBN
+0-7869-4115-4
+.
+↑
+Lisa Reinke
+(2015-11-01).
+The Malady of Elventree
+(DDEX3-08) (PDF). D&D Adventurers League:
+Rage of Demons
+(
+Wizards of the Coast
+), pp. 15–16, 31.
+↑
+Jim Zub
+(December 2019). “
+Infernal Tides 1
+”.
+Infernal Tides
+#1 (
+IDW Publishing
+) (1)., pp. 1–2.
+↑
+Christopher Perkins
+,
+Adam Lee
+,
+Richard Whitters
+(September 1, 2015).
+Out of the Abyss
+. Edited by
+Jeremy Crawford
+. (
+Wizards of the Coast
+), pp. 29–30. ISBN
+978-0-7869-6581-6
+.
+↑
+R.A. Salvatore
+,
+Michael Leger
+,
+Douglas Niles
+(1992).
+Menzoberranzan (The Houses)
+. Edited by
+Karen S. Boomgarden
+. (
+TSR, Inc
+), p. 18. ISBN
+1-5607-6460-0
+.
+↑
+Christopher Perkins
+,
+James Haeck
+,
+James Introcaso
+,
+Adam Lee
+,
+Matthew Sernett
+(September 2018).
+Waterdeep: Dragon Heist
+. Edited by
+Jeremy Crawford
+. (
+Wizards of the Coast
+), p. 212. ISBN
+978-0-7869-6625-7
+.
+↑
+Elaine Cunningham
+(May 1998).
+Tangled Webs
+. (
+Wizards of the Coast
+), p. 84. ISBN
+0-7869-0698-7
+.
+↑
+R.A. Salvatore
+(October 2000).
+Servant of the Shard
+. (
+Wizards of the Coast
+), pp. 336–337. ISBN
+0-7869-1657-5
+.
+↑
+Christopher Perkins
+,
+Adam Lee
+,
+Richard Whitters
+(September 1, 2015).
+Out of the Abyss
+. Edited by
+Jeremy Crawford
+. (
+Wizards of the Coast
+), pp. 154, 158. ISBN
+978-0-7869-6581-6
+.
+↑
+124.0
+124.1
+Mike Mearls
+,
+et al
+. (November 2016).
+Volo's Guide to Monsters
+. Edited by
+Jeremy Crawford
+,
+et al
+. (
+Wizards of the Coast
+), p. 76. ISBN
+978-0786966011
+.
+Connections
+[
+]
+Mind Flayers
+The Scourge of Worlds
+Alhoon
+•
+Clairvoyant
+•
+Elder brain
+•
+Ulitharid
+•
+Vampiric mind flayer
+Ceremorphs
+Brainstealer dragon
+•
+Gnome ceremorph
+•
+Gnome squidling
+•
+Elder brain dragon
+•
+Illithiderro
+•
+Mindwitness
+•
+Mozgriken
+•
+Tzakandi
+•
+Uchuulon
+•
+Urophion
+•
+Yuan-tillithid
+Related Creatures
+Brain golem
+•
+Cranium rat
+•
+Nyraala golem
+•
+Illithidae
+•
+Illithocyte
+•
+Intellect devourer
+•
+Mind worm
+•
+Neothelid
+•
+Nerve swimmer
+•
+Oblex
+•
+Oortling
+•
+Ustilagor
+
+================================================================================

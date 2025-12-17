@@ -77,7 +77,7 @@ Durante seu reinado uma frota Neogi atacou a cidade, evidentemente sem sucesso. 
 Frun morreu como viveu: doidão, comemorando e celebrando no festival anual no aniversário de seu pai; deixando seus filhos jovens com a tarefa árdua de restaurar os cofres do castelo. 
 
 ### Famiglia Gravanzo
-Quando Cozar tomou controle da cidade, seu maior oponente foi um capitão chamado Gadar Skullbreaker, que acabou emboscado e morto pelo ambicioso príncipe. Mas seus herdeiros sobreviveram, guardando sua fortuna em segredo; e no reino descontrolado de Frun, eles prosperaram sob a liderança de **Gaddario Gravanzo**, o neto de Skullbreaker. Os Gravanzo se tornaram a Famiglia mais poderosa da cidade, abertamente ostentando suas riquezas e desafiando a coroa. Estabelecimentos pagavam impostos ou à coroa, ou à máfia. O arrogante Gaddario tinha certeza que ele mesmo herdaria a cidade. 
+Quando Cozar tomou controle da cidade, seu maior oponente foi um capitão chamado Gravan Skullbreaker, que acabou emboscado e morto pelo ambicioso príncipe. Mas seus herdeiros sobreviveram, guardando sua fortuna em segredo; e no reino descontrolado de Frun, eles prosperaram sob a liderança de **Gaddario Gravanzo**, o neto de Skullbreaker. Os Gravanzo se tornaram a Famiglia mais poderosa da cidade, abertamente ostentando suas riquezas e desafiando a coroa. Estabelecimentos pagavam impostos ou à coroa, ou à máfia. O arrogante Gaddario tinha certeza que ele mesmo herdaria a cidade. 
 
 ## Calar e Andru
 Calar era como o pai; um jovem decadente que foi mimado a vida toda. Quando ele assumiu o trono, a expectativa era que em poucos anos a Casa de Cozar seria reduzida a insignificância. 

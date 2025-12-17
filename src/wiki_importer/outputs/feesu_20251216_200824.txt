@@ -1,0 +1,163 @@
+Title: Feesu
+Source URL: https://spelljammer.fandom.com/wiki/Feesu
+Source Name: Fandom Wiki
+
+================================================================================
+
+Image Candidates (2):
+  1. [infobox] https://static.wikia.nocookie.net/spelljammer/images/e/eb/Feesu.gif/revision/latest/scale-to-width-down/268?cb=20221108204113
+  2. [og] https://static.wikia.nocookie.net/spelljammer/images/e/eb/Feesu.gif/revision/latest?cb=20221108204113
+
+================================================================================
+Content:
+================================================================================
+
+Feesu
+Basic Statistics
+Origin
+Wildspace
+Sphere
+The Known Spheres
+Size
+Small
+Type
+Vermin
+Subtype
+Swarm
+Alignment
+Neutral
+General Information
+Movement
+Flying
+Activity cycle
+Any
+Diet
+Herbivore
+Intelligence
+None
+Favored terrain
+Wildspace
+Appearance
+Average length
+2-feet long
+Distinctions
+Glows with a soft phosphorescent green light
+Feesu
+A
+Feesu
+is a moth-like insect.
+[
+1
+]
+[
+2
+]
+Contents
+1
+Overview
+2
+Description
+3
+Combat
+4
+Habitat
+5
+Ecology
+6
+Appendix
+6.1
+External Links
+6.2
+References
+Overview
+[
+]
+Feesu are large, space-faring moths that travel in large swarms that are a great nuisance to space travellers. Many spelljamming sailors consider them bad luck, with good reason. Though these insects are relatively inoffensive, their constant eerie green glow has been known to attract predators and raiders.
+[
+1
+]
+Description
+[
+]
+A swarm of feesu appear as a mass of giant moths surrounded by a sphere of soft phosphorescent green light. Individual feesu resemble large translucent moths with a soft eerie green glow. Like all moths, feesu are attracted to light.
+[
+1
+]
+Combat
+[
+]
+Feesu are not aggressive, though they can be provoked by repeated attacks against the swarm. Individual moths attack using their tiny jaws which inflict minimal damage. Since a feesu's bodily fluids are phosphorescent, any injuries will glow an eerie green for up to 24 hours.
+Due to their soft bodies, blunt weapons are ineffective against feesu, but edged weapons deel aggravated damage. Feesu are also vulnerable to fire attacks.
+A feesu's most insidious attack is inadvertent: since they require air to survive, their wings are designed to trap and store air. Thus, when a swarm of feesu leave a spelljamming ship, they inadvertently pull away a day's worth of air per feesu that escapes.
+[
+1
+]
+Habitat
+[
+]
+The feesu travel in tightly packed swarms that are surrounded by a thick
+globe of air
+; enough to allow the swarm to survive for up to 10 weeks. They refresh their air supply by swooping down on spelljamming vessels and then flying off.
+The feesu instinctively seek out sources of bright light, perhaps to recharge the phosphorescent glow in their bodily fluids. As a result, the feesu are prone to flying headlong towards any major light source, including blazing
+suns
+. After spending 10 minutes within 5-feet of a bright light source, such as any form of
+light
+spell, lantern, or light-producing magical item, a feesu will be “recharged” for 24 hours.
+While a feesu swarm is recharging, they will glow with the intensity of bright sunlight in a 10-foot radius. If a ship's crew attempts to drive them off, by waving a weapon or shouting, the swarm may take flight and leave. Alternatively, the swarm will fly out of reach and then hover within 120-feet of the light source, until all individual feesu have been recharged, which could take a number of days.
+The problem with a recharging feesu swarm is that it creates a glowing cloud near a ship, which acts as a signal beacon for predatory monsters and raiders. For this reason,
+Pirates of Gith
+and other spacefaring raiders find the feesu useful, since their tell-tale glow often signals the presence of a nearby ship. This may contribute to the superstition that feesu bring bad luck. Curiously, the
+Aperusa
+consider the presence of feesu to be good luck.
+After 24 hours, a feesu's glow slowly fades to a dim flicker within its translucent, sickly-green body. Feesu do not appear to suffer any discomfort if they cannot "recharge" regularly, but a swarm's drive to get to a source of bright light will become fanatical.
+[
+1
+]
+Ecology
+[
+]
+Feesu prefer to lair within small bodies floating in
+wildspace
+, including the shattered hulks of space wrecks. The gravity of larger planets make the feesu uncomfortable, since it inhibits their ability to fly. The feesu lay up to 100 eggs every three months. Though most females lay their eggs within the safety of their lairs, feesu are not particularly picky, occasionally laying eggs in out-of-the-way corners of spelljamming ships.
+The feesu's bodily fluids are sometimes used to create a phosphorescent pigment. When exposed to a strong light source, the paint glows with the intensity of a
+light
+spell for an hour. Spelljammers find this useful when travelling in
+the phlogiston
+.
+Tinker gnomes
+, never known for doing things the easy way, trap feesu in elaborate cages and use the moths themselves for light while in the Flow.
+[
+1
+]
+Appendix
+[
+]
+External Links
+[
+]
+Feesu
+article at the
+Advanced Dungeons & Dragons 2nd Edition Wiki
+, a wiki for official Dungeons & Dragons content from 2nd edition AD&D.
+References
+[
+]
+↑
+1.0
+1.1
+1.2
+1.3
+1.4
+1.5
+John Terra
+,
+MC9 Monstrous Compendium Spelljammer Appendix II
+, 1991, (TSR Inc.),
+Feesu
+entry
+↑
+TSR Trading Card
+#223, 1993, (TSR Inc.),
+Feesu
+
+================================================================================
