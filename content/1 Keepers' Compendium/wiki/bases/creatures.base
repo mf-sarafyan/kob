@@ -5,3 +5,5 @@ views:
       and:
         - type == "creature"
     image: note.image
+    imageFit: contain
+    imageAspectRatio: 1

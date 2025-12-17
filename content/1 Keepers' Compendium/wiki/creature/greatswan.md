@@ -8,12 +8,13 @@ size: Large
 usual_alignment: Chaotic good
 origin: Groundling
 known_locations:
-- sylvan lands dominated by elves
-- wildspace
+  - sylvan lands dominated by elves
+  - wildspace
 appears_in: []
 tags:
-- wiki-import
-image: assets/creatures/greatswan.png
+  - wiki-import
+  - "#mount"
+image: "[[greatswan.png]]"
 ---
 
 ## Overview
