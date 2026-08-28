@@ -4,9 +4,8 @@ from typing import Dict, Any, Optional, List, Tuple
 
 from langchain_core.tools import BaseTool
 from pydantic import BaseModel, Field, ConfigDict
-from langchain_community.vectorstores import FAISS
-
-from src.rag.search import VectorSearchAugmenter
+from src.rag.search import VectorSearchAugmenter, SupportsLexicalSearch
+from src.rag.citations import format_citation_line, format_sourced_text_block
 from src.rag.index import create_rag_index
 from src.rag.graph.main_graph import create_knowledge_graph
 from src.settings import CONTENT_DIR, INDEX_DIR
@@ -97,6 +96,23 @@ class EntityDetailsTool(BaseTool):
             # Entity type
             entity_type = details.get('node_type', 'unknown')
             formatted_lines.append(f"Type: {entity_type}")
+
+            # Source files (wiki / vault paths)
+            content = details.get('content') or {}
+            chunk_list = content.get('content_chunks') or []
+            source_paths = []
+            for ch in chunk_list:
+                fp = ch.get('file_path')
+                if fp and fp not in source_paths:
+                    source_paths.append(fp)
+            node_attrs = details.get('node_attributes') or {}
+            attr_fp = node_attrs.get('file_path')
+            if attr_fp and attr_fp not in source_paths:
+                source_paths.insert(0, attr_fp)
+            if source_paths:
+                formatted_lines.append("\nSources:")
+                for fp in source_paths:
+                    formatted_lines.append(f"  - {fp}")
             
             # Node attributes (if any)
             node_attrs = details.get('node_attributes', {})
@@ -258,10 +274,10 @@ class VectorSearchTool(BaseTool):
     """
     name: str = "vector_search"
     description: str = (
-        "Performs a semantic search across documents, "
-        "returning relevant entities and their context. "
-        "Use this when search_entity doesn't find results or when searching semantically. "
-        "The returned entities can be explored further using entity_details or related_entities tools."
+        "BM25 lexical search across document chunks (strong on names and exact terms). "
+        "Returns relevant entities and their context. "
+        "Use when search_entity doesn't find results or the query contains specific proper nouns. "
+        "Explore hits with entity_details or related_entities."
     )
     
     vector_search_augmenter: VectorSearchAugmenter
@@ -310,6 +326,18 @@ class VectorSearchTool(BaseTool):
                                 break
                         if summary_parts:
                             formatted_lines.append(f"  Info: {summary_parts[0]}")
+                    related = entity.get("related_documents") or []
+                    if related:
+                        formatted_lines.append("  Matching chunks (cite when answering):")
+                        for rd in related:
+                            meta = {
+                                "source": rd.get("source"),
+                                "chunk_id": rd.get("chunk_id"),
+                                "parent_entity": rd.get("parent_entity") or entity_name,
+                            }
+                            formatted_lines.append(
+                                f"    • {format_citation_line(meta, include_full_path=True)}"
+                            )
                 
                 formatted_lines.append("\nYou can explore these entities further using:")
                 formatted_lines.append("- entity_details tool to get comprehensive information")
@@ -321,11 +349,13 @@ class VectorSearchTool(BaseTool):
                 # For documents return type, format as documents
                 formatted_lines = [f"Found {len(results)} relevant documents:\n"]
                 for i, doc in enumerate(results, 1):
-                    source = doc.metadata.get('source', 'unknown')
-                    parent_entity = doc.metadata.get('parent_entity', 'unknown')
-                    formatted_lines.append(f"{i}. Source: {source}")
-                    formatted_lines.append(f"   Entity: {parent_entity}")
-                    formatted_lines.append(f"   Content: {doc.page_content[:200]}...\n")
+                    formatted_lines.append(f"### {i}.")
+                    formatted_lines.append(
+                        format_sourced_text_block(
+                            doc.page_content, dict(doc.metadata), max_chars=280
+                        )
+                    )
+                    formatted_lines.append("")
                 return "\n".join(formatted_lines)
                 
         except Exception as e:
@@ -408,14 +438,14 @@ class GraphSearchTool(BaseTool):
         return self._run(entity_name, max_depth, relationship_types)
 
 def create_search_tools(
-    vector_store: FAISS, 
+    vector_store: SupportsLexicalSearch, 
     graph_builder: ObsidianGraphBuilder,
     top_k: int = 5
 ) -> Tuple[VectorSearchTool, GraphSearchTool]:
     """
-    Create vector and graph search tools
-    
-    :param vector_store: FAISS vector store
+    Create lexical (BM25) and graph search tools
+
+    :param vector_store: Index with similarity_search (e.g. BM25DocumentStore)
     :param graph_builder: Obsidian graph builder
     :param top_k: Number of top results to retrieve
     :return: Tuple of (VectorSearchTool, GraphSearchTool)
@@ -446,7 +476,10 @@ def create_search_tools(
 def get_graph_tools():
     """Return a list of all graph-related tools."""
     # Create RAG index to get vector_store and graph_builder
-    vector_store, graph_builder, _ = create_rag_index(CONTENT_DIR, INDEX_DIR)
+    vector_store, graph_builder, _ = create_rag_index(
+        str(CONTENT_DIR.resolve()),
+        str(INDEX_DIR.resolve()),
+    )
     
     # Create search tools using local create_search_tools function
     vector_search_tool, graph_search_tool = create_search_tools(

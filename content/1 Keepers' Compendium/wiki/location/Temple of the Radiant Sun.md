@@ -9,7 +9,7 @@ image: ""
 # Temple of the Radiant Sun
 
 Templo principal da [[The Church of Pelor]] em Greyhawk. 
-Encabeçado pela Archpriest [[Sarana]].
+Encabeçado pela Archpriest [[0 The Unknowable/wiki/character/Sarana]].
 
 <!-- DYNAMIC:related-entries -->
 

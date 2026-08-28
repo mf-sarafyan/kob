@@ -11,7 +11,6 @@ import umap
 import networkx as nx
 
 from langchain_core.documents import Document
-from langchain_community.vectorstores import FAISS
 
 from .graph.graph_analysis import GraphAnalyzer
 from .graph.graph_builder import ObsidianGraphBuilder
@@ -32,14 +31,14 @@ class RAGAnalyzer:
     
     def __init__(
         self, 
-        vector_store: FAISS, 
+        vector_store: Any, 
         graph_builder: ObsidianGraphBuilder,
         output_dir: str = '.rag_index'
     ):
         """
-        Initialize RAG analyzer with vector store and graph builder
-        
-        :param vector_store: FAISS vector store
+        Initialize RAG analyzer with a retrieval index and graph builder
+
+        :param vector_store: FAISS (embeddings) or BM25DocumentStore; UMAP / correlation need FAISS
         :param graph_builder: Obsidian graph builder
         :param output_dir: Directory to save analysis outputs
         """
@@ -50,7 +49,17 @@ class RAGAnalyzer:
         
         # Ensure output directory exists
         os.makedirs(output_dir, exist_ok=True)
-    
+
+    def _all_index_documents(self) -> List[Document]:
+        vs = self.vector_store
+        if hasattr(vs, "documents"):
+            return list(vs.documents)
+        return list(vs.docstore._dict.values())
+
+    def _is_faiss_vector_store(self) -> bool:
+        vs = self.vector_store
+        return hasattr(vs, "index") and hasattr(vs.index, "reconstruct_n")
+
     def visualize_vector_space(
         self, 
         output_filename: str = 'vector_space_projection.png',
@@ -58,22 +67,32 @@ class RAGAnalyzer:
         min_dist: float = 0.1
     ):
         """
-        Create a 2D visualization of the vector space using UMAP
-        
+        Create a 2D visualization of the vector space using UMAP (FAISS only).
+        For BM25 indices, returns node type counts without generating a plot.
+
         :param output_filename: Name of the output image file
         :param n_neighbors: UMAP parameter for local neighborhood size
         :param min_dist: UMAP parameter for minimum distance between points
         """
+        docs = self._all_index_documents()
+        type_counts: Dict[str, int] = {}
+        for doc in docs:
+            nt = doc.metadata.get("graph_node_type", "unknown")
+            type_counts[nt] = type_counts.get(nt, 0) + 1
+
+        if not self._is_faiss_vector_store():
+            logger.info(
+                "BM25 (lexical) index in use — skipping UMAP embedding plot; returning chunk type counts only."
+            )
+            return type_counts
+
         # Extract embeddings and metadata
         embeddings = self.vector_store.index.reconstruct_n(0, self.vector_store.index.ntotal)
-        
+
         # Prepare lists for visualization
         node_labels = []
         node_types = []
         parent_entities = []
-        
-        # Retrieve documents from the vector store
-        docs = list(self.vector_store.docstore._dict.values())
         
         for doc in docs:
             # Extract labels and metadata
@@ -148,15 +167,10 @@ class RAGAnalyzer:
         logger.info(f"Vector space projection saved to {output_path}")
         logger.info(f"Total Vectors: {len(embeddings)}")
         
-        # Node type distribution
-        type_counts = {}
-        for nt in node_types:
-            type_counts[nt] = type_counts.get(nt, 0) + 1
-        
         logger.info("\nNode Type Distribution:")
         for node_type, count in sorted(type_counts.items(), key=lambda x: x[1], reverse=True):
             logger.info(f"- {node_type}: {count} vectors")
-        
+
         return type_counts
     
     def query_performance_analysis(
@@ -207,6 +221,12 @@ class RAGAnalyzer:
         
         :return: Dictionary of correlation metrics
         """
+        if not self._is_faiss_vector_store():
+            return {
+                "skipped": True,
+                "reason": "Graph–embedding correlation requires a FAISS vector index.",
+            }
+
         # Compute graph centrality measures
         centrality_measures = {
             'degree_centrality': nx.degree_centrality(self.graph_builder.graph),
@@ -281,12 +301,20 @@ class RAGAnalyzer:
         :param output_filename: Name of the output JSON file
         """
         # Collect analysis data
+        vs_meta: Dict[str, Any]
+        if self._is_faiss_vector_store():
+            vs_meta = {
+                "total_vectors": self.vector_store.index.ntotal,
+                "vector_dimension": self.vector_store.index.d,
+            }
+        else:
+            vs_meta = {
+                "index_type": "bm25",
+                "total_chunks": len(self._all_index_documents()),
+            }
+        vs_meta["node_type_distribution"] = self.visualize_vector_space()
         report = {
-            'vector_space': {
-                'total_vectors': self.vector_store.index.ntotal,
-                'vector_dimension': self.vector_store.index.d,
-                'node_type_distribution': self.visualize_vector_space()
-            },
+            'vector_space': vs_meta,
             'graph_structure': {
                 'total_nodes': len(self.graph_builder.graph.nodes),
                 'total_edges': len(self.graph_builder.graph.edges),

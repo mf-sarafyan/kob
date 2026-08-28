@@ -68,7 +68,10 @@ def write_note(
     note_dir = settings.paths.notes_by_type.get(entry_type, settings.paths.notes_by_type["entry"])
     ensure_dir(note_dir)
     
-    base_filename = slugify(title)
+    # Slugify and then capitalize each word (separated by hyphens)
+    slugified = slugify(title)
+    # Capitalize each word in the slugified filename
+    base_filename = "-".join(word.capitalize() for word in slugified.split("-"))
     out = note_dir / f"{base_filename}.md"
     
     # If file already exists, append "- wiki import" to avoid overwriting

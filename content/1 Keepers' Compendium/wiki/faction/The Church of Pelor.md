@@ -4,7 +4,7 @@ parent: []
 location: "[[Greyhawk]]"
 faction_type: Church
 alignment: Lawful Good
-leader: "[[Sarana]]"
+leader: "[[0 The Unknowable/wiki/character/Sarana]]"
 appears_in:
   - "[[The Feather of Zariel]]"
 ---

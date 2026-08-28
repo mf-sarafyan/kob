@@ -5,11 +5,11 @@ source: Spelljammer Wiki
 source_url: https://spelljammer.fandom.com/wiki/Unhuman_Wars
 entry_type: war
 relates_to:
-- Goblinoids
-- Elven Imperial Navy
-- Spelljammer
+  - Goblinoids
+  - Spelljammer
+  - "[[Elven Imperial Navy]]"
 tags:
-- wiki-import
+  - wiki-import
 image: assets/entry/unhuman-wars.png
 ---
 

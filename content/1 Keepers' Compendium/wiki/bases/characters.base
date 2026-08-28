@@ -29,3 +29,14 @@ views:
     image: note.image
     imageAspectRatio: 1.2
     imageFit: ""
+  - type: cards
+    name: Bral
+    filters:
+      and:
+        - known_locations == link("The Rock of Bral", "Bral")
+    order:
+      - file.name
+      - factions
+      - race
+      - class
+    image: note.image

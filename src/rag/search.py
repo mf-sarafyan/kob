@@ -1,13 +1,15 @@
 import os
 import logging
-from typing import List, Dict, Any, Optional, Tuple
+from typing import List, Dict, Any, Optional, Tuple, Protocol
 
-import networkx as nx
 from langchain_core.documents import Document
-from langchain_community.vectorstores import FAISS
 
 from .graph.graph_builder import ObsidianGraphBuilder
 from .graph.graph_analysis import GraphAnalyzer
+
+
+class SupportsLexicalSearch(Protocol):
+    def similarity_search(self, query: str, k: int = 4) -> List[Document]: ...
 
 # Configure logging
 logging.basicConfig(
@@ -18,19 +20,19 @@ logger = logging.getLogger(__name__)
 
 class VectorSearchAugmenter:
     """
-    A tool that performs vector search and augments results with graph context
+    Lexical / BM25 search over chunks, augmented with graph context (name kept for tool compatibility).
     """
     
     def __init__(
         self, 
-        vector_store: FAISS, 
+        vector_store: SupportsLexicalSearch, 
         graph_builder: ObsidianGraphBuilder,
         top_k: int = 5
     ):
         """
-        Initialize the Vector Search Augmenter
-        
-        :param vector_store: FAISS vector store
+        Initialize the search augmenter
+
+        :param vector_store: Index with similarity_search (e.g. BM25DocumentStore or FAISS)
         :param graph_builder: Obsidian graph builder
         :param top_k: Number of top results to retrieve
         """
@@ -51,7 +53,6 @@ class VectorSearchAugmenter:
         :param return_type: 'entities' or 'documents'
         :return: List of entities or documents
         """
-        # Perform vector similarity search
         docs = self.vector_store.similarity_search(query, k=self.top_k)
         
         # Collect unique parent entities
@@ -84,7 +85,8 @@ class VectorSearchAugmenter:
                     entity_details[parent_entity]['related_documents'].append({
                         'content': doc.page_content,
                         'source': doc.metadata.get('source', 'unknown'),
-                        'chunk_id': doc.metadata.get('chunk_id', -1)
+                        'chunk_id': doc.metadata.get('chunk_id', -1),
+                        'parent_entity': parent_entity,
                     })
         
         # Return based on return type
@@ -110,6 +112,6 @@ if __name__ == '__main__':
     )
     
     # Example usage
-    print("=== Vector Search Example ===")
+    print("=== BM25 Search Example ===")
     vector_results = vector_search_augmenter.search("Where is the rock of Bral?")
     print(vector_results)

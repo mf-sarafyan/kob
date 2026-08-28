@@ -35,6 +35,10 @@ class ToolAugmenterAgent:
     Tool-calling agent that uses available tools to augment context for queries.
     Replaces the three-step structure (search -> expand -> summarize) with a single
     agent that dynamically decides which tools to use.
+
+    The same capabilities are also exposed as MCP servers (for Cursor, Claude Desktop, etc.):
+    ``python -m src.mcp_servers.server_kob`` (campaign vault) and
+    ``python -m src.mcp_servers.server_phb`` (Player's Handbook).
     """
     
     def __init__(
@@ -124,7 +128,7 @@ class ToolAugmenterAgent:
             "- entity_details: Get the FULL content and attributes for a specific entity (no truncation). Use this when you need to read the entity's content.\n"
             "- entity_connections: Get all connections (relationships) for a specific entity. Shows which entities are connected and how. Use this to discover related entities.\n"
             "- related_entities: Find entities related to a given entity with detailed relationship information and multi-hop exploration (use with entity names from search results)\n"
-            "- vector_search: Perform semantic search across documents. Returns entity names that can be explored just like search_entity results.\n"
+            "- vector_search: BM25 lexical search across documents (good for names and keywords). Returns entity names that can be explored just like search_entity results.\n"
             "- graph_search: Explore graph connections for an entity (use with entity names from search results)\n\n"
             
             "Answering Strategy:\n"
@@ -181,6 +185,7 @@ class ToolAugmenterAgent:
             "- Base your answer ONLY on information retrieved from the knowledge base - never make up information\n"
             "- If information is missing or incomplete, acknowledge it in your answer\n"
             "- When multiple sources provide information, synthesize them into a coherent answer\n"
+            "- When tools return sources (file paths, note names, chunk ids, or PHB page numbers), mention them in your answer so the user can verify\n"
             "- Be specific to this campaign - avoid generic D&D knowledge unless verified in the knowledge base\n\n"
             
             "Remember: Your goal is to answer the query as well as possible using ONLY information from the knowledge base. "

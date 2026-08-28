@@ -21,6 +21,7 @@ from langchain_core.tools import Tool
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 
 from .graph import ObsidianGraphBuilder
+from .citations import format_sourced_text_block
 from src.settings import CONTENT_DIR
 
 # Configure logging
@@ -340,10 +341,11 @@ def make_graph_rag_chain(
     
     Response Guidelines:
     1. Use the initial context as your primary source of information
-    2. If the context is insufficient, explain what additional information you need
-    3. Be precise, concise, and helpful
-    4. If you request graph exploration, clearly state WHY and use the graph_exploration_tool
-    5. You have access to a graph_exploration_tool to retrieve additional context
+    2. Each context block begins with "Source:" — mention those sources when you use facts from them
+    3. If the context is insufficient, explain what additional information you need
+    4. Be precise, concise, and helpful
+    5. If you request graph exploration, clearly state WHY and use the graph_exploration_tool
+    6. You have access to a graph_exploration_tool to retrieve additional context
     
     Available Tools:
     - graph_exploration_tool: Explore detailed context of a specific entity
@@ -357,8 +359,11 @@ def make_graph_rag_chain(
             # Retrieve initial documents
             docs = retrieve_with_graph(inputs["query"])
             
-            # Prepare initial context
-            context = "\n\n".join(doc.page_content for doc in docs)
+            # Prepare initial context (each chunk labeled with Source: …)
+            context = "\n\n---\n\n".join(
+                format_sourced_text_block(doc.page_content, dict(doc.metadata), max_chars=None)
+                for doc in docs
+            )
             
             # Generate graph exploration guidance
             graph_exploration_guidance = generate_graph_exploration_prompt(
@@ -549,7 +554,10 @@ def create_graph_exploration_agent(
         try:
             # Perform vector search
             docs = vector_store.similarity_search(query, k=top_k)
-            return "\n\n".join([doc.page_content for doc in docs])
+            return "\n\n---\n\n".join(
+                format_sourced_text_block(doc.page_content, dict(doc.metadata), max_chars=None)
+                for doc in docs
+            )
         except Exception as e:
             logger.warning(f"Vector search error: {e}")
             return "No vector context available."
@@ -564,7 +572,7 @@ def create_graph_exploration_agent(
         Tool(
             name="vector_context",
             func=vector_context_retriever,
-            description="Secondary context retrieval using vector similarity search. Use only if graph context is insufficient."
+            description="Secondary context retrieval using BM25 lexical search. Use only if graph context is insufficient."
         ),
         graph_exploration_tool
     ]
@@ -585,14 +593,15 @@ Reasoning Strategy (Graph-First Approach):
 
 Available Tools:
 - graph_context: Primary context from knowledge graph
-- vector_context: Secondary vector-based search
+- vector_context: Secondary BM25 lexical search
 - graph_exploration_tool: Detailed entity exploration
 
 Response Guidelines:
 - Prioritize graph-based knowledge
+- When you use facts from vector_context, each excerpt is labeled with "Source:" — repeat that source in your answer
 - Be precise and concise
 - Explain your reasoning process
-- Only use vector search if graph context is truly insufficient
+- Only use BM25 search if graph context is truly insufficient
 """),
         MessagesPlaceholder(variable_name="chat_history", optional=True),
         ("human", """Query: {query}

@@ -8,7 +8,7 @@ image: ""
 ---
 # Gizmos Workshop
 
-[[Gizmo|Gizmo]] - Workshop : Sem nome. [[Wizpop]] trabalha, plus um Giff. Soffiera. Mascara de solda e avental de couro. Vendem pra todos - especialmente Cinders. [[Kurrzot]] carrega coisas.
+[[Gizmo|Gizmo]] - Workshop : Sem nome. [[Wizpop]] trabalha, plus um Giff. Soffiera. Mascara de solda e avental de couro. Vendem pra todos - especialmente Cinders. [[kob/content/1 Keepers' Compendium/wiki/character/Kurrzot]] carrega coisas.
 
 <!-- DYNAMIC:related-entries -->
 

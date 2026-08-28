@@ -1,7 +1,7 @@
 ---
 type: location
 location_type: Continent
-parent: "[[Fernspace]]"
+parent: "[[kob/content/1 Keepers' Compendium/wiki/location/Fernspace]]"
 appears_in: []
 image: ""
 ---

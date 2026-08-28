@@ -6,7 +6,6 @@ import networkx as nx
 import json
 
 from langchain_core.documents import Document
-from langchain_community.vectorstores import FAISS
 
 # Try modern import first, fallback to older import
 try:
@@ -15,6 +14,7 @@ except ImportError:
     from langchain_community.embeddings import OpenAIEmbeddings
 
 from .graph.graph_builder import create_graph_rag_index
+from .bm25_store import build_or_load_bm25
 
 # Try to import secrets, fallback to environment variable
 try:
@@ -53,65 +53,6 @@ def create_openrouter_embeddings(model: str, api_key: Optional[str] = None):
         }
     )
 
-def build_or_load_faiss(chunks: List, index_dir: str, embed_model: str, api_key: Optional[str] = None):
-    """
-    Build or load a FAISS vector store
-    
-    :param chunks: List of document chunks
-    :param index_dir: Directory to store/load index
-    :param embed_model: Embedding model to use (OpenRouter model identifier)
-    :param api_key: OpenRouter API key (defaults to OPENROUTER_API_KEY from secrets or env)
-    :return: FAISS vector store
-    """
-    # Ensure index directory exists
-    os.makedirs(index_dir, exist_ok=True)
-    
-    # Path for vector store
-    faiss_index_path = os.path.join(index_dir, 'faiss_index')
-    
-    # Create embeddings instance (needed for both loading and creating)
-    embedding = create_openrouter_embeddings(model=embed_model, api_key=api_key)
-    
-    # Check if index already exists
-    if os.path.exists(faiss_index_path):
-        print("Loading existing FAISS index...")
-        
-        # Load the vector store
-        vector_store = FAISS.load_local(faiss_index_path, embedding, allow_dangerous_deserialization=True)
-        
-        return vector_store
-    
-    # Create embeddings
-    print(f"Creating new FAISS index with {embed_model} embeddings...")
-    
-    # Validate and prepare chunks
-    validated_chunks = []
-    for chunk in chunks:
-        # Ensure each chunk has a complete metadata dictionary
-        if not hasattr(chunk, 'metadata') or not isinstance(chunk.metadata, dict):
-            chunk.metadata = {}
-        
-        # Ensure critical metadata keys exist
-        metadata_keys = [
-            'graph_node_type', 
-            'parent_entity', 
-            'source', 
-            'chunk_id'
-        ]
-        for key in metadata_keys:
-            if key not in chunk.metadata:
-                chunk.metadata[key] = 'unknown'
-        
-        validated_chunks.append(chunk)
-    
-    # Build vector store with validated chunks
-    vector_store = FAISS.from_documents(validated_chunks, embedding)
-    
-    # Save the index
-    vector_store.save_local(faiss_index_path)
-    
-    return vector_store
-
 def create_rag_index(
     content_dir: str, 
     index_dir: str, 
@@ -121,15 +62,15 @@ def create_rag_index(
     api_key: Optional[str] = None
 ):
     """
-    Create a comprehensive RAG index with vector and graph components
-    
+    Create a comprehensive RAG index with BM25 lexical retrieval and graph components.
+
     :param content_dir: Directory containing content
     :param index_dir: Directory to store index
     :param chunk_size: Size of text chunks
     :param chunk_overlap: Overlap between chunks
-    :param embed_model: OpenRouter embedding model identifier (e.g., "snowflake/snowflake-arctic-embed-l-v2.0")
-    :param api_key: OpenRouter API key (defaults to OPENROUTER_API_KEY from secrets or env)
-    :return: Tuple of (vector_store, graph_builder, graph_path)
+    :param embed_model: Unused; kept for backward compatibility with callers
+    :param api_key: Unused; kept for backward compatibility with callers
+    :return: Tuple of (document_store, graph_builder, graph_path) — document_store exposes similarity_search like FAISS
     """
     # Ensure index directory exists
     os.makedirs(index_dir, exist_ok=True)
@@ -166,8 +107,8 @@ def create_rag_index(
             
             content_chunks.append(doc)
     
-    # Create vector store
-    vector_store = build_or_load_faiss(content_chunks, index_dir, embed_model, api_key=api_key)
+    # Lexical BM25 index (stronger exact / proper-noun matching than embedding similarity)
+    vector_store = build_or_load_bm25(content_chunks, index_dir)
     
     # Export graph path for later use
     graph_path = os.path.join(index_dir, 'campaign_graph.json')
