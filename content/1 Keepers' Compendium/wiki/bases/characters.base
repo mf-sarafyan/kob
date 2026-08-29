@@ -39,4 +39,5 @@ views:
       - factions
       - race
       - class
+      - file.path
     image: note.image
