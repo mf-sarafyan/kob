@@ -1,6 +1,6 @@
 ---
 type: location
-location_type: Sphere
+location_type: Crystal Sphere
 parent:
   - "[[The Phlogiston]]"
 appears_in: []
