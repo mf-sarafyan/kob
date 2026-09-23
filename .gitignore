@@ -8,9 +8,11 @@ private/
 *.pdf
 .tmp*
 
-# Python / RAG (tooling lives in DNDRAG repo)
+# Python / wiki import tooling
 .venv/
 .rag_index/
 __pycache__/
 *.pyc
 debug.log
+src/secrets.py
+src/wiki_importer/outputs/

@@ -1,0 +1,116 @@
+{
+  "total": 22,
+  "successful": [
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Airslug",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\airslug.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Gullion",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\gullion.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Q%27nidar",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\qnidar.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Rogue_moon",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\rogue-moon.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Unhuman_Wars",
+      "type": "entry",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\entry\\unhuman-wars.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Meteorspawn",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\meteorspawn.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Lhee",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\lhee.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Lumineaux",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\lumineaux.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Jammer_leech",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\jammer-leech.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/K%27r%27r%27r",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\krrr.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Krajen",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\krajen.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Infinity_vine",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\infinity-vine.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Horg",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\horg.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Greatswan",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\greatswan.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Gonn",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\gonn.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Gossamer",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\gossamer.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Gravislayer",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\gravislayer.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Great_Dreamer",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\great-dreamer.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Fractine",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\fractine.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Flow_barnacle",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\flow-barnacle.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Feesu",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\feesu.md"
+    },
+    {
+      "url": "https://spelljammer.fandom.com/wiki/Delphinid",
+      "type": "creature",
+      "output": "D:\\DnD\\1 - Campaign - THE KEEPERS\\kob\\content\\1 Keepers' Compendium\\wiki\\creature\\delphinid.md"
+    }
+  ],
+  "failed": []
+}
