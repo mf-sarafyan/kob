@@ -45,6 +45,18 @@ Pronto, vc tem botões pra dar pull e push. Eu uso ctrl+alt+shift+enter pra push
 
 ---
 
-# LLM / RAG tooling
+# Wiki import (Fandom → compendium)
 
-RAG chat, wiki importer, knowledge graph, and MCP servers moved to the separate **[DNDRAG](https://github.com/mf-sarafyan/DNDRAG)** repo. Point DNDRAG at this repo's `content/` folder when running locally.
+Imports external wiki pages into `content/1 Keepers' Compendium/wiki/`.
+
+```bash
+pip install -r requirements.txt
+copy src\secrets.example.py src\secrets.py   # add OpenRouter API key
+python -m src.wiki_importer.import_complete <url> --type creature
+```
+
+See `src/wiki_importer/README.md` for batch import and step-by-step commands.
+
+# LLM / RAG agents
+
+RAG chat, knowledge graph, and MCP servers live in **[DNDRAG](https://github.com/mf-sarafyan/DNDRAG)**. Point DNDRAG at this repo's `content/` folder when running locally.

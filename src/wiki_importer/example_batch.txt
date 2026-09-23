@@ -1,0 +1,7 @@
+# Batch import file - one entry per line: url|type
+# Lines starting with # are ignored
+
+https://spelljammer.fandom.com/wiki/Airslug|creature
+https://spelljammer.fandom.com/wiki/Bral|location
+https://forgottenrealms.fandom.com/wiki/Mind_flayer|creature
+
