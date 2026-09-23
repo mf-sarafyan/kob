@@ -8,22 +8,9 @@ private/
 *.pdf
 .tmp*
 
-# RAG Chatbot artifacts
+# Python / RAG (tooling lives in DNDRAG repo)
 .venv/
 .rag_index/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.Python
-*.so
-.coverage
-.pytest_cache/
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Secrets and API keys
-src/secrets.py
-.env
-*.env
+debug.log
