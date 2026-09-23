@@ -1,14 +1,14 @@
 ---
 type: location
-location_type: Crystal Sphere
+location_type: Shop
 parent:
-  - "[[The Phlogiston]]"
+  - "[[The Red Spiral]]"
 appears_in: []
-image: "[[Greyspace-2e.jpg]]"
+image: ""
 ---
-# Greyspace
+# Capelli Per Tutti
 
-![[Greyspace-2e.jpg]]
+A little boutique tucked away near the [[The Red Spiral|Red Spiral]], run by [[Edvina Tagliatelli]]. Specialized in exotic head anatomy — cuts, styling, and fittings for horns, crests, tentacles, and other non-standard cranial features. *Hair for everyone.*
 
 <!-- DYNAMIC:related-entries -->
 
