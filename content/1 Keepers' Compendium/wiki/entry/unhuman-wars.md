@@ -1,5 +1,7 @@
 ---
 title: Unhuman Wars
+aliases:
+  - Inhuman Wars
 type: entry
 source: Spelljammer Wiki
 source_url: https://spelljammer.fandom.com/wiki/Unhuman_Wars
@@ -8,6 +10,13 @@ relates_to:
   - Goblinoids
   - Spelljammer
   - "[[Elven Imperial Navy]]"
+  - "[[Khanspace]]"
+  - "[[Gobbspace]]"
+  - "[[The Great Khanate]]"
+  - "[[Survivor Khanates]]"
+  - "[[Scro]]"
+  - "[[Goblinoid Chieftains]]"
+  - "[[Grand Goblin Assembly]]"
 tags:
   - wiki-import
 image: assets/entry/unhuman-wars.png
@@ -16,7 +25,7 @@ image: assets/entry/unhuman-wars.png
 ## Overview
 
 ## Description
-The Unhuman Wars were significant conflicts between various goblinoid fleets and the Elven Imperial Navy within the Spelljammer campaign setting. The wars marked a critical moment in history, consolidating the Elven Navy's dominance in wildspace for centuries.
+The Unhuman Wars were significant conflicts between various goblinoid and orcish fleets and the [[Elven Imperial Navy]] within Wildspace. The wars marked a critical moment in history, consolidating the Elven Navy's dominance for centuries — including the destruction of the [[The Great Khanate|Great Khanate]] in [[Khanspace]] and the spelljamming ban imposed on [[Gobbspace]].
 
 ## History
 The First Unhuman War began due to persistent goblinoid raids on elven and human communities, prompting the Elven Fleet to declare total war against them. It led to significant battles, including the pivotal Battle of Kule, where the elves decisively defeated a goblinoid fleet.
